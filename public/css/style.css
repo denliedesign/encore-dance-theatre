@@ -1,0 +1,525 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+    overflow-x: unset;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.head {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: #0092BC;
+    color: #fbfdff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.head-white {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+#vision-head {
+    margin-top: -6px;
+}
+
+.head-video {
+    height: auto;
+    width: 100%;
+    z-index: 0;
+}
+
+.navbar-dark,
+.bg-dark,
+.dropdown-menu {
+    background: #16171c !important;
+    color: white;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.nav-item {
+    margin: 0 20px;
+}
+
+.navbar-brand img {
+    width: 100px;
+    height: auto;
+    -webkit-transition: -webkit-transform 0.3s ease;
+    transition: -webkit-transform 0.3s ease;
+    transition: transform 0.3s ease;
+    transition: transform 0.3s ease, -webkit-transform 0.3s ease;
+}
+
+.navbar-brand img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.nav-item a {
+    background: -webkit-gradient(linear, left top, left bottom, from(#0092BC), to(#0092BC)) left no-repeat, #fbfdff;
+    background: linear-gradient(#0092BC, #0092BC) left no-repeat, #fbfdff;
+    background-size: 0% 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-transition: 1s;
+    transition: 1s;
+}
+
+.nav-item a:hover {
+    background-size: 100% 100%;
+}
+
+.btn-outline-primary {
+    color: white;
+    border: 2px solid #0092BC;
+    text-transform: uppercase;
+    font-size: 2.5em;
+    font-weight: bold;
+    line-height: normal;
+    padding: 10px 30px;
+}
+
+.btn-outline-primary:hover {
+    background: #0092BC;
+}
+
+.btn-primary {
+    background: #0092BC !important;
+}
+
+#encore-btn {
+    font-size: 2em;
+}
+
+.tri-overlay {
+    position: relative;
+    background: rgb(0, 0, 0);
+}
+
+.tri-wrap img {
+    -webkit-filter: opacity(0.65) brightness(65%);
+    filter: opacity(0.65) brightness(65%);
+}
+
+.tri-txt {
+    position: absolute;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+    text-transform: uppercase;
+    color: white;
+    font-size: 2.5em;
+    top: 10%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.tri-plus {
+    position: absolute;
+    color: white;
+    background: transparent;
+    z-index: 4;
+    top: 60%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+}
+
+.tri-plus:hover {
+    color: white;
+}
+
+
+#collapseMission,
+#collapseValues,
+#collapseExpertise {
+    position: absolute;
+    z-index: 3;
+    top: 80%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#collapseMission button,
+#collapseValues button,
+#collapseExpertise button {
+    font-size: 1.5em;
+    font-family: 'Lato', sans-serif;
+}
+
+#collapseMission a,
+#collapseValues a,
+#collapseExpertise a {
+    color: white;
+    text-decoration: none;
+}
+
+.carousel {
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+.carousel-text {
+    background: #0092BC;
+    width: auto;
+    height: auto;
+    padding: 40px;
+    border-radius: 20px;
+    position: absolute;
+    color: white;
+    top: 55vh;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(50%, 50%);
+}
+
+.carousel-text h5 {
+    font-size: 2.25em;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+#carouselTestimonial {
+    font-family: 'PT Sans', sans-serif;
+    font-style: italic;
+    font-size: 1.5em;
+    line-height: 2.5;
+    height: 100vh;
+    background-image: -webkit-gradient(linear, right top, left bottom, from(rgba(0, 146, 188, 1)), to(rgba(22, 23, 28, 1)));
+    background-image: linear-gradient(to bottom left, rgba(0, 146, 188, 1), rgba(22, 23, 28, 1));
+}
+
+#carouselTestimonial .carousel-inner {
+    color: white;
+    top: 25%;
+}
+
+#carouselTestimonial p {
+    font-style: normal;
+    font-weight: bold;
+    text-shadow: none;
+    font-size: 0.8em;
+}
+
+/*--------------------------------*/
+/*INFINITE PHOTO BANNER*/
+/*-------------------------------*/
+.insta-section {
+    background: #16171c;
+    /*-webkit-transform: skewY(3deg);
+    transform: skewY(3deg);
+    padding: 50px 0;
+    margin: 50px 0;*/
+}
+
+.photobanner {
+    height: 350px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    /*margin-top: 50px;*/
+    /*-webkit-transform: skewY(-3deg);
+    transform: skewY(-3deg);*/
+}
+
+.photobanner img {
+    width: 350px;
+    height: 350px;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+
+.photobanner img:hover {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    -webkit-box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+.first-img {
+    animation: bannermove 45s linear infinite;
+    -webkit-animation: bannermove 45s linear infinite;
+    -moz-animation: bannermove 45s linear infinite;
+    -ms-animation: bannermove 45s linear infinite;
+    -o-animation: bannermove 45s linear infinite;
+}
+
+@keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+
+    100% {
+        margin-left: -2850px;
+    }
+}
+
+@-webkit-keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+
+    100% {
+        margin-left: -2850px;
+    }
+}
+
+/** END OF PHOTO BANNER SECTION **/
+
+/** footer original styling **/
+
+#footer {
+    background: #16171c;
+    color: #9294a1;
+    font-size: 0.75em;
+}
+
+.footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+.footer div {
+    padding: 30px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #9294a1;
+}
+
+#socials {
+    font-size: 2em;
+}
+
+#socials a {
+    margin: 0 10px;
+}
+
+#socials a:hover {
+    color: #0092BC;
+}
+
+/** end of footer styling **/
+
+/*******************************************************/
+/*******************MISSION PAGE************************/
+/*******************************************************/
+.team-bg-wrap {
+    height: 600px;
+}
+
+.performance-bg {
+    background: url("/images/performance.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.competitive-bg {
+    background: url("/images/competitive.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.choose-bg {
+    background: url("/images/about-edt.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+.mission-bg {
+    background: url("/images/mission-statement.jpg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#values {
+    background: #9b9b9b;
+    padding: 75px 0;
+}
+
+/* kid class grid original styling */
+
+.kid-class-txt,
+.kid-class-check {
+    padding: 0;
+    background: #fbfdff;
+}
+
+.kid-class-item {
+    background: #fbfdff;
+    border: 2px solid #0092BC;
+    margin: 12px 0;
+}
+
+.kid-class-item .checkmarked {
+    color: #fbfdff;
+    background: #0092BC;
+    font-size: 50px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+
+.kid-class-item p {
+    color: #16171c;
+    background: #fbfdff;
+    font-size: 120%;
+    margin: 0;
+    text-align: center;
+}
+
+/* end of kid class grid */
+
+/*******************************************************/
+/*******************STAFF PAGE************************/
+/*******************************************************/
+
+.headshot-anne {
+    height: 275px;
+    width: 275px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.headshot-anne img,
+.headshot img {
+    height: auto;
+    width: 100%;
+}
+
+.headshot {
+    height: 175px;
+    width: 175px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.faculty-bio .card {
+    background: #0092bc;
+}
+
+.faculty-card-header {
+    padding: 5px 0;
+}
+
+.faculty-bio button {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.9em;
+    padding: 0;
+    text-decoration: none;
+}
+
+.faculty-bio button:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.faculty-bio-txt {
+    background: white;
+    color: black;
+    font-size: 1.25em;
+}
+
+.faculty-bio-txt:hover > .faculty-bio button {
+    text-decoration: none;
+}
+
+/*******************************************************/
+/*******************CLASSES PAGE************************/
+/*******************************************************/
+#classesAccordion .card {
+    background: black;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+}
+
+#classesAccordion button {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 0;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+#classesAccordion .card-body {
+    color: white;
+    font-size: 16px;
+}
+
+#twinkle-small-txt {
+    font-size: 0.9em;
+}
+
+/*******************************************************/
+/*******************OTHER PAGES************************/
+/*******************************************************/
+
+#what-to-wear {
+    font-size: 1.25em;
+}
+
+#what-to-wear span {
+    font-size: 1.5em;
+    font-weight: bold;
+    background: #16171c;
+    color: white;
+    padding: 10px 20px;
+    display: block;
+    width: -moz-max-content;
+    width: -webkit-max-content;
+    width: max-content;
+}
+
+.business-outer-box {
+    background: -webkit-gradient(linear, right top, left top, from(#fbfdff), to(#9b9b9b));
+    background: linear-gradient(to left, #fbfdff, #9b9b9b);
+}
+
+.business-inner-box {
+    padding: 15px;
+    margin: 30px;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background: #fbfdff;
+    font-size: 1.25em;
+}
+
+#trial-img {
+    height: 400px;
+    overflow: hidden;
+}
