@@ -8,7 +8,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/ballet.jpg" alt="">
+                    <img src="images/Ballet.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseBallet" aria-expanded="true" aria-controls="collapseOne">
