@@ -28,7 +28,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/tap.jpg" alt="">
+                    <img src="images/Tap.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTap" aria-expanded="true" aria-controls="collapseOne">
@@ -49,7 +49,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/twinkle.jpg" alt="">
+                    <img src="images/Twinkle.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwinkle" aria-expanded="true" aria-controls="collapseOne">
@@ -71,7 +71,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/contemporary.jpg" alt="">
+                    <img src="images/Contemporary.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseContemporary" aria-expanded="true" aria-controls="collapseOne">
@@ -92,7 +92,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/jazz.jpg" alt="">
+                    <img src="images/Jazz.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseJazz" aria-expanded="true" aria-controls="collapseOne">
@@ -134,7 +134,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/acro.jpg" alt="">
+                    <img src="images/Acro.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseAcro" aria-expanded="true" aria-controls="collapseOne">
@@ -176,7 +176,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/lyrical.jpg" alt="">
+                    <img src="images/Lyrical.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseLyrical" aria-expanded="true" aria-controls="collapseOne">
@@ -197,7 +197,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/pointe.jpg" alt="">
+                    <img src="images/Pointe.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapsePointe" aria-expanded="true" aria-controls="collapseOne">
@@ -218,7 +218,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/modern.jpg" alt="">
+                    <img src="images/Modern.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseModern" aria-expanded="true" aria-controls="collapseOne">
@@ -239,7 +239,7 @@
         <div class="col mb-4">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/flamenco.jpg" alt="">
+                    <img src="images/Flamenco.jpg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFlamenco" aria-expanded="true" aria-controls="collapseOne">
