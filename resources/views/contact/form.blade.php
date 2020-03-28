@@ -1,4 +1,6 @@
 <form action="{{ route('contact.store') }}" method="POST">
+    <input type="hidden" name="my_name" id="my_name" value="">
+    <input type="checkbox" name="contact_me_by_fax_only" id="contact_me_by_fax_only" value="1" tabindex="-1" autocomplete="off" class="d-none">
     <div class="form-group">
         <label for="name">Name</label>
         <input id="name" type="text" class="form-control" name="name" value="{{ old('name') }}">
