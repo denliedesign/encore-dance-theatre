@@ -37,40 +37,40 @@
 </head>
 <body>
 
-<div class="accordion" id="accordionExample">
-    <div class="card">
-        <div class="card-header text-center bg-danger" id="headingOne">
-            <h2 class="mb-0">
-                <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    COVID-19 Update
-                </button>
-            </h2>
-        </div>
+{{--<div class="accordion" id="accordionExample">--}}
+{{--    <div class="card">--}}
+{{--        <div class="card-header text-center bg-danger" id="headingOne">--}}
+{{--            <h2 class="mb-0">--}}
+{{--                <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                    COVID-19 Update--}}
+{{--                </button>--}}
+{{--            </h2>--}}
+{{--        </div>--}}
 
-        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-            <div class="card-body">
-                Dear EDT Families,
-                <br><br>
-                At Encore Dance Theatre the health and safety of our faculty, students and their families are our most important priority.
-                <br><br>
-                As COVID-19 continues to spread and affect many parts of the U.S. we have been closely monitoring local conditions. After consulting colleagues and leaders in the industry, we have determined that it is in the best interest of our faculty and families to temporarily suspend all classes.
-                <br><br>
-                Effective Monday, March 16th the studio will be closed at least until Sunday, March 29th to help slow the spread of COVID-19. The dance season will still go on! We will continue to try to provide a sense of normalcy for this challenging time even if it is through virtual channels. Please continue to check your emails for exciting digital messages from your child’s dance teachers.
-                <br><br>
-                We will be staying in touch, sending recital music and videos for practice, and also sending mini lessons to our families so that you can enjoy and practice dance at home. We are working hard to keep our teachers working and students engaged during this time. Our faculty is working hard to serve you the best that we can!
-                <br><br>
-                In the meantime recital dates remain unchanged. We will continue to monitor the situation, and will update you accordingly.
-                <br><br>
-                Thank you for taking the appropriate steps with us the lessen the risk to our community as much as possible. We greatly appreciate your support.
-                <br><br>
-                Teamwork makes the dream work!
-                <br><br>
-                In partnership,<br>
-                Ms. Anne and the EDT faculty
-            </div>
-        </div>
-    </div>
-</div>
+{{--        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--            <div class="card-body">--}}
+{{--                Dear EDT Families,--}}
+{{--                <br><br>--}}
+{{--                At Encore Dance Theatre the health and safety of our faculty, students and their families are our most important priority.--}}
+{{--                <br><br>--}}
+{{--                As COVID-19 continues to spread and affect many parts of the U.S. we have been closely monitoring local conditions. After consulting colleagues and leaders in the industry, we have determined that it is in the best interest of our faculty and families to temporarily suspend all classes.--}}
+{{--                <br><br>--}}
+{{--                Effective Monday, March 16th the studio will be closed at least until Sunday, March 29th to help slow the spread of COVID-19. The dance season will still go on! We will continue to try to provide a sense of normalcy for this challenging time even if it is through virtual channels. Please continue to check your emails for exciting digital messages from your child’s dance teachers.--}}
+{{--                <br><br>--}}
+{{--                We will be staying in touch, sending recital music and videos for practice, and also sending mini lessons to our families so that you can enjoy and practice dance at home. We are working hard to keep our teachers working and students engaged during this time. Our faculty is working hard to serve you the best that we can!--}}
+{{--                <br><br>--}}
+{{--                In the meantime recital dates remain unchanged. We will continue to monitor the situation, and will update you accordingly.--}}
+{{--                <br><br>--}}
+{{--                Thank you for taking the appropriate steps with us the lessen the risk to our community as much as possible. We greatly appreciate your support.--}}
+{{--                <br><br>--}}
+{{--                Teamwork makes the dream work!--}}
+{{--                <br><br>--}}
+{{--                In partnership,<br>--}}
+{{--                Ms. Anne and the EDT faculty--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="/"><img src="images/Encore-Logo.png" class="ml-5" alt=""></a>
@@ -150,11 +150,19 @@
     </div>
 </section>
 
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+
 <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 
 <script>
     AOS.init({
         duration: 1200,
+    });
+</script>
+
+<script>
+    $(document).ready(function(){
+        $("#summerModal").modal('show');
     });
 </script>
 

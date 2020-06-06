@@ -523,3 +523,11 @@ h1 {
     height: 400px;
     overflow: hidden;
 }
+
+.bg-encore {
+    background: #50dcd2;
+}
+
+.bg-encore-blue {
+    background: #3cc2d9;
+}

@@ -1,6 +1,46 @@
 @extends('layouts.app')
 @section('content')
 
+    <!-- Modal -->
+{{--    <div class="modal fade" id="summerModal" tabindex="-1" role="dialog" aria-labelledby="summerModal" aria-hidden="true">--}}
+{{--        <div class="modal-dialog">--}}
+{{--            <div class="modal-content">--}}
+{{--                <div class="modal-header">--}}
+{{--                    <h5 class="modal-title" id="summerModal">Modal title</h5>--}}
+{{--                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                        <span aria-hidden="true">&times;</span>--}}
+{{--                    </button>--}}
+{{--                </div>--}}
+{{--                <div class="modal-body">--}}
+{{--                    ...--}}
+{{--                </div>--}}
+{{--                <div class="modal-footer">--}}
+{{--                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>--}}
+{{--                    <button type="button" class="btn btn-primary">Save changes</button>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+
+    <div id="summerModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header bg-encore text-white text-uppercase">
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">NOW ENROLLING SUMMER!</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <img src="/images/summer-logo.jpg" alt="" class="img-fluid">
+                </div>
+                <div class="model-footer d-flex justify-content-center mb-3">
+                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <video class="head-video" src="images/edt-promo.mp4" autoplay="" muted="" controls="" loop="">
     </video>
 
