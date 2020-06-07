@@ -15,9 +15,9 @@
 
         <h1 class="head-white py-4" style="text-decoration: underline;">Summer Intensives</h1>
         <div class="row">
-            <div class="col-sm">
-                <img src="images/summer-ballet-intensive.jpg" alt="" class="img-fluid">
-            </div>
+{{--            <div class="col-sm">--}}
+{{--                <img src="images/summer-ballet-intensive.jpg" alt="" class="img-fluid">--}}
+{{--            </div>--}}
             <div class="col-sm">
                 <img src="images/staystrong.jpg" alt="" class="img-fluid">
             </div>
