@@ -160,11 +160,11 @@
     });
 </script>
 
-<script>
-    $(document).ready(function(){
-        $("#summerModal").modal('show');
-    });
-</script>
+{{--<script>--}}
+{{--    $(document).ready(function(){--}}
+{{--        $("#summerModal").modal('show');--}}
+{{--    });--}}
+{{--</script>--}}
 
 </body>
 </html>

@@ -71,7 +71,7 @@
         </div>
     </div>
 
-    <div class="row tri-wrap">
+    <div class="row tri-wrap mx-0 px-0">
         <div class="col-sm p-0 tri-overlay">
                 <img src="images/mission.jpg" alt="" class="img-fluid">
                 <p class="tri-txt">Mission</p>
@@ -222,7 +222,7 @@
     </section>
 
     <div class="partners d-none d-md-block">
-        <div class="row d-flex align-items-center">
+        <div class="row d-flex align-items-center px-0 mx-0">
             <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>
