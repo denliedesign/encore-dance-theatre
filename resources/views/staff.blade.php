@@ -39,34 +39,7 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
 
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseRebecca" aria-expanded="true" aria-controls="collapseOne">
-                                                Rebecca Blanco
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseRebecca" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Rebecca has been dancing for over 10 years. She started her training in 2005 at Ballet Etudes in Pembroke Pines, Florida and in 2008 started training at Academy of Arts in Pembroke Pines, Florida. Rebecca has also taken dance courses at Florida International University. She is trained in ballet, pointe, flamenco, modern, contemporary, and jazz. Rebecca previously volunteered at her home studio, Academy of Arts, helping teach flamenco classes and has taught some classes. Rebecca has also choreographed for Florida International University’s 2016 Fall Dance concert. Rebecca enjoys both dancing and teaching young children. She is very eager to continue to grow as a dancer and as an instructor.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="col master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -96,8 +69,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
                 <div class="col master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -119,35 +90,6 @@
                                     <div id="collapseRebekah" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
                                             Rebekah has been dancing at Encore Dance Theatre since the age of 2. She has been competing and performing for the past 12 years and has received multiple overall awards. In 2016-2017 she was an asssitant for the dance convention Intrigue and had the opportunity to choreograph, asssit and learn from some of the industries best instructors. Summer of 2018 she was accepted to the prestigious Alvin Ailey program in NYC. This year she was awarded for her choreography and is excited to share her love of dance with Encore’s students this season.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="images/crystal.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCrystal" aria-expanded="true" aria-controls="collapseOne">
-                                                Crystal Cosme
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseCrystal" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Crystal was born in Brooklyn New York where she received some of her earlier training. She continued to study multiple genres of dance as she progressed in life. She attended Dillard High School for the Arts where she continued to grow. She has been able to share the stage with many known names in South Florida. Currently she focuses on Hip-Hop dance, and she also runs the dance team at South Plantation High School.
 
                                         </div>
                                     </div>
@@ -222,35 +164,6 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/brian.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseBrian" aria-expanded="true" aria-controls="collapseOne">
-                                                Brian Davis
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseBrian" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Bio coming soon.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
 {{--                                <img src="images/german.jpg" alt="">--}}
                             </div>
                         </div>
@@ -276,8 +189,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
                 <div class="col master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -307,36 +218,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="images/tara.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTara" aria-expanded="true" aria-controls="collapseOne">
-                                                Tara Hamp
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseTara" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Tara is a top performing public relations and communications professional with extensive experience in corporate reputation management and promotional marketing. She joined Encore because of their focus on helping young people thrive through disciplined, fun creativity in a supportive environment. She enjoys being “behind the scenes” organizing, encouraging and helping everything run smoothly so parents, family and the young performers can focus on enjoying doing what they love most: creative performance through dance. Tara is Senior Director of Public Relations and Marketing for JAJH Consulting Services working for a wide range of clients across many industries in the U.S., Canada and Asia and for Encore Dance Theatre as our office manager.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
+
             <div class="row master-faculty-row">
                 <div class="col master-faculty-col">
                     <div class="row py-4">
@@ -431,37 +314,6 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/heydi.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseHeydi" aria-expanded="true" aria-controls="collapseOne">
-                                                Heydi Pinero
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseHeydi" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Heydi graduated with honors from the National School of Ballet in Havana, Cuba and became a “Character and Ballet Instructor” at The Havana’s National School of the Arts. Heydi danced for the National Spanish Ballet of Havana where they combined classical ballet with Flamenco Dance. She has danced in productions such as La Fille Mal Gardee, Bayadera, Coppelia, The Nutcraker , Divertimento(modern), AIDA (Full Production) with the Florida Grand Opera in Miami, Florida, and performed The Witches of Salem with the “Ballet Flamenco La Rosa. Performed for three years at the “Raue Center for the Arts” as a guest artist with “The Berkshire Ballet Theatre” in Chicago.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
                                 <img src="images/marlee.jpg" alt="">
                             </div>
                         </div>
@@ -487,6 +339,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row master-faculty-row">
+
                 <div class="col master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -516,67 +371,9 @@
                         </div>
                     </div>
                 </div>
+                <div class="col master-faculty col"></div>
             </div>
-            <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-{{--                                <img src="images/sean.jpg" alt="">--}}
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseSean" aria-expanded="true" aria-controls="collapseOne">
-                                                Sean Samson
-                                            </button>
-                                        </h2>
-                                    </div>
 
-                                    <div id="collapseSean" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Sean is a 20-year professional who holds multiple USA Gymnastics certifications as well as a degree in Child Development. Mr Sean’s classes focus on safety and building self-confidence, and his students might describe him as “goofy and silly”. As a preschool teacher he prides himself on keeping his young students engaged and excited to learn. Sean has coached and taught at multiple gymnastic facilities throughout the US.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-{{--                                <img src="images/molly.jpg" alt="">--}}
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
-{{--                                <div class="card">--}}
-{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
-{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
-{{--                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseMolly" aria-expanded="true" aria-controls="collapseOne">--}}
-{{--                                                Molly Roller--}}
-{{--                                            </button>--}}
-{{--                                        </h2>--}}
-{{--                                    </div>--}}
-
-{{--                                    <div id="collapseMolly" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
-{{--                                        <div class="card-body faculty-bio-txt">--}}
-{{--                                            Molly Roller has been dancing for over 30 years, training in Southern California under Louis McKay, Anatoly Sisman, Tonnie Sammartano, Judith Sharp, and Xavier Hicks to name a few. She was invited to perform in multiple bowl games, featured in American Cheerleader magazine, and recognized with numerous awards at the national level. As an instructor and choreographer for over 15 years, Molly has worked with numerous studios as well as high school, collegiate, and professional teams from coast to coast. She is a member of the National Dance Education Organization and currently moonlights as an instructor and audition judge for the Miami Dolphins Cheerleaders.--}}
-
-{{--                                        </div>--}}
-{{--                                    </div>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
     <h1 class="head-white py-4">Guest Artists</h1>
@@ -641,6 +438,38 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="row master-faculty-row">
+                <div class="col master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/heydi.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseHeydi" aria-expanded="true" aria-controls="collapseOne">
+                                                Heydi Pinero
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseHeydi" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Heydi graduated with honors from the National School of Ballet in Havana, Cuba and became a “Character and Ballet Instructor” at The Havana’s National School of the Arts. Heydi danced for the National Spanish Ballet of Havana where they combined classical ballet with Flamenco Dance. She has danced in productions such as La Fille Mal Gardee, Bayadera, Coppelia, The Nutcraker , Divertimento(modern), AIDA (Full Production) with the Florida Grand Opera in Miami, Florida, and performed The Witches of Salem with the “Ballet Flamenco La Rosa. Performed for three years at the “Raue Center for the Arts” as a guest artist with “The Berkshire Ballet Theatre” in Chicago.
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col master-faculty-col"></div>
             </div>
         </div>
     </div>

@@ -2,40 +2,20 @@
 @section('content')
 
     <!-- Modal -->
-{{--    <div class="modal fade" id="summerModal" tabindex="-1" role="dialog" aria-labelledby="summerModal" aria-hidden="true">--}}
-{{--        <div class="modal-dialog">--}}
-{{--            <div class="modal-content">--}}
-{{--                <div class="modal-header">--}}
-{{--                    <h5 class="modal-title" id="summerModal">Modal title</h5>--}}
-{{--                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
-{{--                        <span aria-hidden="true">&times;</span>--}}
-{{--                    </button>--}}
-{{--                </div>--}}
-{{--                <div class="modal-body">--}}
-{{--                    ...--}}
-{{--                </div>--}}
-{{--                <div class="modal-footer">--}}
-{{--                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>--}}
-{{--                    <button type="button" class="btn btn-primary">Save changes</button>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
-
     <div id="summerModal" class="modal fade">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header bg-encore text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">NOW ENROLLING SUMMER!</h4>
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2020 Now</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <img src="/images/summer-logo.jpg" alt="" class="img-fluid">
+                    <img src="/images/safer-studio-logo.jpg" alt="" class="img-fluid">
                 </div>
                 <div class="model-footer d-flex justify-content-center mb-3">
-                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
+                    <a href="/fall"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
                 </div>
             </div>
         </div>
@@ -44,13 +24,14 @@
     <video class="head-video" src="images/edt-promo.mp4" autoplay="" muted="" controls="" loop="">
     </video>
 
-    <h1 class="head py-4" id="vision-head">We Have Built a Reputation for Excellence in Dance Instruction</h1>
+    <h1 class="head py-4" id="vision-head">classes begin Monday, August 17, 2020<br>In-Person Classes & Virtual Classes Available</h1>
 
     <div class="bg-dark">
         <div class="container">
             <div class="row py-5">
                 <div class="col-md-7 text-center d-flex align-items-center">
                     <div>
+                        <h1 class="text-uppercase">We Have Built a Reputation for Excellence in Dance Instruction</h1>
                         <p style="font-size: 1.25em; line-height: 2.5;">
                             Encore Dance Theatre has been welcoming dance enthusiasts of all ages and skill levels for more than 28 years. From your child’s first class to their graduation performance, EDT has a class for everyone! We offer training from beginners of all ages through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                         </p>
@@ -146,6 +127,84 @@
             <span class="sr-only">Next</span>
         </a>
     </div>
+
+
+    <div class="text-white d-none d-md-block">
+        <div class="row m-0 c-0">
+            <div class="col-6 bg-light-gray pl-5 py-5">
+                <div class="container">
+                    <h1 class="text-uppercase text-right">edt is a safer</h1>
+                    <p class="text-center">EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/safer-studio-logo.png" alt="" style="max-height: 200px;">
+                    </div>
+                </div>
+            </div>
+            <div class="col-6 bg-mdu-gray py-5">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <h1 class="text-uppercase">studio&trade;</h1>
+                            <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>
+                            <p>
+                                <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
+                                <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
+                                <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
+                                <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
+                                <br><ion-icon name="checkmark"></ion-icon> Secured facilities
+                                <br><ion-icon name="checkmark"></ion-icon> Viewing windows
+                                <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
+                                <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
+                            </p>
+                        </div>
+                        <div class="col-sm d-flex align-items-center justify-content-center">
+                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="py-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
+        <h2 class="text-uppercase">edt is a safer studio&trade;</h2>
+        <p>EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring
+            students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
+            amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
+        <div class="d-flex justify-content-center pb-2">
+            <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
+        </div>
+        <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>
+        <p>
+            <ion-icon name="checkmark"></ion-icon>
+            Background checked and CPR certified teachers
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Safety Studio&trade; Policy
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Teacher training & proven curriculum
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            A focus on safety & wellness for every student
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Secured facilities
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Viewing windows
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Professional sprung floors
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Social media safety practices
+        </p>
+        <div class="d-flex justify-content-center">
+            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+        </div>
+    </div>
+
 
     <div id="carouselTestimonial" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">

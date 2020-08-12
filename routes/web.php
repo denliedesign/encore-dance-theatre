@@ -45,6 +45,18 @@ Route::get('news', function () {
     return view('news');
 });
 
+Route::get('fall', function () {
+    return view('fall');
+});
+
+Route::get('prices', function () {
+    return view('prices');
+});
+
+Route::get('dancily', function () {
+    return view('dancily');
+});
+
 Route::get('contact', 'ContactUsController@create')->name('contact.create');
 Route::post('contact', 'ContactUsController@store')->name('contact.store');
 

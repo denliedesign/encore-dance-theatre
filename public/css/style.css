@@ -332,6 +332,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    width: 100%;
 }
 
 .competitive-bg {
@@ -341,6 +342,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    width: 100%;
 }
 
 .choose-bg {
@@ -350,6 +352,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    width: 100%;
 }
 
 .mission-bg {
@@ -359,6 +362,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     height: 100%;
+    width: 100%;
 }
 
 #values {
@@ -530,4 +534,21 @@ h1 {
 
 .bg-encore-blue {
     background: #3cc2d9;
+}
+
+.bg-mdu-gray {
+    background: #657380;
+}
+
+.bg-light-gray {
+    background: #8a949e;
+}
+
+.btn-pink {
+    background: linear-gradient(#e559b2, #b43d75);
+    transition: background 0.4s ease;
+}
+
+.btn-pink:hover {
+    background: #b43d75;
 }

@@ -47,7 +47,9 @@
     </div>
 
     <div id="values" class="d-flex justify-content-center">
-        <img src="images/edt-culture.jpg" alt="" style="width: 50%;">
+        <div class="container">
+            <img src="images/edt-culture.jpg" alt="encore list of values" class="img-fluid">
+        </div>
     </div>
 
     <h1 class="head py-4" id="facility">Facility</h1>
