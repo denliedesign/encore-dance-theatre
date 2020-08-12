@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="col-sm d-flex justify-content-center">
-                <img src="/images/dancily.jpg" alt="young girl dancer holding teddy bear" class="img-fluid">
+                <img src="/images/dancily.JPG" alt="young girl dancer holding teddy bear" class="img-fluid">
             </div>
         </div>
 
