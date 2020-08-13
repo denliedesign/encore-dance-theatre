@@ -175,6 +175,7 @@
 </div>
 
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
+    <img src="/images/yellow.png" alt="yellow smiley face" style="height: 45px; width: auto;">
     <a class="navbar-brand" href="/"><img src="images/Encore-Logo.png" class="ml-5" alt=""></a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -228,9 +229,6 @@
             </li>
             <li class="nav-item active">
                 <a class="nav-link" href="/news">News</a>
-            </li>
-            <li>
-                <img src="/images/yellow.png" alt="yellow smiley face" style="height: 45px; width: auto;">
             </li>
         </ul>
     </div>

@@ -164,7 +164,35 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-{{--                                <img src="images/german.jpg" alt="">--}}
+                                <img src="images/nelly.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseNelly" aria-expanded="true" aria-controls="collapseOne">
+                                                Nelly Gibilterra
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseNelly" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/luz.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -182,6 +210,38 @@
                                         <div class="card-body faculty-bio-txt">
                                             Bio coming soon.
 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row master-faculty-row">
+                <div class="col master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/deanna.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseDeanna" aria-expanded="true" aria-controls="collapseOne">
+                                                Deanna Greist
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseDeanna" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
                                         </div>
                                     </div>
                                 </div>
@@ -218,8 +278,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
 
+            </div>
             <div class="row master-faculty-row">
                 <div class="col master-faculty-col">
                     <div class="row py-4">
@@ -279,6 +339,7 @@
                         </div>
                     </div>
                 </div>
+
             </div>
             <div class="row master-faculty-row">
                 <div class="col master-faculty-col">
@@ -341,7 +402,6 @@
                 </div>
             </div>
             <div class="row master-faculty-row">
-
                 <div class="col master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -371,9 +431,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty col"></div>
+                <div class="col master-faculty-col"></div>
             </div>
-
         </div>
     </div>
     <h1 class="head-white py-4">Guest Artists</h1>

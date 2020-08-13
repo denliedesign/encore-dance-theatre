@@ -3,9 +3,10 @@
 @section('description', '')
 @section('content')
 
-    <div class="team-bg-wrap">
+    <div class="team-bg-wrap d-none d-md-block">
         <div class="choose-bg"></div>
     </div>
+    <img src="/images/about-edt.jpg" alt="group of dancers smiling" class="d-block d-md-none img-fluid">
 
     <h1 class="head py-4">Why Choose Encore?</h1>
     <div class="container">
@@ -35,9 +36,10 @@
         </div>
     </div>
 
-    <div class="team-bg-wrap">
+    <div class="team-bg-wrap d-none d-md-block">
         <div class="mission-bg"></div>
     </div>
+    <img src="/images/mission-statement.jpg" alt="two baby dancers hugging" class="d-block d-md-none img-fluid">
 
     <h1 class="head py-4">Mission Statement</h1>
     <div class="container">

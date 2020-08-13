@@ -152,7 +152,7 @@
                                 <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
                                 <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
                                 <br><ion-icon name="checkmark"></ion-icon> Secured facilities
-                                <br><ion-icon name="checkmark"></ion-icon> Viewing windows
+                                <br><ion-icon name="checkmark"></ion-icon> T. V. Monitors to view classes
                                 <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
                                 <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
                             </p>
@@ -192,7 +192,7 @@
             Secured facilities
             <br>
             <ion-icon name="checkmark"></ion-icon>
-            Viewing windows
+            T. V. Monitors to view classes
             <br>
             <ion-icon name="checkmark"></ion-icon>
             Professional sprung floors

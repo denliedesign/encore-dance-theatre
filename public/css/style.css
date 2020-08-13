@@ -537,7 +537,7 @@ h1 {
 }
 
 .bg-mdu-gray {
-    background: #657380;
+    background: #657380 !important;
 }
 
 .bg-light-gray {

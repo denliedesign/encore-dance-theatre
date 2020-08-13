@@ -3,9 +3,10 @@
 @section('description', '')
 @section('content')
 
-    <div class="team-bg-wrap">
+    <div class="team-bg-wrap d-none d-md-block">
         <div class="performance-bg"></div>
     </div>
+    <img src="/images/performance.jpg" alt="dancers lying on stage" class="d-block d-md-none img-fluid">
 
     <h1 class="head py-4">Performance Teams</h1>
     <div class="container py-4">
@@ -25,9 +26,10 @@
         </div>
     </div>
 
-    <div class="team-bg-wrap" id="competitive">
+    <div class="team-bg-wrap d-none d-md-block" id="competitive">
         <div class="competitive-bg"></div>
     </div>
+    <img src="/images/competitive.JPG" alt="dancer leaping on stage" class="img-fluid d-block d-md-none">
 
     <h1 class="head py-4">Competitive Teams</h1>
     <div class="container py-4">
