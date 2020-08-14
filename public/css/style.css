@@ -552,3 +552,7 @@ h1 {
 .btn-pink:hover {
     background: #b43d75;
 }
+
+.faculty-card-header button {
+    height: 84px;
+}

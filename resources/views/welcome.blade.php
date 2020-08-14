@@ -166,7 +166,7 @@
         </div>
     </div>
 
-    <div class="py-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
+    <div class="py-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white" style="background: #657380 !important;">
         <h2 class="text-uppercase">edt is a safer studio&trade;</h2>
         <p>EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring
             students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
