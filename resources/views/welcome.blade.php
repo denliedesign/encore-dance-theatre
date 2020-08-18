@@ -164,6 +164,14 @@
                 </div>
             </div>
         </div>
+        <div class="d-flex justify-content-center py-5" style="background: #4B5C6B;">
+            <div class="container">
+                <video width="100%" height="auto" controls>
+                    <source src="/images/edt-covid.MP4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
+        </div>
     </div>
 
     <div class="py-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white" style="background: #657380 !important;">
@@ -202,6 +210,14 @@
         </p>
         <div class="d-flex justify-content-center">
             <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+        </div>
+        <div class="d-flex justify-content-center py-5">
+            <div class="container">
+                <video width="100%" height="auto" controls>
+                    <source src="/images/edt-covid.MP4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
         </div>
     </div>
 

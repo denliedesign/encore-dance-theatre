@@ -17,7 +17,7 @@
                         <div class="card">
                             <div class="card-header faculty-card-header" id="headingOne">
                                 <h2 class="mb-0 d-flex justify-content-center">
-                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseAnne" aria-expanded="true" aria-controls="collapseOne">
+                                    <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseAnne" aria-expanded="true" aria-controls="collapseOne">
                                         Anne Brodsky
                                     </button>
                                 </h2>
@@ -52,7 +52,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseDeana" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseDeana" aria-expanded="true" aria-controls="collapseOne">
                                                 Deana Brickley
                                             </button>
                                         </h2>
@@ -81,7 +81,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseRebekah" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRebekah" aria-expanded="true" aria-controls="collapseOne">
                                                 Rebekah Brodsky
                                             </button>
                                         </h2>
@@ -112,7 +112,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseBailee" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseBailee" aria-expanded="true" aria-controls="collapseOne">
                                                 Bailee Cudmore
                                             </button>
                                         </h2>
@@ -141,7 +141,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseGerman" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseGerman" aria-expanded="true" aria-controls="collapseOne">
                                                 German Dager
                                             </button>
                                         </h2>
@@ -172,7 +172,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseNelly" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseNelly" aria-expanded="true" aria-controls="collapseOne">
                                                 Nelly Gibilterra
                                             </button>
                                         </h2>
@@ -200,7 +200,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseLuz" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLuz" aria-expanded="true" aria-controls="collapseOne">
                                                 Luz Monica Guerrero
                                             </button>
                                         </h2>
@@ -233,7 +233,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseDeanna" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseDeanna" aria-expanded="true" aria-controls="collapseOne">
                                                 Deanna Greist
                                             </button>
                                         </h2>
@@ -261,7 +261,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseCindy" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseCindy" aria-expanded="true" aria-controls="collapseOne">
                                                 Cindy Grossman
                                             </button>
                                         </h2>
@@ -293,7 +293,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseKayla" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKayla" aria-expanded="true" aria-controls="collapseOne">
                                                 Kayla Letendre
                                             </button>
                                         </h2>
@@ -322,7 +322,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTori" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseTori" aria-expanded="true" aria-controls="collapseOne">
                                                 Tori Muller
                                             </button>
                                         </h2>
@@ -354,7 +354,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapsePriya" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapsePriya" aria-expanded="true" aria-controls="collapseOne">
                                                 Priya Nair
                                             </button>
                                         </h2>
@@ -383,7 +383,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseMarlee" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMarlee" aria-expanded="true" aria-controls="collapseOne">
                                                 Marlee Ramirez-Santana
                                             </button>
                                         </h2>
@@ -414,7 +414,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseMolly" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMolly" aria-expanded="true" aria-controls="collapseOne">
                                                 Molly Roller
                                             </button>
                                         </h2>
@@ -431,7 +431,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col"></div>
+                <div class="col-sm master-faculty-col"></div>
             </div>
         </div>
     </div>
@@ -451,7 +451,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseKevin" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKevin" aria-expanded="true" aria-controls="collapseOne">
                                                 Kevin Aubin
                                             </button>
                                         </h2>
@@ -480,7 +480,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseShawna" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseShawna" aria-expanded="true" aria-controls="collapseOne">
                                                 Shawna Hall-Bowden
                                             </button>
                                         </h2>
@@ -511,7 +511,7 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseHeydi" aria-expanded="true" aria-controls="collapseOne">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseHeydi" aria-expanded="true" aria-controls="collapseOne">
                                                 Heydi Pinero
                                             </button>
                                         </h2>
@@ -528,7 +528,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col"></div>
+                <div class="col-sm master-faculty-col"></div>
             </div>
         </div>
     </div>

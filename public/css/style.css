@@ -553,6 +553,6 @@ h1 {
     background: #b43d75;
 }
 
-.faculty-card-header button {
-    height: 84px;
-}
+/*.faculty-card-header button {*/
+/*    height: 84px !important;*/
+/*}*/
