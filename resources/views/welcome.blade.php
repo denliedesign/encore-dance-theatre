@@ -24,7 +24,21 @@
     <video class="head-video" src="images/edt-promo.mp4" autoplay="" muted="" controls="" loop="">
     </video>
 
-    <h1 class="head py-4" id="vision-head">classes begin Monday, August 17, 2020<br>In-Person Classes & Virtual Classes Available</h1>
+    <div id="vision-head">
+        <h1 class="head py-4">classes begin Monday, August 17, 2020<br>In-Person Classes & Virtual Classes Available</h1>
+        <div class="row p-0 m-0">
+            <div class="col-sm p-0 m-0">
+                <img src="/images/edt-mobile.png" alt="girl holding up encore dance mobile app" class="img-fluid">
+            </div>
+            <div class="col-sm p-0 m-0 d-flex justify-content-center align-items-center">
+                <div>
+                    <a href="https://play.google.com/store/apps/details?id=com.encoredancetheatre.mi" target="_blank"><img src="/images/edt-google-play.png" alt="google play store" class="img-fluid d-block my-4"></a>
+                    <a href="https://apps.apple.com/app/id1528239603" target="_blank"><img src="/images/edt-apple-store.png" alt="apple store" class="img-fluid d-block my-4"></a>
+                    <img src="/images/edt-mobile-code.jpg" alt="encore mobile app qr code" class="img-fluid d-block my-4">
+                </div>
+            </div>
+        </div>
+    </div>
 
     <div class="bg-dark">
         <div class="container">
