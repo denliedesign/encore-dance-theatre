@@ -44,7 +44,7 @@
     <h1 class="head py-4">Mission Statement</h1>
     <div class="container">
         <p class="text-center py-4" style="font-size: 1.25em">
-            Our main objective is to assist each student to reach his or her own potential and to experience enjoyment through dance. For over 28 years Encore Dance Theatre has provided the very best in dance education in our community. Our goal is to provide a fun, energetic and positive environment and we encourage each student to be the best they can be.
+            Our main objective is to assist each student to reach his or her own potential and to experience enjoyment through dance. For over 30 years Encore Dance Theatre has provided the very best in dance education in our community. Our goal is to provide a fun, energetic and positive environment and we encourage each student to be the best they can be.
         </p>
     </div>
 

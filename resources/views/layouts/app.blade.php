@@ -43,7 +43,7 @@
         <div class="card-header text-center bg-danger" id="headingOne">
             <h2 class="mb-0">
                 <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    EDT Covid-19 Policies for 2020 Fall Session
+                    EDT Covid-19 Policies for 2021 Winter Session
                 </button>
             </h2>
         </div>
@@ -206,11 +206,14 @@
                     <a class="dropdown-item" href="/prices">Prices & Policies</a>
                 </div>
             </li>
-{{--            <li class="nav-item active">--}}
-{{--                <a class="nav-link" href="https://sites.google.com/a/edtfl.com/encore-recital-2019/home" target="_blank">Recital</a>--}}
-{{--            </li>--}}
+            <li class="nav-item active">
+                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>
+            </li>
             <li class="nav-item active">
                 <a class="nav-link" href="/fall">Fall</a>
+            </li>
+            <li class="nav-item active">
+                <a class="nav-link" href="/summer">Summer</a>
             </li>
             <li class="nav-item active dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -244,7 +247,7 @@
 
 <section id="footer">
     <div class="footer">
-        <div class="copyright"><sup>&#169</sup> 2012-2020, Encore Dance Theatre<br>
+        <div class="copyright"><sup>&#169</sup> 2012-2021, Encore Dance Theatre<br>
             <a href="https://denliedesign.com" target="_blank">Dance Studio Websites by Denlie Design</a></div>
         <div id="socials">
             <a href="https://www.facebook.com/EDTDANCE/?fref=ts" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>

@@ -25,7 +25,21 @@
     </video>
 
     <div id="vision-head">
-        <h1 class="head py-4">classes begin Monday, August 17, 2020<br>In-Person Classes & Virtual Classes Available</h1>
+        <div class="d-flex align-items-center justify-content-center py-4" style="background: #16171c;">
+            <div class="row container">
+                <div class="col-sm d-flex justify-content-end align-items-center m-0 p-0">
+                    <h1 class="text-white text-center text-uppercase">In-Person Classes & Virtual Classes Available</h1>
+                </div>
+                <div class="col-sm d-flex justify-content-center">
+                    <img src="/images/new-day-recital.png" alt="a new day recital logo" style="height: 200px; width: auto;">
+                </div>
+                <div class="col-sm d-flex justify-content-start align-items-center m-0 p-0">
+                    <a href="https://sites.google.com/view/edtrecital2021/home" target="_blank">
+                        <h1 class="text-white text-center text-uppercase">Please click here for all recital 2021 information!</h1>
+                    </a>
+                </div>
+            </div>
+        </div>
         <div class="row p-0 m-0">
             <div class="col-sm p-0 m-0">
                 <img src="/images/edt-mobile.png" alt="girl holding up encore dance mobile app" class="img-fluid">
@@ -47,7 +61,7 @@
                     <div>
                         <h1 class="text-uppercase">We Have Built a Reputation for Excellence in Dance Instruction</h1>
                         <p style="font-size: 1.25em; line-height: 2.5;">
-                            Encore Dance Theatre has been welcoming dance enthusiasts of all ages and skill levels for more than 28 years. From your child’s first class to their graduation performance, EDT has a class for everyone! We offer training from beginners of all ages through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                            Encore Dance Theatre has been welcoming dance enthusiasts of all ages and skill levels for more than 30 years. From your child’s first class to their graduation performance, EDT has a class for everyone! We offer training from beginners of all ages through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                         </p>
                         <button class="btn btn-lg btn-outline-primary mb-2">Welcome to<br><span id="encore-btn">Encore</span><br>Dance Theatre</button>
                     </div>
