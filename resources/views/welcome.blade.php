@@ -6,16 +6,16 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header bg-encore text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2020 Now</h4>
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Summer 2021 Now</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <img src="/images/safer-studio-logo.jpg" alt="" class="img-fluid">
+                    <a href="/summer"><img src="/images/summer-dance-2021.png" alt="" class="img-fluid"></a>
                 </div>
                 <div class="model-footer d-flex justify-content-center mb-3">
-                    <a href="/fall"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
+                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
                 </div>
             </div>
         </div>
