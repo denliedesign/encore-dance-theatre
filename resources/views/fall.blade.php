@@ -5,14 +5,17 @@
 
     <div class="container">
         <h1 class="head-white py-4" style="text-decoration: underline;"><a href="/images/edt-fall-schedule.pdf" class="text-dark" target="_blank">Fall Schedule</a></h1>
-        <div class="row">
-            <div class="col-sm">
-                <img src="/images/edt-fall-schedule-1.jpg" alt="encore schedule ages 2.5 to 8" class="img-fluid">
-                <img src="/images/edt-fall-schedule-2.jpg" alt="encore schedule ages 9 and up" class="img-fluid mt-4">
-            </div>
-        </div>
+        <p class="text-center lead" style="height: 100vh;">
+            2021-2022 Fall Schedule Coming Soon!
+        </p>
+{{--        <div class="row">--}}
+{{--            <div class="col-sm">--}}
+{{--                <img src="/images/edt-fall-schedule-1.jpg" alt="encore schedule ages 2.5 to 8" class="img-fluid">--}}
+{{--                <img src="/images/edt-fall-schedule-2.jpg" alt="encore schedule ages 9 and up" class="img-fluid mt-4">--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
-        <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
+{{--        <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>--}}
     </div>
 
 @endsection
