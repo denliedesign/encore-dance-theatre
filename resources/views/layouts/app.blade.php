@@ -248,7 +248,7 @@
 <section id="footer">
     <div class="footer">
         <div class="copyright"><sup>&#169</sup> 2012-2021, Encore Dance Theatre<br>
-            <a href="https://denliedesign.com" target="_blank">Dance Studio Websites by Denlie Design</a></div>
+            <a href="https://denliedesign.com" target="_blank">Dance Website Design by Denlie Design</a></div>
         <div id="socials">
             <a href="https://www.facebook.com/EDTDANCE/?fref=ts" target="_blank"><ion-icon name="logo-facebook"></ion-icon></a>
             <a href="https://twitter.com/EDTDANCE" target="_blank"><ion-icon name="logo-twitter"></ion-icon></a>
