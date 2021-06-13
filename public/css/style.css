@@ -556,3 +556,62 @@ h1 {
 /*.faculty-card-header button {*/
 /*    height: 84px !important;*/
 /*}*/
+
+.master-faculty-col,
+.animate-class {
+    opacity: 0;
+    transition: 0.5s all ease;
+}
+
+/*#summer-1 {*/
+/*    transform: translateX(-100px);*/
+/*    opacity: 0;*/
+/*}*/
+
+/*#summer-2 {*/
+/*    transform: translateY(100px);*/
+/*    opacity: 0;*/
+/*}*/
+
+.activation {
+    transform: translate(0px) !important;
+    opacity: 1 !important;
+}
+
+#summer-1,
+#summer-3 {
+    transform: translateX(-100px);
+    opacity: 0;
+    transition: 0.8s all ease;
+}
+
+#summer-2,
+#summer-4 {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: 0.8s all ease;
+}
+
+#summer-5,
+#summer-7 {
+    transform: translateY(100px);
+    opacity: 0;
+    transition: 0.8s all ease;
+}
+
+#summer-6,
+#summer-8 {
+    transform: translateX(100px);
+    opacity: 0;
+    transition: 0.8s all ease;
+}
+
+#animate-news-1 {
+    opacity: 0;
+    transform: translateX(-100px);
+}
+
+#animate-news-2 {
+    opacity: 0;
+    transform: translateY(100px);
+}

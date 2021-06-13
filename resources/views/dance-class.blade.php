@@ -5,7 +5,7 @@
 
     <h1 class="head py-4">Classes</h1>
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 m-5">
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Ballet.jpg" alt="">
@@ -25,7 +25,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Tap.jpg" alt="">
@@ -46,7 +46,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Twinkle.jpg" alt="">
@@ -68,7 +68,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Contemporary.jpg" alt="">
@@ -89,7 +89,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Jazz.jpg" alt="">
@@ -110,7 +110,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/HipHop.jpg" alt="">
@@ -131,7 +131,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Acro.jpg" alt="">
@@ -152,7 +152,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/MusicalTheatre.jpg" alt="">
@@ -173,7 +173,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Lyrical.jpg" alt="">
@@ -194,7 +194,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Pointe.jpg" alt="">
@@ -215,7 +215,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Modern.jpg" alt="">
@@ -236,7 +236,7 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4">
+        <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
                     <img src="images/Flamenco.jpg" alt="">

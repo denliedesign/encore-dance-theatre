@@ -6,7 +6,7 @@
     <h1 class="head-white py-4">Encore Dance Theatre in the News</h1>
     <div class="container">
         <div class="row">
-            <div class="col-sm">
+            <div class="col-sm" id="animate-news-1">
                 <h2 style="text-decoration: underline;">SAWGRASS SUN</h2>
                 <img src="images/Traveling-Tutus.jpg" alt="" class="img-fluid mb-2" style="max-height: 302.4px;">
                 <p class="pb-2" style="font-size: 1.25em">
@@ -15,7 +15,7 @@
                     <small class="text-muted">March 27 - April 2, 2019</small>
                 </p>
             </div>
-            <div class="col-sm">
+            <div class="col-sm" id="animate-news-2">
                 <h2 style="text-decoration: underline;">SUNSENTINEL</h2>
                 <div>
                     <img src="images/sun-sentinel-dance-news.jpg" alt="" class="img-fluid mb-2" style="max-height: 302.4px;">

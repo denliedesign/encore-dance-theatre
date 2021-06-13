@@ -6,7 +6,7 @@
     <h1 class="head-white py-4">Owner/Artistic Director</h1>
     <div class="bg-dark">
         <div class="container">
-            <div class="row py-4">
+            <div class="row py-4 master-faculty-col" id="anne-brodsky">
                 <div class="col-sm-5 d-flex justify-content-center justify-content-sm-end">
                     <div class="headshot-anne">
                         <img src="images/anne.jpg" alt="">
@@ -40,7 +40,7 @@
         <div class="container">
             <div class="row master-faculty-row">
 
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -69,7 +69,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -100,7 +100,7 @@
                 </div>
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -129,7 +129,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -160,7 +160,7 @@
                 </div>
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -188,7 +188,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -221,7 +221,7 @@
             </div>
 
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -249,7 +249,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -281,7 +281,7 @@
 
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -310,7 +310,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -342,7 +342,7 @@
 
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -371,7 +371,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -402,7 +402,7 @@
                 </div>
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -439,7 +439,7 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -468,7 +468,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
@@ -499,7 +499,7 @@
                 </div>
             </div>
             <div class="row master-faculty-row">
-                <div class="col master-faculty-col">
+                <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
