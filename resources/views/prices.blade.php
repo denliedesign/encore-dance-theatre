@@ -7,8 +7,8 @@
         <h1 class="head-white py-4" style="text-decoration: underline;"><a href="/images/prices.pdf" class="text-dark" target="_blank">Class Prices & Studio Policies</a></h1>
         <div class="row">
             <div class="col-sm">
-                <img src="/images/prices-1.jpg" alt="encore class prices" class="img-fluid">
-                <img src="/images/prices-2.jpg" alt="encore studio policies" class="img-fluid mt-4">
+                <img src="/images/prices-edt-1.jpg" alt="encore class prices" class="img-fluid">
+                <img src="/images/prices-edt-2.jpg" alt="encore studio policies" class="img-fluid mt-4">
             </div>
         </div>
 

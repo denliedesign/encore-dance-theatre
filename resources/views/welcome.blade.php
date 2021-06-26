@@ -12,7 +12,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login"><img src="/images/fall-popup.jpg" alt="" class="img-fluid"></a>
+                    <a href="/fall"><img src="/images/fall-popup.jpg" alt="" class="img-fluid"></a>
                 </div>
                 <div class="model-footer d-flex justify-content-center align-items-center mb-3">
                     <p class="mr-3 mb-0">Can't Wait Till Fall?</p>
