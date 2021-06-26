@@ -201,14 +201,14 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="/dance-class">Classes</a>
-                    <a class="dropdown-item" href="/dancily">Dancily Online</a>
+{{--                    <a class="dropdown-item" href="/dancily">Dancily Online</a>--}}
                     <a class="dropdown-item" href="/wear">What to Wear</a>
                     <a class="dropdown-item" href="/prices">Prices & Policies</a>
                 </div>
             </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>
-            </li>
+{{--            <li class="nav-item active">--}}
+{{--                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>--}}
+{{--            </li>--}}
             <li class="nav-item active">
                 <a class="nav-link" href="/fall">Fall</a>
             </li>
@@ -220,8 +220,8 @@
                     Teams
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="/teams">Performance Teams</a>
-                    <a class="dropdown-item" href="/teams#competitive">Competitive Teams</a>
+                    <a class="dropdown-item" href="/teams">All Stars Team</a>
+                    <a class="dropdown-item" href="/teams#competitive">Elite Team</a>
                 </div>
             </li>
             <li class="nav-item active">

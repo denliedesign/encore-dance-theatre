@@ -38,7 +38,7 @@
     <h1 class="head-white py-4">Our Faculty</h1>
     <div class="bg-dark">
         <div class="container">
-            <div class="row master-faculty-row">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -98,13 +98,12 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/bailee.jpg" alt="">
+                                <img src="images/bailee-2.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -158,8 +157,39 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/coming-soon.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseDelatorre"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Melissa Delatorre
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseDelatorre" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -188,6 +218,36 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/coming-soon.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseAlicia" aria-expanded="true" aria-controls="collapseOne">
+                                                Alicia Goytizolo
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseAlicia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -218,14 +278,12 @@
                     </div>
                 </div>
 
-            </div>
 
-            <div class="row master-faculty-row">
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/deanna.jpg" alt="">
+                                <img src="images/deanna-2.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -279,37 +337,36 @@
                     </div>
                 </div>
 
-            </div>
-            <div class="row master-faculty-row">
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="images/kayla.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKayla" aria-expanded="true" aria-controls="collapseOne">
-                                                Kayla Letendre
-                                            </button>
-                                        </h2>
-                                    </div>
 
-                                    <div id="collapseKayla" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Kayla started dancing at 2 years old at Encore training in ballet, tap, modern, jazz, musical theatre, and hip hop and danced on the competition team until she graduated. From 2009-2015 Kayla was a professional cheerleader for the Florida Panthers becoming captain her final year with the team. She eventually made her way back to teach at Encore, her second home! She is also currently the Marketing & Membership Coordinator at Parkland Golf & Country Club as well as a nanny. Kayla loves working with children and sharing her passion for dance with them!
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="images/kayla.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKayla" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Kayla Letendre--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseKayla" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Kayla started dancing at 2 years old at Encore training in ballet, tap, modern, jazz, musical theatre, and hip hop and danced on the competition team until she graduated. From 2009-2015 Kayla was a professional cheerleader for the Florida Panthers becoming captain her final year with the team. She eventually made her way back to teach at Encore, her second home! She is also currently the Marketing & Membership Coordinator at Parkland Golf & Country Club as well as a nanny. Kayla loves working with children and sharing her passion for dance with them!--}}
+
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -340,8 +397,6 @@
                     </div>
                 </div>
 
-            </div>
-            <div class="row master-faculty-row">
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -371,6 +426,36 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="images/darlyn-perez.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseDarlyn" aria-expanded="true" aria-controls="collapseOne">
+                                                Darlyn Perez
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseDarlyn" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -400,8 +485,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -431,14 +515,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm master-faculty-col"></div>
             </div>
         </div>
     </div>
+
     <h1 class="head-white py-4">Guest Artists</h1>
     <div class="bg-dark">
         <div class="container">
-            <div class="row master-faculty-row">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-colslg-2">
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -497,8 +581,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row master-faculty-row">
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
@@ -528,7 +611,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm master-faculty-col"></div>
             </div>
         </div>
     </div>

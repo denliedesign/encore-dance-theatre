@@ -236,27 +236,27 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4 animate-class">
-            <div class="accordion" id="classesAccordion">
-                <div class="card">
-                    <img src="images/Flamenco.jpg" alt="">
-                    <div class="card-header" id="classesDown">
-                        <h5 class="mb-0 text-center">
-                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFlamenco" aria-expanded="true" aria-controls="collapseOne">
-                                Flamenco
-                            </button>
-                        </h5>
-                    </div>
+{{--        <div class="col mb-4 animate-class">--}}
+{{--            <div class="accordion" id="classesAccordion">--}}
+{{--                <div class="card">--}}
+{{--                    <img src="images/Flamenco.jpg" alt="">--}}
+{{--                    <div class="card-header" id="classesDown">--}}
+{{--                        <h5 class="mb-0 text-center">--}}
+{{--                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseFlamenco" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                Flamenco--}}
+{{--                            </button>--}}
+{{--                        </h5>--}}
+{{--                    </div>--}}
 
-                    <div id="collapseFlamenco" class="collapse" aria-labelledby="classesDown" data-parent="#classesAccordion">
-                        <div class="card-body">
-                            Flamenco dance is a highly-expressive, Spanish dance form. The flamenco is a dance characterized by hand clapping, percussive footwork, and intricate hand, arm and body movements.
+{{--                    <div id="collapseFlamenco" class="collapse" aria-labelledby="classesDown" data-parent="#classesAccordion">--}}
+{{--                        <div class="card-body">--}}
+{{--                            Flamenco dance is a highly-expressive, Spanish dance form. The flamenco is a dance characterized by hand clapping, percussive footwork, and intricate hand, arm and body movements.--}}
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
 
     </div>

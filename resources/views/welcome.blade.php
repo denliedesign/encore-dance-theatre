@@ -6,16 +6,17 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header bg-encore text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Summer 2021 Now</h4>
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2021 Now</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <a href="/summer"><img src="/images/summer-dance-2021.png" alt="" class="img-fluid"></a>
+                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login"><img src="/images/fall-popup.jpg" alt="" class="img-fluid"></a>
                 </div>
-                <div class="model-footer d-flex justify-content-center mb-3">
-                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">More Info</button></a>
+                <div class="model-footer d-flex justify-content-center align-items-center mb-3">
+                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>
+                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">See Our Summer Offerings!</button></a>
                 </div>
             </div>
         </div>
@@ -25,21 +26,21 @@
     </video>
 
     <div id="vision-head">
-        <div class="d-flex align-items-center justify-content-center py-4" style="background: #16171c;">
-            <div class="row container">
-                <div class="col-sm d-flex justify-content-end align-items-center m-0 p-0">
-                    <h1 class="text-white text-center text-uppercase">In-Person Classes & Virtual Classes Available</h1>
-                </div>
-                <div class="col-sm d-flex justify-content-center">
-                    <img src="/images/new-day-recital.png" alt="a new day recital logo" style="height: 200px; width: auto;">
-                </div>
-                <div class="col-sm d-flex justify-content-start align-items-center m-0 p-0">
-                    <a href="https://sites.google.com/view/edtrecital2021/home" target="_blank">
-                        <h1 class="text-white text-center text-uppercase">Please click here for all recital 2021 information!</h1>
-                    </a>
-                </div>
-            </div>
-        </div>
+{{--        <div class="d-flex align-items-center justify-content-center py-4" style="background: #16171c;">--}}
+{{--            <div class="row container">--}}
+{{--                <div class="col-sm d-flex justify-content-end align-items-center m-0 p-0">--}}
+{{--                    <h1 class="text-white text-center text-uppercase">In-Person Classes & Virtual Classes Available</h1>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex justify-content-center">--}}
+{{--                    <img src="/images/new-day-recital.png" alt="a new day recital logo" style="height: 200px; width: auto;">--}}
+{{--                </div>--}}
+{{--                <div class="col-sm d-flex justify-content-start align-items-center m-0 p-0">--}}
+{{--                    <a href="https://sites.google.com/view/edtrecital2021/home" target="_blank">--}}
+{{--                        <h1 class="text-white text-center text-uppercase">Please click here for all recital 2021 information!</h1>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
         <div class="row p-0 m-0">
             <div class="col-sm p-0 m-0">
                 <img src="/images/edt-mobile.png" alt="girl holding up encore dance mobile app" class="img-fluid">
