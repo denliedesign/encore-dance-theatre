@@ -16,13 +16,13 @@
 
         <div class="row my-3">
             <div class="col-sm mb-3">
-                <img src="/images/summer-classes-1b.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-5">
+                <img src="/images/fall-1.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-5">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
             </div>
             <div class="col-sm mb-3">
-                <img src="/images/summer-classes-3b.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-7">
+                <img src="/images/fall-2.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-7">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
@@ -36,7 +36,7 @@
                 </div>
             </div>
             <div class="col-sm mb-3">
-                <img src="/images/summer-classes-4b.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-8">
+                <img src="/images/fall-4.png" alt="summer classes" class="img-fluid rounded shadow" id="summer-8">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
