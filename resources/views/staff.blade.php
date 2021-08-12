@@ -9,7 +9,7 @@
             <div class="row py-4 master-faculty-col" id="anne-brodsky">
                 <div class="col-sm-5 d-flex justify-content-center justify-content-sm-end">
                     <div class="headshot-anne">
-                        <img src="images/anne.jpg" alt="">
+                        <img src="/images/anne.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-sm-6">
@@ -44,7 +44,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/deana.jpg" alt="">
+                                <img src="/images/deana.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -73,7 +73,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/rebekah.jpg" alt="">
+                                <img src="/images/rebekah.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -103,7 +103,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/bailee-2.jpeg" alt="">
+                                <img src="/images/bailee-2.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -132,7 +132,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/german.jpg" alt="">
+                                <img src="/images/german.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -162,7 +162,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/melissa.jpg" alt="melissa headshot">
+                                <img src="/images/melissa.jpg" alt="melissa headshot">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -194,7 +194,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/nelly.jpg" alt="">
+                                <img src="/images/nelly.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -223,7 +223,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/coming-soon.jpg" alt="">
+                                <img src="/images/coming-soon.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -252,7 +252,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/luz.jpg" alt="">
+                                <img src="/images/luz.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -283,7 +283,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/deanna-2.jpeg" alt="">
+                                <img src="/images/deanna-2.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -311,7 +311,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/cindy.jpg" alt="">
+                                <img src="/images/cindy.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -342,7 +342,7 @@
 {{--                    <div class="row py-4">--}}
 {{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
 {{--                            <div class="headshot">--}}
-{{--                                <img src="images/kayla.jpg" alt="">--}}
+{{--                                <img src="/images/kayla.jpg" alt="">--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                        <div class="col-sm-8">--}}
@@ -371,7 +371,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/tori.jpg" alt="">
+                                <img src="/images/tori.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -401,7 +401,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/priya.jpg" alt="">
+                                <img src="/images/priya.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -431,7 +431,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/darlyn-perez.jpg" alt="">
+                                <img src="/images/darlyn-perez.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -460,7 +460,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/marlee.jpg" alt="">
+                                <img src="/images/marlee.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -490,7 +490,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/molly.jpg" alt="">
+                                <img src="/images/molly.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -520,7 +520,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/heydi.jpeg" alt="">
+                                <img src="/images/heydi.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -558,7 +558,7 @@
 {{--                    <div class="row py-4">--}}
 {{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
 {{--                            <div class="headshot">--}}
-{{--                                <img src="images/kevin.jpg" alt="">--}}
+{{--                                <img src="/images/kevin.jpg" alt="">--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                        <div class="col-sm-8">--}}
@@ -587,7 +587,7 @@
 {{--                    <div class="row py-4">--}}
 {{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
 {{--                            <div class="headshot">--}}
-{{--                                <img src="images/shawna.jpg" alt="">--}}
+{{--                                <img src="/images/shawna.jpg" alt="">--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
 {{--                        <div class="col-sm-8">--}}
