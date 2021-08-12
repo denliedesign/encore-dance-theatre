@@ -33,9 +33,9 @@ Route::get('wear', function () {
     return view('wear');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('teams', function () {
     return view('teams');

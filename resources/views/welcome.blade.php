@@ -14,10 +14,10 @@
                 <div class="modal-body">
                     <a href="/fall"><img src="/images/fall-popup.jpg" alt="" class="img-fluid"></a>
                 </div>
-                <div class="model-footer d-flex justify-content-center align-items-center mb-3">
-                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>
-                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">See Our Summer Offerings!</button></a>
-                </div>
+{{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
+{{--                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>--}}
+{{--                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">See Our Summer Offerings!</button></a>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>
@@ -41,15 +41,38 @@
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}
-        <div class="row p-0 m-0">
-            <div class="col-sm p-0 m-0">
-                <img src="/images/edt-mobile.png" alt="girl holding up encore dance mobile app" class="img-fluid">
-            </div>
-            <div class="col-sm p-0 m-0 d-flex justify-content-center align-items-center">
-                <div>
-                    <a href="https://play.google.com/store/apps/details?id=com.encoredancetheatre.mi" target="_blank"><img src="/images/edt-google-play.png" alt="google play store" class="img-fluid d-block my-4"></a>
-                    <a href="https://apps.apple.com/app/id1528239603" target="_blank"><img src="/images/edt-apple-store.png" alt="apple store" class="img-fluid d-block my-4"></a>
-                    <img src="/images/edt-mobile-code.jpg" alt="encore mobile app qr code" class="img-fluid d-block my-4">
+{{--        <div class="row p-0 m-0">--}}
+{{--            <div class="col-sm p-0 m-0">--}}
+{{--                <img src="/images/edt-mobile.png" alt="girl holding up encore dance mobile app" class="img-fluid">--}}
+{{--            </div>--}}
+{{--            <div class="col-sm p-0 m-0 d-flex justify-content-center align-items-center">--}}
+{{--                <div>--}}
+{{--                    <a href="https://play.google.com/store/apps/details?id=com.encoredancetheatre.mi" target="_blank"><img src="/images/edt-google-play.png" alt="google play store" class="img-fluid d-block my-4"></a>--}}
+{{--                    <a href="https://apps.apple.com/app/id1528239603" target="_blank"><img src="/images/edt-apple-store.png" alt="apple store" class="img-fluid d-block my-4"></a>--}}
+{{--                    <img src="/images/edt-mobile-code.jpg" alt="encore mobile app qr code" class="img-fluid d-block my-4">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+    </div>
+
+    <div id="next-steps-section">
+        <div class="container py-5">
+            <div class="row">
+                <div class="col-sm next-step shadow m-2 py-4">
+                    <p class="txt-green">Ready To Leap In?</p>
+                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+                </div>
+                <div class="col-sm next-step shadow m-2 py-4">
+                    <p class="txt-blue">Want To Give It A Try?</p>
+                    <div>
+                        {{--                    <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
+                        <a href="/#tryit" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule A Trial!</div></a>
+
+                    </div>
+                </div>
+                <div class="col-sm next-step shadow m-2 py-4">
+                    <p class="txt-pink">Still Have Questions?</p>
+                    <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
                 </div>
             </div>
         </div>
@@ -67,7 +90,7 @@
                         <button class="btn btn-lg btn-outline-primary mb-2">Welcome to<br><span id="encore-btn">Encore</span><br>Dance Theatre</button>
                     </div>
                 </div>
-                <div class="col-md-5 text-center">
+                <div class="col-md-5 text-center" id="tryit">
                     <div id="trial-img">
                         <img src="images/CharleeTutus.png" alt="" class="img-fluid">
                     </div>

@@ -212,9 +212,9 @@
             <li class="nav-item active">
                 <a class="nav-link" href="/fall">Fall</a>
             </li>
-            <li class="nav-item active">
-                <a class="nav-link" href="/summer">Summer</a>
-            </li>
+{{--            <li class="nav-item active">--}}
+{{--                <a class="nav-link" href="/summer">Summer</a>--}}
+{{--            </li>--}}
             <li class="nav-item active dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Teams

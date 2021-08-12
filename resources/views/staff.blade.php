@@ -36,7 +36,7 @@
         </div>
     </div>
     <h1 class="head-white py-4">Our Faculty</h1>
-    <div class="bg-dark">
+    <div class="bg-dark pb-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
 
@@ -162,7 +162,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="images/coming-soon.jpg" alt="">
+                                <img src="images/melissa.jpg" alt="melissa headshot">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -181,7 +181,7 @@
                                     <div id="collapseDelatorre" class="collapse" aria-labelledby="headingOne"
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
+                                            Melissa Delatorre started her dance journey at 5 years old right here at Encore Dance Theatre! Growing up, she won awards with her competitive team and performed at local and state events at places like Disney World and Universal Studios.  While at the University of Florida she fell in love with teaching and choreographing, and continues to develop her dance education through opportunities such as Dance Teacher Summit in NYC and Ballet Austin in Texas.  Being able to watch dancers grow and have fun is what she loves most. Melissa is proud to have been teaching in South Florida since 2011 and looks forward to sharing her passion with all of the students this season!
                                         </div>
                                     </div>
                                 </div>
@@ -515,72 +515,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <h1 class="head-white py-4">Guest Artists</h1>
-    <div class="bg-dark">
-        <div class="container">
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-colslg-2">
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="images/kevin.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKevin" aria-expanded="true" aria-controls="collapseOne">
-                                                Kevin Aubin
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseKevin" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Kevin Aubin is an Alumni of Encore Dance Theatre. At age 15, he moved to NYC to attend the School of American Ballet. Kevin has performed throughout Europe, Japan and the United States. He has danced on Broadway with the companies of Wicked, Hot Feet, Spiderman: Turn Off the Dark , European tour of West Side Story; as well as originating the role of Paulo in the award winning New York Festival Production of Common Grounds Off-Broadway. You can see Kevin in the Golden Globe nominated film Across the Universe and in Old Dogs. Kevin as had the opportunity to perform on the Today Show, Dancing with the Stars, as a lead in a National Truth anti-smoking commercial, Comedy Central, and as a model for DKNY, Teen Magazine, and has graced the covers of New York Magazine and Time Out NY. Kevin is the owner/artistic director of Intrigue Dance Intensive.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="images/shawna.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseShawna" aria-expanded="true" aria-controls="collapseOne">
-                                                Shawna Hall-Bowden
-                                            </button>
-                                        </h2>
-                                    </div>
-
-                                    <div id="collapseShawna" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Shawna’s experience spans over 25 years. Miss Shawna has successfully studied in New York at Dance Theater of Harlem, Alvin Ailey American Dance Theater and Martha Graham Dance School just to name a few. Miss Shawna studied various styles of modern dance such as Horton technique, Graham, Limon, and Dunham technique. Miss Shawna has chose to teach Horton technique in South Florida, and was taught by Marie Forsythe educator of Horton technique.
-
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -611,8 +545,77 @@
                         </div>
                     </div>
                 </div>
+
             </div>
         </div>
     </div>
+
+{{--    <h1 class="head-white py-4">Guest Artists</h1>--}}
+{{--    <div class="bg-dark">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-colslg-2">--}}
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="images/kevin.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseKevin" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Kevin Aubin--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
+
+{{--                                    <div id="collapseKevin" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Kevin Aubin is an Alumni of Encore Dance Theatre. At age 15, he moved to NYC to attend the School of American Ballet. Kevin has performed throughout Europe, Japan and the United States. He has danced on Broadway with the companies of Wicked, Hot Feet, Spiderman: Turn Off the Dark , European tour of West Side Story; as well as originating the role of Paulo in the award winning New York Festival Production of Common Grounds Off-Broadway. You can see Kevin in the Golden Globe nominated film Across the Universe and in Old Dogs. Kevin as had the opportunity to perform on the Today Show, Dancing with the Stars, as a lead in a National Truth anti-smoking commercial, Comedy Central, and as a model for DKNY, Teen Magazine, and has graced the covers of New York Magazine and Time Out NY. Kevin is the owner/artistic director of Intrigue Dance Intensive.--}}
+
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="images/shawna.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseShawna" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Shawna Hall-Bowden--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
+
+{{--                                    <div id="collapseShawna" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Shawna’s experience spans over 25 years. Miss Shawna has successfully studied in New York at Dance Theater of Harlem, Alvin Ailey American Dance Theater and Martha Graham Dance School just to name a few. Miss Shawna studied various styles of modern dance such as Horton technique, Graham, Limon, and Dunham technique. Miss Shawna has chose to teach Horton technique in South Florida, and was taught by Marie Forsythe educator of Horton technique.--}}
+
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+
+
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @endsection
