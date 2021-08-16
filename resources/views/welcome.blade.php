@@ -57,22 +57,23 @@
 
     <div id="next-steps-section">
         <div class="container py-5">
+            <h1 class="text-uppercase text-center text-white">Take the first step to dance with us enroll today!</h1>
             <div class="row">
                 <div class="col-sm next-step shadow m-2 py-4">
-                    <p class="txt-green">Ready To Leap In?</p>
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+                    <p class="txt-encore">Ready To Leap In?</p>
+                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</div></a>
                 </div>
                 <div class="col-sm next-step shadow m-2 py-4">
-                    <p class="txt-blue">Want To Give It A Try?</p>
+                    <p class="txt-encore">Want To Give It A Try?</p>
                     <div>
                         {{--                    <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
-                        <a href="/#tryit" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family">&#10097; Schedule A Trial!</div></a>
+                        <a href="/#tryit" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Schedule A Trial!</div></a>
 
                     </div>
                 </div>
                 <div class="col-sm next-step shadow m-2 py-4">
-                    <p class="txt-pink">Still Have Questions?</p>
-                    <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
+                    <p class="txt-encore">Still Have Questions?</p>
+                    <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Contact Us!</div></a>
                 </div>
             </div>
         </div>

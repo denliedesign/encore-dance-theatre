@@ -636,6 +636,7 @@ h1 {
     font-size: 1.25em;
 }
 
+.txt-encore { color: #0092BC; }
 .txt-green { color: #10c45c; }
 .txt-blue { color: #307ad5; }
 .txt-pink { color: #d94da6; }
@@ -647,9 +648,11 @@ h1 {
     padding: 10px 20px;
 }
 
+.btn-encore { background: rgba(0, 146, 188, 1); }
 .btn-blue { background: rgba(48, 122, 213, 1); }
 .btn-green { background: rgba(16, 196, 92, 1); }
 .btn-pink { background: rgba(217, 77, 166, 1); }
+.btn-encore:hover { background: rgba(0, 146, 188, 0.7); color: white; }
 .btn-blue:hover { background: rgba(48, 122, 213, 0.7); color: white; }
 .btn-green:hover { background: rgba(16, 196, 92, 0.7); color: white; }
 .btn-pink:hover { background: rgba(217, 77, 166, 0.7); color: white; }
