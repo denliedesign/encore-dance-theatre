@@ -223,7 +223,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/coming-soon.jpg" alt="">
+                                <img src="/images/alicia.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -239,7 +239,7 @@
 
                                     <div id="collapseAlicia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
+                                            Alicia studied classical ballet under respected former ballerina Magda Auñon. In 2015, she was invited to study at the Ellison Ballet professional training program in New York. Shortly after graduating from the program, Alicia stayed in New York and went on to dance professionally. She now teaches ballet and contemporary to a variety of ages and levels across south florida, and is finishing her degrees in criminal justice and psychology.
                                         </div>
                                     </div>
                                 </div>
