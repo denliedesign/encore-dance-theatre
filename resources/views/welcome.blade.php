@@ -22,7 +22,7 @@
         </div>
     </div>
 
-    <video class="head-video" src="images/edt-promo.mp4" autoplay="" muted="" controls="" loop="">
+    <video class="head-video" src="images/edt-promo-2.mov" autoplay="" muted="" controls="" loop="">
     </video>
 
     <div id="vision-head">
