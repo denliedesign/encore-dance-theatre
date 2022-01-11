@@ -3,6 +3,16 @@
 @section('description', '')
 @section('content')
 
+    <div class="container">
+        <h1 class="head-white py-4">Our Faculty</h1>
+        <div class="d-flex justify-content-center pb-4">
+            <video width="100%" height="auto" poster="/images/staff-interviews-poster-image.jpg" controls>
+                <source src="/images/edt-staff-interviews.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+    </div>
+
     <h1 class="head-white py-4">Owner/Artistic Director</h1>
     <div class="bg-dark">
         <div class="container">

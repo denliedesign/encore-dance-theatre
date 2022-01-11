@@ -76,6 +76,11 @@
                     <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Contact Us!</div></a>
                 </div>
             </div>
+            <div class="d-flex justify-content-center pt-3">
+                <div class="row">
+                    <img src="/images/recital-scan.jpg" class="img-fluid rounded" alt="">
+                </div>
+            </div>
         </div>
     </div>
 
@@ -186,7 +191,7 @@
         <div class="row m-0 c-0">
             <div class="col-6 bg-light-gray pl-5 py-5">
                 <div class="container">
-                    <h1 class="text-uppercase text-right">edt is a safer</h1>
+                    <h1 class="text-uppercase text-center">edt is a safer studio</h1>
                     <p class="text-center">EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
                     <div class="d-flex justify-content-center">
                         <img src="/images/safer-studio-logo.png" alt="" style="max-height: 200px;">
@@ -195,34 +200,30 @@
             </div>
             <div class="col-6 bg-mdu-gray py-5">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-sm">
-                            <h1 class="text-uppercase">studio&trade;</h1>
-                            <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>
-                            <p>
-                                <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
-                                <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
-                                <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
-                                <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
-                                <br><ion-icon name="checkmark"></ion-icon> Secured facilities
-                                <br><ion-icon name="checkmark"></ion-icon> T. V. Monitors to view classes
-                                <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
-                                <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
-                            </p>
-                        </div>
-                        <div class="col-sm d-flex align-items-center justify-content-center">
-                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">
-                        </div>
-                    </div>
+                    <video width="100%" height="auto" poster="/images/safer-studio-poster-image.jpg" controls>
+                        <source src="/images/edt-covid.MP4" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+{{--                    <div class="row">--}}
+{{--                        <div class="col-sm">--}}
+{{--                            <h1 class="text-uppercase">studio&trade;</h1>--}}
+{{--                            <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>--}}
+{{--                            <p>--}}
+{{--                                <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> Secured facilities--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> T. V. Monitors to view classes--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors--}}
+{{--                                <br><ion-icon name="checkmark"></ion-icon> Social media safety practices--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm d-flex align-items-center justify-content-center">--}}
+{{--                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
                 </div>
-            </div>
-        </div>
-        <div class="d-flex justify-content-center py-5" style="background: #4B5C6B;">
-            <div class="container">
-                <video width="100%" height="auto" controls>
-                    <source src="/images/edt-covid.MP4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
             </div>
         </div>
     </div>
@@ -235,38 +236,38 @@
         <div class="d-flex justify-content-center pb-2">
             <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
         </div>
-        <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>
-        <p>
-            <ion-icon name="checkmark"></ion-icon>
-            Background checked and CPR certified teachers
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Safety Studio&trade; Policy
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Teacher training & proven curriculum
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            A focus on safety & wellness for every student
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Secured facilities
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            T. V. Monitors to view classes
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Professional sprung floors
-            <br>
-            <ion-icon name="checkmark"></ion-icon>
-            Social media safety practices
-        </p>
-        <div class="d-flex justify-content-center">
-            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
-        </div>
+{{--        <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>--}}
+{{--        <p>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Background checked and CPR certified teachers--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Safety Studio&trade; Policy--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Teacher training & proven curriculum--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            A focus on safety & wellness for every student--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Secured facilities--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            T. V. Monitors to view classes--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Professional sprung floors--}}
+{{--            <br>--}}
+{{--            <ion-icon name="checkmark"></ion-icon>--}}
+{{--            Social media safety practices--}}
+{{--        </p>--}}
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">--}}
+{{--        </div>--}}
         <div class="d-flex justify-content-center py-5">
             <div class="container">
-                <video width="100%" height="auto" controls>
+                <video width="100%" height="auto" poster="/images/safer-studio-poster-image.jpg" controls>
                     <source src="/images/edt-covid.MP4" type="video/mp4">
                     Your browser does not support the video tag.
                 </video>

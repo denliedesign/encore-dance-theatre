@@ -225,6 +225,9 @@
                 </div>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="https://sites.google.com/view/edtrecital2022/home" target="_blank">Recital</a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Register</a>
             </li>
             <li class="nav-item active">

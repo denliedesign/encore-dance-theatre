@@ -10,6 +10,12 @@
 
     <h1 class="head py-4">Why Choose Encore?</h1>
     <div class="container">
+        <div class="d-flex justify-content-center pt-4">
+            <video width="100%" height="auto" poster="/images/parent-interview-poster-image.jpg" controls>
+                <source src="/images/edt-parent-interviews.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
         <p class="text-center py-4" style="font-size: 1.25em">
             Encore is a place where kids of all ages learn to dance and perform. This is a studio where creativity, individuality and self-expression is encouraged and has a community of teachers, students and families who are passionate about performing arts. Our goal is to create a positive and happy experience for all of our students. We strive to nurture and develop talent, celebrate the achievements of all students and inspire a love and appreciation of all styles of dance and the arts. We are committed to providing a safe and positive environment in which all students can feel empowered, comfortable and free to express themselves.
         </p>
