@@ -360,7 +360,7 @@
             <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>
-            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>
+{{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
         </div>
     </div>
     <div class="partners d-md-none">
@@ -373,7 +373,7 @@
             <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>
             <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>
-            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>
+{{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
         </div>
     </div>
 
