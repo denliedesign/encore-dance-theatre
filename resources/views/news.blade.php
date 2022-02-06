@@ -7,13 +7,18 @@
     <div class="container">
         <div class="row">
             <div class="col-sm" id="animate-news-1">
-                <h2 style="text-decoration: underline;">SAWGRASS SUN</h2>
-                <img src="images/Traveling-Tutus.jpg" alt="" class="img-fluid mb-2" style="max-height: 302.4px;">
-                <p class="pb-2" style="font-size: 1.25em">
-                    <a style="text-decoration: underline;" href="https://encoredancetheatre.com/images/Traveling-Tutus.pdf" target="_blank">Teen ambassadors help tutus travel around the world</a>
-                    <br>
-                    <small class="text-muted">March 27 - April 2, 2019</small>
-                </p>
+                <div>
+                    <img src="/images/city-of-sunrise-cultural-festival.jpeg" alt="cultural festival dancers" class="img-fluid">
+                </div>
+                <div class="mt-3">
+                    <h2 style="text-decoration: underline;">SAWGRASS SUN</h2>
+                    <img src="images/Traveling-Tutus.jpg" alt="" class="img-fluid mb-2" style="max-height: 302.4px;">
+                    <p class="pb-2" style="font-size: 1.25em">
+                        <a style="text-decoration: underline;" href="https://encoredancetheatre.com/images/Traveling-Tutus.pdf" target="_blank">Teen ambassadors help tutus travel around the world</a>
+                        <br>
+                        <small class="text-muted">March 27 - April 2, 2019</small>
+                    </p>
+                </div>
             </div>
             <div class="col-sm" id="animate-news-2">
                 <h2 style="text-decoration: underline;">SUNSENTINEL</h2>
