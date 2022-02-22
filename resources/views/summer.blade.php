@@ -5,7 +5,7 @@
 
     <div class="container">
         <h1 class="head-white py-4" style="text-decoration: underline;">Summer</h1>
-        <h2 class="text-center">Summer Camps & Intensives</h2>
+        <h2 class="text-center">Summer Camps & Classes</h2>
         <div class="row my-3">
             <div class="col-sm mb-3">
                 <img src="/images/summer-camps-1.jpg" alt="dance camp promotion" class="img-fluid rounded shadow" id="summer-1">
@@ -34,7 +34,7 @@
                 </div>
             </div>
         </div>
-        <h2 class="text-center">Summer Classes</h2>
+{{--        <h2 class="text-center">Summer Classes</h2>--}}
         <div class="row my-3">
             <div class="col-sm mb-3">
                 <img src="/images/summer-classes-1.jpg" alt="summer classes" class="img-fluid rounded shadow" id="summer-5">

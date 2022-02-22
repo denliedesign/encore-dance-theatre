@@ -109,35 +109,35 @@
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/bailee-2.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseBailee" aria-expanded="true" aria-controls="collapseOne">
-                                                Bailee Cudmore
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/bailee-2.jpeg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseBailee" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Bailee Cudmore--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseBailee" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Bailee began her ballet studies at the age of 3 under the instruction of Dana Williams of Ballet Elite Dance Studio in South Florida. She moved away to further her training at the School of Pennsylvania in 2015, and the Miami City Ballet School in 2016 under the direction of renown principle ballerina Arantxa Ochoa. She now both teaches and dances professionally in South Florida, and is a certified fitness trainer under AFAA in “Tendu Toning.” Modern, contemporary, jazz, and musical theater have been integral parts of Bailee’s background and training as well.
+{{--                                    <div id="collapseBailee" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Bailee began her ballet studies at the age of 3 under the instruction of Dana Williams of Ballet Elite Dance Studio in South Florida. She moved away to further her training at the School of Pennsylvania in 2015, and the Miami City Ballet School in 2016 under the direction of renown principle ballerina Arantxa Ochoa. She now both teaches and dances professionally in South Florida, and is a certified fitness trainer under AFAA in “Tendu Toning.” Modern, contemporary, jazz, and musical theater have been integral parts of Bailee’s background and training as well.--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
