@@ -210,7 +210,7 @@
 {{--                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>--}}
 {{--            </li>--}}
             <li class="nav-item active">
-                <a class="nav-link" href="/fall">Fall</a>
+                <a class="nav-link" href="/summer">Summer</a>
             </li>
 {{--            <li class="nav-item active">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
