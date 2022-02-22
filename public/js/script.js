@@ -84,3 +84,7 @@ function animation() {
 window.addEventListener('load', function(){
     animation();
 })
+
+function downToBottom() {
+    gsap.to(window, {duration: 5, ease: 'power2.inOut', scrollTo: '#bottom'});
+}
