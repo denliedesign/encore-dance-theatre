@@ -53,9 +53,13 @@ Route::get('prices', function () {
     return view('prices');
 });
 
-Route::get('dancily', function () {
-    return view('dancily');
+Route::get('/recital', function () {
+    return view('/recital');
 });
+
+//Route::get('dancily', function () {
+//    return view('dancily');
+//});
 
 Route::get('contact', 'ContactUsController@create')->name('contact.create');
 Route::post('contact', 'ContactUsController@store')->name('contact.store');
