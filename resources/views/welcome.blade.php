@@ -5,14 +5,18 @@
     <div id="summerModal" class="modal fade">
         <div class="modal-dialog">
             <div class="modal-content">
-                <div class="modal-header bg-encore text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Summer 2022 Now</h4>
+                <div class="modal-header bg-encore-dark text-white text-uppercase">
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
-                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>
+{{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
+                    <a href="/fall">
+                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">
+                        </video>
+                    </a>
                 </div>
 {{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
 {{--                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>--}}

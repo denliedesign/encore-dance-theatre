@@ -536,6 +536,10 @@ h1 {
     background: #3cc2d9;
 }
 
+.bg-encore-dark {
+    background: rgba(0, 146, 188, 1);
+}
+
 .bg-mdu-gray {
     background: #657380 !important;
 }
