@@ -14,8 +14,9 @@
                 <div class="modal-body">
 {{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
                     <a href="/fall">
-                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">
-                        </video>
+{{--                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">--}}
+{{--                        </video>--}}
+                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">
                     </a>
                 </div>
 {{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
