@@ -496,35 +496,35 @@
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/molly.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMolly" aria-expanded="true" aria-controls="collapseOne">
-                                                Molly Roller
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/molly.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMolly" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Molly Roller--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseMolly" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Molly Roller has been dancing for over 30 years, training in Southern California under Louis McKay, Anatoly Sisman, Tonnie Sammartano, Judith Sharp, and Xavier Hicks to name a few. She was invited to perform in multiple bowl games, featured in American Cheerleader magazine, and recognized with numerous awards at the national level. As an instructor and choreographer for over 15 years, Molly has worked with numerous studios as well as high school, collegiate, and professional teams from coast to coast. She is a member of the National Dance Education Organization and currently moonlights as an instructor and audition judge for the Miami Dolphins Cheerleaders.
+{{--                                    <div id="collapseMolly" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Molly Roller has been dancing for over 30 years, training in Southern California under Louis McKay, Anatoly Sisman, Tonnie Sammartano, Judith Sharp, and Xavier Hicks to name a few. She was invited to perform in multiple bowl games, featured in American Cheerleader magazine, and recognized with numerous awards at the national level. As an instructor and choreographer for over 15 years, Molly has worked with numerous studios as well as high school, collegiate, and professional teams from coast to coast. She is a member of the National Dance Education Organization and currently moonlights as an instructor and audition judge for the Miami Dolphins Cheerleaders.--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
