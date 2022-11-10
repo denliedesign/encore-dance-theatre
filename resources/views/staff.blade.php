@@ -79,35 +79,35 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/rebekah.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRebekah" aria-expanded="true" aria-controls="collapseOne">
-                                                Rebekah Brodsky
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/rebekah.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRebekah" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Rebekah Brodsky--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseRebekah" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Rebekah has been dancing at Encore Dance Theatre since the age of 2. She has been competing and performing for the past 12 years and has received multiple overall awards. In 2016-2017 she was an asssitant for the dance convention Intrigue and had the opportunity to choreograph, asssit and learn from some of the industries best instructors. Summer of 2018 she was accepted to the prestigious Alvin Ailey program in NYC. This year she was awarded for her choreography and is excited to share her love of dance with Encore’s students this season.
+{{--                                    <div id="collapseRebekah" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Rebekah has been dancing at Encore Dance Theatre since the age of 2. She has been competing and performing for the past 12 years and has received multiple overall awards. In 2016-2017 she was an asssitant for the dance convention Intrigue and had the opportunity to choreograph, asssit and learn from some of the industries best instructors. Summer of 2018 she was accepted to the prestigious Alvin Ailey program in NYC. This year she was awarded for her choreography and is excited to share her love of dance with Encore’s students this season.--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
 {{--                <div class="col-sm master-faculty-col">--}}
 {{--                    <div class="row py-4">--}}
@@ -138,11 +138,41 @@
 {{--                        </div>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/german.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseGerman" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                German Dager--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
+
+{{--                                    <div id="collapseGerman" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            German’s studies in classical ballet, jazz and modern dance were completed at Les Grands Ballet Canadiense in Montreal, York University in Toronto, and University of North Carolina School of the Arts. German danced professionally with Boston Ballet, Ballet de Montreal, Ballet Florida and was a guest dancer with Compañia Colombiana de Ballet. Mr. Dager has been teaching and coaching dancers since 1986. He is a certified classical ballet teacher by examination.--}}
+
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/german.jpg" alt="">
+                                <img src="/images/christa.jpeg" alt="headshot">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -150,16 +180,18 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseGerman" aria-expanded="true" aria-controls="collapseOne">
-                                                German Dager
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseChrista"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Christa Carpani
                                             </button>
                                         </h2>
                                     </div>
 
-                                    <div id="collapseGerman" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                    <div id="collapseChrista" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            German’s studies in classical ballet, jazz and modern dance were completed at Les Grands Ballet Canadiense in Montreal, York University in Toronto, and University of North Carolina School of the Arts. German danced professionally with Boston Ballet, Ballet de Montreal, Ballet Florida and was a guest dancer with Compañia Colombiana de Ballet. Mr. Dager has been teaching and coaching dancers since 1986. He is a certified classical ballet teacher by examination.
-
+Bio coming soon
                                         </div>
                                     </div>
                                 </div>
@@ -229,34 +261,34 @@
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/alicia.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseAlicia" aria-expanded="true" aria-controls="collapseOne">
-                                                Alicia Goytizolo
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/alicia.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseAlicia" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Alicia Goytizolo--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseAlicia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Alicia studied classical ballet under respected former ballerina Magda Auñon. In 2015, she was invited to study at the Ellison Ballet professional training program in New York. Shortly after graduating from the program, Alicia stayed in New York and went on to dance professionally. She now teaches ballet and contemporary to a variety of ages and levels across south florida, and is finishing her degrees in criminal justice and psychology.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseAlicia" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Alicia studied classical ballet under respected former ballerina Magda Auñon. In 2015, she was invited to study at the Ellison Ballet professional training program in New York. Shortly after graduating from the program, Alicia stayed in New York and went on to dance professionally. She now teaches ballet and contemporary to a variety of ages and levels across south florida, and is finishing her degrees in criminal justice and psychology.--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -278,8 +310,7 @@
 
                                     <div id="collapseLuz" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Bio coming soon.
-
+                                            Luz Monica is a graduate in Performing Arts, with a specialty in Ballet, graduated with a Gold Degree from the Higher Institute of Art of Havana, postgraduate in Historical Dances and Dances of Character, of Elementary and Middle level in the Superior Institute of Art of Havana. With vast experience in teaching, teaching courses in Classical Technique, Character Dances, Point Techniques and Repertoire at various levels. With pedagogical, didactic, methodological and administrative tools to guarantee the integral development of schools and dance academies; special interest in teaching, vocational guidance and planning and organization of the artistic curriculum. Co-creator and administrator of the La Luz de la Danza Foundation. With skills for work under pressure, achievement orientation and high-performance capacity in tasks of responsibility and exigency. We are thrilled to have Luz Monica on faculty.
                                         </div>
                                     </div>
                                 </div>
@@ -339,6 +370,103 @@
                                         <div class="card-body faculty-bio-txt">
                                             Cindy Dale Grossman studied Classical Ballet and Modern Dance at the American Ballet Theatre and the Alvin Ailey American Dance Theater, in New York. Ms. Grossman performed with the American Ballet Theatre, the Ballet Nacional de Cuba, and the Stuttgart Ballet, at Lincoln Center and other venues in New York, Washington D.C., and Chicago. She was a soloist with the Richmond Ballet Company. Her passion is to train and inspire young dancers in Classical Ballet and Modern technique, and share her love of Dance.
 
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/noeah.jpg" alt="headshot">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseNoeah"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Noeah Jacobs
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseNoeah" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/olivia.jpeg" alt="headshot">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseOlivia"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Olivia Marquis
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseOlivia" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Olivia has an extensive background in all styles of dance. She recently graduated from Florida Atlantic University with a degree in Communication Studies. Olivia was a student athlete throughout college and was a member of the fau dance team. Olivia competed at NDA and even placed 5th in the nation with her team. She is very excited to switch gears to teaching this year with Encore. She is excited to share her passion for dance with her students.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/victoria.png" alt="headshot">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseVictoria"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Victoria Mondelli
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseVictoria" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Tori has dances since she was three years old, training at Dance Theatre of Parkland. She was in her studio's company, where she was able to perform at Miami Heat and Miami Dolphins Halftime shows.She was on the Marjory Stoneman Douglas competitive color guard team in High School where they placed 5th overall in the world. She has over 15 years of dance training in styles such as ballet, hip hop, jazz, lyrical, contemporary, etc. Tori is beyond grateful to be a part of Encore Dance Theater this season, being able to teach and share her passion for dance with such hardworking and talented students is so rewarding!
                                         </div>
                                     </div>
                                 </div>
@@ -555,6 +683,40 @@
                         </div>
                     </div>
                 </div>
+
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/sabrina.jpeg" alt="headshot">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    data-toggle="collapse" data-target="#collapseSabrina"
+                                                    aria-expanded="true" aria-controls="collapseOne">
+                                                Sabrina Wakat
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseSabrina" class="collapse" aria-labelledby="headingOne"
+                                         data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Sabrina has been a student at Encore Dance Theatre since the age of 8 years old. Since then she has taken every genre of dance Encore has to offer. Sabrina’s love of dance was apparent and she was quickly invited onto our competition team. She is a current member of our elite competition team and has won many accolades. Sabrina has trained under many master teachers. She has been through our teacher training program, teaching alongside Ms. Marlee Ramirez for the past 4 years and is now a teacher for Encore. She is loving, caring, smart and kind. Sabrina loves teaching and working with children of all ages but especially loves the little ones. In her free time she is also an ice skating instructor. We are so proud of Sabrina and the work she has put into becoming an amazing instructor. She is so excited to teach and bring her love of dance to her EDT students.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
 
             </div>
         </div>

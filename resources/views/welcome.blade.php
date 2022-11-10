@@ -322,31 +322,37 @@
     </section>
 
     <div class="partners d-none d-md-block">
-        <div class="row d-flex align-items-center px-0 mx-0">
-            <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>
-            <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
-            <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>
-{{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
+        <div class="container">
+            <div class="row d-flex align-items-center px-0 mx-0">
+                <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>--}}
+                {{--            <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>--}}
+                <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
+                <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/logo-ready-set-dance.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>--}}
+                {{--            <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>--}}
+                {{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
+            </div>
         </div>
     </div>
     <div class="partners d-md-none">
-        <div class="row row-cols-3 d-flex align-items-center">
-            <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>
-            <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
-            <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>
-{{--            <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>--}}
-            <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>
-{{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
+        <div class="container">
+            <div class="row row-cols-3 d-flex align-items-center">
+                <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>--}}
+                {{--            <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>--}}
+                <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
+                <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/logo-ready-set-dance.png" style="width: 100%;"></a></div>
+                {{--            <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>--}}
+                {{--            <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>--}}
+                {{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}
+            </div>
         </div>
     </div>
 
