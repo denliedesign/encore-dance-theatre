@@ -224,9 +224,9 @@
                     <a class="dropdown-item" href="/teams#competitive">Elite Team</a>
                 </div>
             </li>
-{{--            <li class="nav-item active">--}}
-{{--                <a class="nav-link" href="/recital">Recital</a>--}}
-{{--            </li>--}}
+            <li class="nav-item active">
+                <a class="nav-link" href="/recital">Recital</a>
+            </li>
             <li class="nav-item active">
                 <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Register</a>
             </li>
