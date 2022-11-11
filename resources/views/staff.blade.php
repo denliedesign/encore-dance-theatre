@@ -382,7 +382,7 @@ Bio coming soon
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/noeah.jpg" alt="headshot">
+                                <img src="/images/noeah.jpg" alt="headshot" style="transform: scale(1.65);">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -414,7 +414,7 @@ Bio coming soon
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/olivia.jpeg" alt="headshot">
+                                <img src="/images/olivia-marquis.jpeg" alt="headshot" style="transform: scale(1.4)">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -422,7 +422,7 @@ Bio coming soon
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button"
+                                                    <button class="btn btn-link" style="height: 84px;" type="button"
                                                     data-toggle="collapse" data-target="#collapseOlivia"
                                                     aria-expanded="true" aria-controls="collapseOne">
                                                 Olivia Marquis
