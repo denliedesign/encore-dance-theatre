@@ -331,7 +331,7 @@
                 {{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
                 <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
                 <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>
-                <div class="col img-fluid"><a><img src="images/logo-ready-set-dance.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/logo-ready-set-dance-2.png" style="width: 100%;"></a></div>
                 {{--            <div class="col img-fluid"><a><img src="images/partner7.png" style="width: 100%;"></a></div>--}}
                 {{--            <div class="col img-fluid"><a href="https://www.travelingtutus.org/" target="_blank"><img src="images/partner8.png" style="width: 100%;" alt=""></a></div>--}}
                 {{--            <div class="col img-fluid"><a href="https://www.ypadnow.com/" target="_blank"><img src="images/ypad.png" style="width: 100%;" alt=""></a></div>--}}

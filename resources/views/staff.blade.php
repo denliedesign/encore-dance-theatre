@@ -466,7 +466,7 @@ Bio coming soon
                                     <div id="collapseVictoria" class="collapse" aria-labelledby="headingOne"
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Tori has dances since she was three years old, training at Dance Theatre of Parkland. She was in her studio's company, where she was able to perform at Miami Heat and Miami Dolphins Halftime shows.She was on the Marjory Stoneman Douglas competitive color guard team in High School where they placed 5th overall in the world. She has over 15 years of dance training in styles such as ballet, hip hop, jazz, lyrical, contemporary, etc. Tori is beyond grateful to be a part of Encore Dance Theater this season, being able to teach and share her passion for dance with such hardworking and talented students is so rewarding!
+                                            Tori has danced since she was three years old, training at Dance Theatre of Parkland. She was in her studio's company, where she was able to perform at Miami Heat and Miami Dolphins Halftime shows.She was on the Marjory Stoneman Douglas competitive color guard team in High School where they placed 5th overall in the world. She has over 15 years of dance training in styles such as ballet, hip hop, jazz, lyrical, contemporary, etc. Tori is beyond grateful to be a part of Encore Dance Theater this season, being able to teach and share her passion for dance with such hardworking and talented students is so rewarding!
                                         </div>
                                     </div>
                                 </div>

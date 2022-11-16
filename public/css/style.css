@@ -128,7 +128,7 @@ h1 {
 .tri-plus {
     position: absolute;
     color: white;
-    background: transparent;
+    background: transparent !important;
     z-index: 4;
     top: 60%;
     left: 50%;
