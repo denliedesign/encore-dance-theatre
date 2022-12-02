@@ -204,7 +204,7 @@ Bio coming soon
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/melissa.jpg" alt="melissa headshot">
+                                <img src="/images/melissa-delatorre.png" alt="melissa headshot">
                             </div>
                         </div>
                         <div class="col-sm-8">
