@@ -6,17 +6,20 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header bg-encore-dark text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Summer 2023 Now</h4>
+{{--                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>--}}
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
                 </div>
                 <div class="modal-body">
 {{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
-                    <a href="/fall">
+                    <a href="/summer">
+{{--                    <a href="/fall">--}}
 {{--                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">--}}
 {{--                        </video>--}}
-                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">
+{{--                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">--}}
+                        <img src="/images/23-summer-hello.jpg" alt="fall session" class="img-fluid">
                     </a>
                 </div>
 {{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
