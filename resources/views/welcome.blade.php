@@ -95,7 +95,7 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row py-5">
-                <div class="col-md-7 text-center d-flex align-items-center">
+                <div class="col-md-12 text-center d-flex align-items-center">
                     <div>
                         <h1 class="text-uppercase">We Have Built a Reputation for Excellence in Dance Instruction</h1>
                         <p style="font-size: 1.25em; line-height: 2.5;">
@@ -104,16 +104,16 @@
                         <button class="btn btn-lg btn-outline-primary mb-2">Welcome to<br><span id="encore-btn">Encore</span><br>Dance Theatre</button>
                     </div>
                 </div>
-                <div class="col-md-5 text-center" id="tryit">
-                    <div id="trial-img">
-                        <img src="images/CharleeTutus.png" alt="" class="img-fluid">
-                    </div>
-                    <h5 class="modal-title mt-2" id="trymodalLabel">Your First Class FREE</h5>
-                    <small class="text-muted">Limited availability. For a short time only.</small>
-                    <div class="modal-body text-left mx-2">
-                        @include('trial.form')
-                    </div>
-                </div>
+{{--                <div class="col-md-5 text-center" id="tryit">--}}
+{{--                    <div id="trial-img">--}}
+{{--                        <img src="images/CharleeTutus.png" alt="" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                    <h5 class="modal-title mt-2" id="trymodalLabel">Your First Class FREE</h5>--}}
+{{--                    <small class="text-muted">Limited availability. For a short time only.</small>--}}
+{{--                    <div class="modal-body text-left mx-2">--}}
+{{--                        @include('trial.form')--}}
+{{--                    </div>--}}
+{{--                </div>--}}
             </div>
         </div>
     </div>
