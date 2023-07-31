@@ -6,7 +6,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header bg-encore-dark text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Summer 2023 Now</h4>
+                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2023 Now</h4>
 {{--                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>--}}
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
@@ -14,12 +14,12 @@
                 </div>
                 <div class="modal-body">
 {{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
-                    <a href="/summer">
+                    <a href="/fall">
 {{--                    <a href="/fall">--}}
 {{--                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">--}}
 {{--                        </video>--}}
 {{--                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">--}}
-                        <img src="/images/23-summer-hello.jpg" alt="fall session" class="img-fluid">
+                        <img src="/images/23-fall-registration.jpg" alt="fall session" class="img-fluid">
                     </a>
                 </div>
 {{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
@@ -195,21 +195,21 @@
     </div>
 
 
-    <div class="text-white bg-light-gray ">
-        <div class="container">
-            <div class="py-5">
-                <div class="row m--0 p-0">
-                    <div class="col-sm">
-                        <h1 class="text-uppercase text-center">edt is a safer studio</h1>
-                        <p class="text-center" style="font-size: 1.5em;">EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
-                    </div>
-                    <div class="col-sm d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+{{--    <div class="text-white bg-light-gray ">--}}
+{{--        <div class="container">--}}
+{{--            <div class="py-5">--}}
+{{--                <div class="row m--0 p-0">--}}
+{{--                    <div class="col-sm">--}}
+{{--                        <h1 class="text-uppercase text-center">edt is a safer studio</h1>--}}
+{{--                        <p class="text-center" style="font-size: 1.5em;">EDT focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm d-flex justify-content-center">--}}
+{{--                        <img src="/images/safer-studio-logo.png" alt="" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 {{--        <p class="font-weight-bold">EDT is Youth Protection Advocates in Dance&reg; Certified!</p>--}}
 {{--        <p>--}}
@@ -314,7 +314,8 @@
                 <img src="images/gram3.jpg" alt="dancers">
                 <img src="images/gram4.jpg" alt="dancers">
                 <img src="images/gram7.jpg" alt="dancers">
-                <img src="images/gram5.jpg" alt="dancers">
+{{--                <img src="images/gram5.jpg" alt="dancers">--}}
+                <img src="images/insta-new.jpeg" alt="dancers">
                 <img src="images/gram9.jpg" alt="dancers">
                 <img src="images/gram8.jpg" alt="dancers">
                 <img src="images/gram10.jpg" alt="dancers">

@@ -340,7 +340,9 @@ Bio coming soon
 
                                     <div id="collapseDeanna" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
+                                            Deanna Greist grew up in South Florida and began her training at Jill Mallory Studio of Dance at the age of three. In high school, she trained at Donna Lee Studio of Dance and became an inaugural member of Expressions Dance Company where she was afforded the opportunity to work with nationally renowned choreographers, such as Rennie and Rhee Gold, Scott Fowler, and Debbie Dee. At the age of 18, Deanna became a member of The Young Americans where she benefitted from multiple national touring opportunities including working with and performing for the likes of Barbra Streisand, George Burns, and Shirley MacLaine to name a few.
+                                            <br><br>
+                                            Deanna has been a dance educator/choreographer in South Florida for more than 30 years and has spent three of those years on faculty at Encore Dance Theatre. She is a certified Acrobatics Arts Instructor, as well as a certified Acro Dance Teacher Association Adjudicator. Deanna is also a certified judge for the Miss America Organization and enjoys judging local competitions. She is excited to be back for another successful year at Encore Dance Theatre!
                                         </div>
                                     </div>
                                 </div>
@@ -348,35 +350,35 @@ Bio coming soon
                         </div>
                     </div>
                 </div>
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/cindy.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseCindy" aria-expanded="true" aria-controls="collapseOne">
-                                                Cindy Grossman
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/cindy.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseCindy" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Cindy Grossman--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseCindy" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Cindy Dale Grossman studied Classical Ballet and Modern Dance at the American Ballet Theatre and the Alvin Ailey American Dance Theater, in New York. Ms. Grossman performed with the American Ballet Theatre, the Ballet Nacional de Cuba, and the Stuttgart Ballet, at Lincoln Center and other venues in New York, Washington D.C., and Chicago. She was a soloist with the Richmond Ballet Company. Her passion is to train and inspire young dancers in Classical Ballet and Modern technique, and share her love of Dance.
+{{--                                    <div id="collapseCindy" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Cindy Dale Grossman studied Classical Ballet and Modern Dance at the American Ballet Theatre and the Alvin Ailey American Dance Theater, in New York. Ms. Grossman performed with the American Ballet Theatre, the Ballet Nacional de Cuba, and the Stuttgart Ballet, at Lincoln Center and other venues in New York, Washington D.C., and Chicago. She was a soloist with the Richmond Ballet Company. Her passion is to train and inspire young dancers in Classical Ballet and Modern technique, and share her love of Dance.--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -410,70 +412,70 @@ Bio coming soon
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/olivia-marquis.jpeg" alt="headshot" style="transform: scale(1.4)">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                                    <button class="btn btn-link" style="height: 84px;" type="button"
-                                                    data-toggle="collapse" data-target="#collapseOlivia"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                Olivia Marquis
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/olivia-marquis.jpeg" alt="headshot" style="transform: scale(1.4)">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                                    <button class="btn btn-link" style="height: 84px;" type="button"--}}
+{{--                                                    data-toggle="collapse" data-target="#collapseOlivia"--}}
+{{--                                                    aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Olivia Marquis--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseOlivia" class="collapse" aria-labelledby="headingOne"
-                                         data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Olivia has an extensive background in all styles of dance. She recently graduated from Florida Atlantic University with a degree in Communication Studies. Olivia was a student athlete throughout college and was a member of the fau dance team. Olivia competed at NDA and even placed 5th in the nation with her team. She is very excited to switch gears to teaching this year with Encore. She is excited to share her passion for dance with her students.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseOlivia" class="collapse" aria-labelledby="headingOne"--}}
+{{--                                         data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Olivia has an extensive background in all styles of dance. She recently graduated from Florida Atlantic University with a degree in Communication Studies. Olivia was a student athlete throughout college and was a member of the fau dance team. Olivia competed at NDA and even placed 5th in the nation with her team. She is very excited to switch gears to teaching this year with Encore. She is excited to share her passion for dance with her students.--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/victoria.png" alt="headshot">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button"
-                                                    data-toggle="collapse" data-target="#collapseVictoria"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                Victoria Mondelli
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/victoria.png" alt="headshot">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button"--}}
+{{--                                                    data-toggle="collapse" data-target="#collapseVictoria"--}}
+{{--                                                    aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Victoria Mondelli--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseVictoria" class="collapse" aria-labelledby="headingOne"
-                                         data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Tori has danced since she was three years old, training at Dance Theatre of Parkland. She was in her studio's company, where she was able to perform at Miami Heat and Miami Dolphins Halftime shows.She was on the Marjory Stoneman Douglas competitive color guard team in High School where they placed 5th overall in the world. She has over 15 years of dance training in styles such as ballet, hip hop, jazz, lyrical, contemporary, etc. Tori is beyond grateful to be a part of Encore Dance Theater this season, being able to teach and share her passion for dance with such hardworking and talented students is so rewarding!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseVictoria" class="collapse" aria-labelledby="headingOne"--}}
+{{--                                         data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Tori has danced since she was three years old, training at Dance Theatre of Parkland. She was in her studio's company, where she was able to perform at Miami Heat and Miami Dolphins Halftime shows.She was on the Marjory Stoneman Douglas competitive color guard team in High School where they placed 5th overall in the world. She has over 15 years of dance training in styles such as ballet, hip hop, jazz, lyrical, contemporary, etc. Tori is beyond grateful to be a part of Encore Dance Theater this season, being able to teach and share her passion for dance with such hardworking and talented students is so rewarding!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
 
 {{--                <div class="col-sm master-faculty-col">--}}
@@ -535,35 +537,35 @@ Bio coming soon
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/priya.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapsePriya" aria-expanded="true" aria-controls="collapseOne">
-                                                Priya Nair
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/priya.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapsePriya" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Priya Nair--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapsePriya" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Priya Nair has been a part of the Encore family for 16 years. She has been training here since she was three years old and has attended various dance conventions and competitions throughout her dance career. Priya has danced at the Miami heat pre-show as well as in a Dance the Magic Disney Parade. She participated in the Imagination choreography competition and was awarded 1st runner up. She loves being able to share her love for dance with all her students.
+{{--                                    <div id="collapsePriya" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Priya Nair has been a part of the Encore family for 16 years. She has been training here since she was three years old and has attended various dance conventions and competitions throughout her dance career. Priya has danced at the Miami heat pre-show as well as in a Dance the Magic Disney Parade. She participated in the Imagination choreography competition and was awarded 1st runner up. She loves being able to share her love for dance with all her students.--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">

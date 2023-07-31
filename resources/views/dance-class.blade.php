@@ -28,7 +28,7 @@
         <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
                 <div class="card">
-                    <img src="images/Tap.jpg" alt="">
+                    <img src="images/tap-23.jpeg" alt="">
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTap" aria-expanded="true" aria-controls="collapseOne">
@@ -53,16 +53,16 @@
                     <div class="card-header" id="classesDown">
                         <h5 class="mb-0 text-center">
                             <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseTwinkle" aria-expanded="true" aria-controls="collapseOne">
-                                <span id="twinkle-small-txt">Twinkle Star/Combo Classes</span>
+                                <span id="twinkle-small-txt">Combo</span>
                             </button>
                         </h5>
                     </div>
 
                     <div id="collapseTwinkle" class="collapse" aria-labelledby="classesDown" data-parent="#classesAccordion">
                         <div class="card-body">
-                            Twinkle Star Dance is an age specific class containing ballet, tap,Hop-Hop and/or jazz/creative movement. The purpose of the class is to introduce young dancers to the different styles of dance and inspire movement and creativity within a positive environment. Dancers also learn basic steps and terminology in all styles. For example, all dancers will learn what a “plie” is and how to demonstrate one. The use of fun, age appropriate music engages the young dancers’ minds and bodies. The use of props such as maracas for the “freeze dance” makes the end of class the most fun!
+                            Combo is an age specific class containing ballet, tap,Hop-Hop and/or jazz/creative movement. The purpose of the class is to introduce young dancers to the different styles of dance and inspire movement and creativity within a positive environment. Dancers also learn basic steps and terminology in all styles. For example, all dancers will learn what a “plie” is and how to demonstrate one. The use of fun, age appropriate music engages the young dancers’ minds and bodies. The use of props such as maracas for the “freeze dance” makes the end of class the most fun!
                             <br><br>
-                            ***Placement Notes: For the Twinkle Star DanceTM 3-4 class, students must be at least 3 years old on the first day of the dance season. For Twinkle Star DanceTM 4-5 students must be at least 4 years old on the first day of the dance season.
+                            ***Placement Notes: For the Combo 3-4 class, students must be at least 3 years old on the first day of the dance season. For Combo 4-5 students must be at least 4 years old on the first day of the dance season.
                         </div>
                     </div>
                 </div>

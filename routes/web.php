@@ -33,9 +33,9 @@ Route::get('wear', function () {
     return view('wear');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('teams', function () {
     return view('teams');
@@ -53,9 +53,9 @@ Route::get('prices', function () {
     return view('prices');
 });
 
-Route::get('/recital', function () {
-    return view('/recital');
-});
+//Route::get('/recital', function () {
+//    return view('/recital');
+//});
 
 //Route::get('dancily', function () {
 //    return view('dancily');

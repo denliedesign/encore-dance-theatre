@@ -8,10 +8,10 @@
         <div class="row">
             <div class="col-sm">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/pricing-2022.jpg" alt="encore class prices" class="img-fluid">
+                    <img src="/images/23-policy-1.jpg" alt="encore class prices" class="img-fluid">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <img src="/images/pricing-2022-2.jpg" alt="encore studio policies" class="img-fluid mt-4">
+                    <img src="/images/23-policy-2.jpg" alt="encore studio policies" class="img-fluid mt-4">
                 </div>
             </div>
         </div>
