@@ -379,6 +379,35 @@ Bio coming soon
 {{--                        </div>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/staff-5.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseTerry" aria-expanded="true" aria-controls="collapseOne">
+                                                Stacy Harding Terry
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseTerry" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -404,6 +433,99 @@ Bio coming soon
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
                                             Bio coming soon
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/staff-4.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingA">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLanzi" aria-expanded="true" aria-controls="collapseA">
+                                                Nicole Lanzi
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseLanzi" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Nicole Lanzi has been dancing since the age of four, with training in multiple genres of dance including ballet, character, tap, and jazz. At the age of 10 she began her focus on classical ballet, receiving training from prestigious teachers such as Magda Aunon and Vladimir Issaev. During her years of Vaganova training under Vladimir Issaev’s pre-professional division, Nicole excelled in Vaganova Ballet Examinations in levels Intermediate I, Intermediate II, Pre-Advanced, and Advanced. In 2018, she joined Fort Lauderdale Youth Ballet to continue her training under artistic director German Dager.
+                                            <br><br>
+                                            Over the years, Nicole has performed in a variety of ballets, including Coppélia, Don Quixote, Firebird, La Bayadère, Le Corsaire, and The Nutcracker, as well as having the privilege to perform in productions alongside Arts Ballet Theatre of Florida’s Professional Company. In 2015, she was invited and attended the international Danseakademi City Ballet Festival in Copenhagen, Denmark with Arts Ballet Theatre of Florida.
+                                            <br><br>
+                                            Nicole is currently attending Nova Southeastern University with a major in Exercise and Sports Science and the hopes of becoming a physical therapist specializing in sports and dance medicine. As a ballet teacher, Nicole aims to incorporate her learning of kinesiology and biomechanics into her classes so her students can enhance the use of their body to their greatest potential while preventing any sorts of injuries. She is excited to join the EDT family this year!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/staff-3.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingB">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLuper" aria-expanded="true" aria-controls="collapseB">
+                                                Ysabella Lupercio
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseLuper" class="collapse" aria-labelledby="headingB" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Ysabella Lupercio grew up in Jacksonville, Florida training in a multitude of dance styles since she was 3. She is currently a third year student at Nova Southeastern University, majoring in dance and business management with a minor in technical theatre. She is so excited to be joining the EDT family!
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/staff-2.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMadrigal" aria-expanded="true" aria-controls="collapseMadrigal">
+                                                Natasha Madrigal
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseMadrigal" class="collapse" aria-labelledby="headingMadrigal" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Natasha grew up in Coral Springs, Florida. She started dancing at 4 years old and was a student at encore dance theater for 12 years. She was a part of the company team, training and competing in all dance styles. She has also had the opportunity to perform at the Miami Heat and Dolphins Halftime, Royal Caribbean Show, and Dance the Magic Disney Parade all with Encore. Natasha is currently a student at Nova Southeastern University, majoring in Entrepreneurship and minoring in dance. She has performed at NSU each semester in a variety of events. At 19 years old, she became a professional dancer for the NHL Florida Panthers. She continues to attend multiple dance workshops to better herself and proceed with her dance career in pro sports. Natasha is a proud alumni and is so excited to share her love for dance with her EDT family!
+
                                         </div>
                                     </div>
                                 </div>
@@ -655,6 +777,46 @@ Bio coming soon
 {{--                        </div>--}}
 {{--                    </div>--}}
 {{--                </div>--}}
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/rosario.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRosario" aria-expanded="true" aria-controls="collapseOne">
+                                                Rosario Suarez
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseRosario" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Regarded in Cuba as the greatest and most popular ballerina of her generation, Rosario Suarez was universally known for the profound artistry, versatility, and innovation with which she performed ballet repertoire. Among her many achievements, Rosario won the gold medal at the International Ballet Competition in Varna, Bulgaria in 1970. Over a remarkable twenty- seven year career with the National Ballet of Cuba, she performed principal roles in over 50 countries, to worldwide critical acclaim. In 1991, the Cuban Ministry of Culture recognized and celebrated her artistic achievements.
+                                            <br><br>
+                                            Born in Havana, Rosario began her ballet training at the Province Ballet School, then continuing her studies at the National School of the Arts, with teachers Joaquin Banegas, Fernando Alonso and Alicia Alonso. When Rosario was only fifteen years old, Fernando Alonso, the director of the National Ballet of Cuba, invited Rosario to join the Company, thus launching her nearly three-decade professional career, which included a fifteen-year tenure as Principal dancer. Rosario was also a principal dancer of Ballet Theater of Havana, under the direction of Caridad Martinez.
+                                            <br><br>
+                                            Rosario’s performances in Coppelia, Swan Lake and Giselle have brought her the highest acclaim. However, her roles in works by Cuban choreographers, such as Tarde en la Siesta and Rara Avis, were performances that have also been said to have set the standard for future generations of dancers.
+                                            <br><br>
+                                            Rosario’s interpretation of The Sylphide and The Scotsman at the International Cervantine Festival in Guanajuato and Giselle, at a historic performance at the Teatro Albeniz in Madrid, brought roaring audiences to their feet. At that time, Rosario established herself as an artist in Spain, participating in a number of festivals and teaching throughout the city. In 2000, at the debut of Anna Pavlova: Diálogos del Alma, within the setting of the Dance Festival of Madrid, she performed the famous Death of the Swan by Fokine. While in Spain, she worked at the Conservatory Real in Madrid alongside Virgina Valero, as well as with Victor Ullate, Goyo Montero, Juan Carlos Santa Maria, Raul Cardenes and Ramon Oller, and many others.
+                                            <br><br>
+                                            Rosario’s career brought her to Miami, where she was on faculty at New World School of the Arts, under the direction of Daniel Lewis. She then established her own company, Ballet Rosario Suarez, and an affiliated dance academy dedicated to the preservation of the Cuban Style of Ballet. In 2002, she created her first choreographic work, Cecilia Valdes with great success. Her final performance took place in Miami in 2010, as the star of the ballet theater production “La Ultima Funcion,” based on a poem by Abilio Estevez and directed by Lilian Vega. In 2012, Rosario was named one of the top 100 Latinos in Miami with the greatest cultural impact.
+                                            <br><br>
+                                            Rosario's career also took the form of film appearances, as she was featured in a documentary directed by Marisol Trujillo, Mujer Ante el Espejo, inspired by the experience of maternity of ballerinas; a short for the School of Cinematography, Two Gladys For You, directed by Aaron Yelin; a documentary about Pablo Neruda, and Stolen Verses, by Orlando Rojas. She appeared extensively, via modern interviews and archival performance footage, in a documentary of her own life, directed by Orlando Rojas, Queen of Thursdays, which won the award of Best Documentary at the Miami Film Festival.
+                                            <br><br>
+                                            Rosario is recognized as a versatile interpreter who builds her characters around expressive musicality. Her constant search for freedom throughout the course of her career has inspired her work, and she is an artist and performer who has reached critical acclaim, winning over the hearts of audiences all over the world. In 2008, Rosario joined the Miami Conservatory/Thomas Armour Youth Ballet, where she trained future generations in her role as Ballet Mistress. She continues to travel and tour as a teacher and coach for students internationally. Behind Rosario’s fame, experience, and technique is an unbridled passion to affect change in her students and help them unearth their full artistic potential. She is excited to work with the students at Encore and be a part of the faculty this season!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -711,6 +873,35 @@ Bio coming soon
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
                                             Sabrina has been a student at Encore Dance Theatre since the age of 8 years old. Since then she has taken every genre of dance Encore has to offer. Sabrina’s love of dance was apparent and she was quickly invited onto our competition team. She is a current member of our elite competition team and has won many accolades. Sabrina has trained under many master teachers. She has been through our teacher training program, teaching alongside Ms. Marlee Ramirez for the past 4 years and is now a teacher for Encore. She is loving, caring, smart and kind. Sabrina loves teaching and working with children of all ages but especially loves the little ones. In her free time she is also an ice skating instructor. We are so proud of Sabrina and the work she has put into becoming an amazing instructor. She is so excited to teach and bring her love of dance to her EDT students.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
+                                <img src="/images/staff-1.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingOne">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseWalsh" aria-expanded="true" aria-controls="collapseOne">
+                                                Hailey Walsh
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseWalsh" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
                                         </div>
                                     </div>
                                 </div>
