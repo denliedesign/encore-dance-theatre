@@ -18,12 +18,12 @@
                 <p><strong>Phone:</strong> (954) 746-0822</p>
                 <p><strong>Business Hours:</strong></p>
                 <ul>
-                    <li>Monday 4:30-9:30</li>
-                    <li>Tuesday 4:30-9:00</li>
-                    <li>Wednesday 4:00-9:00</li>
-                    <li>Thursday 3:30-9:30</li>
-                    <li>Friday 4:30-9:00</li>
-                    <li>Saturday 9:00-2:30</li>
+                    <li>Monday 4:00-9:00</li>
+                    <li>Tuesday 4:00-9:00</li>
+                    <li>Wednesday 3:15-9:00</li>
+                    <li>Thursday 4:00-9:00</li>
+                    <li>Friday 4:00-8:00</li>
+                    <li>Saturday 9:00-1:00</li>
                 </ul>
             </div>
         </div>
