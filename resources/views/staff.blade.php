@@ -884,8 +884,8 @@ Bio coming soon
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/staff-1.jpeg" alt="">
+                            <div>
+                                <img src="/images/staff-1-b.jpeg" alt="" style="height: 175px; width: 175px; object-fit: cover; object-position: center; border-radius: 50%;">
                             </div>
                         </div>
                         <div class="col-sm-8">
