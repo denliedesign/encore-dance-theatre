@@ -478,6 +478,35 @@ Bio coming soon
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
+                                <img src="/images/staff-arissa.jpeg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="accordion faculty-bio" id="accordionExample">
+                                <div class="card">
+                                    <div class="card-header faculty-card-header" id="headingA">
+                                        <h2 class="mb-0 d-flex justify-content-center">
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseArissa" aria-expanded="true" aria-controls="collapseA">
+                                                Arissa Lawson
+                                            </button>
+                                        </h2>
+                                    </div>
+
+                                    <div id="collapseArissa" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">
+                                        <div class="card-body faculty-bio-txt">
+                                            Bio coming soon!
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-sm master-faculty-col">
+                    <div class="row py-4">
+                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
+                            <div class="headshot">
                                 <img src="/images/staff-3.jpeg" alt="">
                             </div>
                         </div>
