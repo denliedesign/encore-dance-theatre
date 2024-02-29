@@ -182,10 +182,10 @@
     </button>
     <div class="collapse navbar-collapse justify-content-around" id="navbarNavDropdown" style="font-size: 1.2em;">
         <ul class="navbar-nav">
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="/">Home</a>
             </li>
-            <li class="nav-item active dropdown">
+            <li class="nav-item dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     About Us
                 </a>
@@ -195,7 +195,7 @@
                     <a class="dropdown-item" href="/mission#facility">Our Facility</a>
                 </div>
             </li>
-            <li class="nav-item active dropdown">
+            <li class="nav-item dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Classes
                 </a>
@@ -206,17 +206,17 @@
                     <a class="dropdown-item" href="/prices">Prices & Policies</a>
                 </div>
             </li>
-{{--            <li class="nav-item active">--}}
+{{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>--}}
 {{--            </li>--}}
-{{--            <li class="nav-item active">--}}
+{{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
 {{--            </li>--}}
-            <li class="nav-item active">
-{{--                <a class="nav-link" href="/summer">Summer</a>--}}
-                <a class="nav-link" href="/fall">Fall</a>
+            <li class="nav-item">
+                <a class="nav-link" href="/summer">Summer</a>
+{{--                <a class="nav-link" href="/fall">Fall</a>--}}
             </li>
-            <li class="nav-item active dropdown">
+            <li class="nav-item dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Teams
                 </a>
@@ -225,16 +225,16 @@
                     <a class="dropdown-item" href="/teams#competitive">Elite Team</a>
                 </div>
             </li>
-{{--            <li class="nav-item active">--}}
+{{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="/recital">Recital</a>--}}
 {{--            </li>--}}
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Register</a>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact Us</a>
             </li>
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="/news">News</a>
             </li>
         </ul>
