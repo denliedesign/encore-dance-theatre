@@ -21,7 +21,7 @@
                         Visit our recital website for more information
                     </p>
                     <div class="d-flex justify-content-center">
-                        <a href="https://sites.google.com/edtfl.com/spreadyourwingsrecital2023" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">Recital Info</button></a>
+                        <a href="https://sites.google.com/edtfl.com/themagicofdance/home" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">Recital Info</button></a>
                     </div>
                 </div>
 {{--                <p style="font-size: 1.5em;">--}}
