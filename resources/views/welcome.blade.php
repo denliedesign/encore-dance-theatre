@@ -89,6 +89,9 @@
 {{--                    <img src="/images/recital-scan.jpg" class="img-fluid rounded" alt="">--}}
 {{--                </div>--}}
 {{--            </div>--}}
+            <div class="d-flex justify-content-center">
+                <a href="https://20051.recitalticketing.com/" target="_blank" title="Click here to get your tickets."><img src="https://20051.recitalticketing.com/images/links/recitalticketing.com.large.jpg" width="350" height="110"></a>
+            </div>
         </div>
     </div>
 
