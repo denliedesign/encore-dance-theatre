@@ -16,13 +16,13 @@
 
         <div class="row my-3">
             <div class="col-sm mb-3">
-                <img src="/images/23-fall-1.jpg" alt="fall classes" class="img-fluid rounded shadow">
+                <img src="/images/fall-24-25_page-0001.jpg" alt="fall classes" class="img-fluid rounded shadow">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
             </div>
             <div class="col-sm mb-3">
-                <img src="/images/23-fall-2.jpg" alt="fall classes" class="img-fluid rounded shadow">
+                <img src="/images/fall-24-25_page-0002.jpg" alt="fall classes" class="img-fluid rounded shadow">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
@@ -30,40 +30,40 @@
         </div>
         <div class="row my-3">
             <div class="col-sm mb-3">
-                <img src="/images/23-fall-3.jpg" alt="fall classes" class="img-fluid rounded shadow">
+                <img src="/images/fall-24-25_page-0003.jpg" alt="fall classes" class="img-fluid rounded shadow">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
             </div>
             <div class="col-sm mb-3">
-                <img src="/images/23-fall-4.jpg" alt="fall classes" class="img-fluid rounded shadow">
+                <img src="/images/fall-24-25_page-0004.jpg" alt="fall classes" class="img-fluid rounded shadow">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
             </div>
         </div>
-        <div class="row my-3">
-            <div class="col-sm mb-3">
-                <img src="/images/23-fall-5-b.jpg" alt="fall classes" class="img-fluid rounded shadow">
-                <div class="d-flex justify-content-center">
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
-                </div>
-            </div>
-            <div class="col-sm mb-3">
-                <img src="/images/23-fall-6.jpg" alt="fall classes" class="img-fluid rounded shadow">
-                <div class="d-flex justify-content-center">
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="row my-3">
-            <div class="col-sm mb-3">
-                <img src="/images/23-fall-7.jpg" alt="fall classes" class="img-fluid rounded shadow">
-                <div class="d-flex justify-content-center">
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
-                </div>
-            </div>
-        </div>
+{{--        <div class="row my-3">--}}
+{{--            <div class="col-sm mb-3">--}}
+{{--                <img src="/images/fall-24-25_page-0005.jpg" alt="fall classes" class="img-fluid rounded shadow">--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="col-sm mb-3">--}}
+{{--                <img src="/images/fall-24-25_page-0006.jpg" alt="fall classes" class="img-fluid rounded shadow">--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--        <div class="row my-3">--}}
+{{--            <div class="col-sm mb-3">--}}
+{{--                <img src="/images/fall-24-25_page-0007.jpg" alt="fall classes" class="img-fluid rounded shadow">--}}
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
     </div>
 
