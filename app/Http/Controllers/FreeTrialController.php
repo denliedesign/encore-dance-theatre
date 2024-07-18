@@ -30,8 +30,8 @@ class FreeTrialController extends Controller
             'birthdate' => 'required'
         ]);
 
-        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($trial));
-//        Mail::to('encore@edtfl.com')->send(new FreeTrialMail($trial));
+//        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($trial));
+        Mail::to('encore@edtfl.com')->send(new FreeTrialMail($trial));
 
         return redirect('/')->with('message', 'Thank you for your interest. We wil contact you shortly.');
     }
