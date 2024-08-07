@@ -212,10 +212,10 @@
 {{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
 {{--            </li>--}}
-            <li class="nav-item">
-                <a class="nav-link" href="/summer">Summer</a>
+{{--            <li class="nav-item">--}}
+{{--                <a class="nav-link" href="/summer">Summer</a>--}}
 {{--                <a class="nav-link" href="/fall">Fall</a>--}}
-            </li>
+{{--            </li>--}}
             <li class="nav-item">
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
                                 <a class="nav-link" href="/fall">Fall</a>
