@@ -200,11 +200,43 @@
 {{--                    </div>--}}
 {{--                </div>--}}
 
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/melissa-delatorre.png" alt="melissa headshot">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button"--}}
+{{--                                                    data-toggle="collapse" data-target="#collapseDelatorre"--}}
+{{--                                                    aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Melissa Delatorre--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
+
+{{--                                    <div id="collapseDelatorre" class="collapse" aria-labelledby="headingOne"--}}
+{{--                                         data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Melissa Delatorre started her dance journey at 5 years old right here at Encore Dance Theatre! Growing up, she won awards with her competitive team and performed at local and state events at places like Disney World and Universal Studios.  While at the University of Florida she fell in love with teaching and choreographing, and continues to develop her dance education through opportunities such as Dance Teacher Summit in NYC and Ballet Austin in Texas.  Being able to watch dancers grow and have fun is what she loves most. Melissa is proud to have been teaching in South Florida since 2011 and looks forward to sharing her passion with all of the students this season!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/melissa-delatorre.png" alt="melissa headshot">
+                                <img src="/images/bella-denton.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -212,18 +244,17 @@
                                 <div class="card">
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button"
-                                                    data-toggle="collapse" data-target="#collapseDelatorre"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                Melissa Delatorre
+                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseNelly" aria-expanded="true" aria-controls="collapseOne">
+                                                Bella Denton
                                             </button>
                                         </h2>
                                     </div>
 
-                                    <div id="collapseDelatorre" class="collapse" aria-labelledby="headingOne"
-                                         data-parent="#accordionExample">
+                                    <div id="collapseNelly" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Melissa Delatorre started her dance journey at 5 years old right here at Encore Dance Theatre! Growing up, she won awards with her competitive team and performed at local and state events at places like Disney World and Universal Studios.  While at the University of Florida she fell in love with teaching and choreographing, and continues to develop her dance education through opportunities such as Dance Teacher Summit in NYC and Ballet Austin in Texas.  Being able to watch dancers grow and have fun is what she loves most. Melissa is proud to have been teaching in South Florida since 2011 and looks forward to sharing her passion with all of the students this season!
+                                            Bella Denton grew up in South Florida, and began dancing at the age of 3 training in ballet/pointe, tap, jazz, musical theatre, jazz funk and contemporary/lyrical. Right out of highschool she was accepted into Broadway Dance Center’s Professional Semester and spent 7 months in New York City training with some of the best teachers in the industry, performing, and learning the ins and outs of the professional dance world. After her time in NYC, Bella was invited and had her Choreography chosen to perform at Europe's top art festival: Festival Fringe in Edinburgh, Scotland. Afterwards, she moved back to South Florida and spent one season dancing on the Florida Panthers Dance Team.
+                                            <br><br>
+                                            Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at all home games for the NFL community and Dolphins Fans at Hard Rock Stadium! Having teaching dance since she was 16 years old and choreographing for many years, she is immensely excited to be apart the EDT family!
                                         </div>
                                     </div>
                                 </div>
@@ -232,11 +263,12 @@
                     </div>
                 </div>
 
+
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/nelly.jpg" alt="">
+                                <img src="/images/nelly.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -441,67 +473,67 @@
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/staff-4.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingA">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLanzi" aria-expanded="true" aria-controls="collapseA">
-                                                Nicole Lanzi
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/staff-4.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingA">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLanzi" aria-expanded="true" aria-controls="collapseA">--}}
+{{--                                                Nicole Lanzi--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseLanzi" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Nicole Lanzi has been dancing since the age of four, with training in multiple genres of dance including ballet, character, tap, and jazz. At the age of 10 she began her focus on classical ballet, receiving training from prestigious teachers such as Magda Aunon and Vladimir Issaev. During her years of Vaganova training under Vladimir Issaev’s pre-professional division, Nicole excelled in Vaganova Ballet Examinations in levels Intermediate I, Intermediate II, Pre-Advanced, and Advanced. In 2018, she joined Fort Lauderdale Youth Ballet to continue her training under artistic director German Dager.
-                                            <br><br>
-                                            Over the years, Nicole has performed in a variety of ballets, including Coppélia, Don Quixote, Firebird, La Bayadère, Le Corsaire, and The Nutcracker, as well as having the privilege to perform in productions alongside Arts Ballet Theatre of Florida’s Professional Company. In 2015, she was invited and attended the international Danseakademi City Ballet Festival in Copenhagen, Denmark with Arts Ballet Theatre of Florida.
-                                            <br><br>
-                                            Nicole is currently attending Nova Southeastern University with a major in Exercise and Sports Science and the hopes of becoming a physical therapist specializing in sports and dance medicine. As a ballet teacher, Nicole aims to incorporate her learning of kinesiology and biomechanics into her classes so her students can enhance the use of their body to their greatest potential while preventing any sorts of injuries. She is excited to join the EDT family this year!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseLanzi" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Nicole Lanzi has been dancing since the age of four, with training in multiple genres of dance including ballet, character, tap, and jazz. At the age of 10 she began her focus on classical ballet, receiving training from prestigious teachers such as Magda Aunon and Vladimir Issaev. During her years of Vaganova training under Vladimir Issaev’s pre-professional division, Nicole excelled in Vaganova Ballet Examinations in levels Intermediate I, Intermediate II, Pre-Advanced, and Advanced. In 2018, she joined Fort Lauderdale Youth Ballet to continue her training under artistic director German Dager.--}}
+{{--                                            <br><br>--}}
+{{--                                            Over the years, Nicole has performed in a variety of ballets, including Coppélia, Don Quixote, Firebird, La Bayadère, Le Corsaire, and The Nutcracker, as well as having the privilege to perform in productions alongside Arts Ballet Theatre of Florida’s Professional Company. In 2015, she was invited and attended the international Danseakademi City Ballet Festival in Copenhagen, Denmark with Arts Ballet Theatre of Florida.--}}
+{{--                                            <br><br>--}}
+{{--                                            Nicole is currently attending Nova Southeastern University with a major in Exercise and Sports Science and the hopes of becoming a physical therapist specializing in sports and dance medicine. As a ballet teacher, Nicole aims to incorporate her learning of kinesiology and biomechanics into her classes so her students can enhance the use of their body to their greatest potential while preventing any sorts of injuries. She is excited to join the EDT family this year!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/staff-arissa.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingA">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseArissa" aria-expanded="true" aria-controls="collapseA">
-                                                Arissa Lawson
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/staff-arissa.jpeg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingA">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseArissa" aria-expanded="true" aria-controls="collapseA">--}}
+{{--                                                Arissa Lawson--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseArissa" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseArissa" class="collapse" aria-labelledby="headingA" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Bio coming soon!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -537,7 +569,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/staff-2.jpeg" alt="">
+                                <img src="/images/natasha.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -691,7 +723,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/tori.jpg" alt="">
+                                <img src="/images/tori-jacobson.jpeg" alt="">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -700,7 +732,7 @@
                                     <div class="card-header faculty-card-header" id="headingOne">
                                         <h2 class="mb-0 d-flex justify-content-center">
                                             <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseTori" aria-expanded="true" aria-controls="collapseOne">
-                                                Tori Muller
+                                                Tori Jacobson
                                             </button>
                                         </h2>
                                     </div>
@@ -975,7 +1007,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div>
-                                <img src="/images/staff-1-b.jpeg" alt="" style="height: 175px; width: 175px; object-fit: cover; object-position: center; border-radius: 50%;">
+                                <img src="/images/hailey.jpeg" alt="" style="height: 175px; width: 175px; object-fit: cover; object-position: center; border-radius: 50%;">
                             </div>
                         </div>
                         <div class="col-sm-8">
