@@ -230,7 +230,7 @@
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/edtfl.com/themagicofdance/home" target="_blank">Recital</a>
+                <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2025" target="_blank">Recital</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Register</a>
