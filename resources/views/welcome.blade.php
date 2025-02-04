@@ -14,13 +14,13 @@
                 </div>
                 <div class="modal-body">
 {{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
-                    <a href="/fall">
+                    <button data-toggle="modal" data-target="#leadModal">
 {{--                    <a href="/fall">--}}
 {{--                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">--}}
 {{--                        </video>--}}
 {{--                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">--}}
                         <img src="/images/dance-5.png" alt="summer session" class="img-fluid">
-                    </a>
+                    </button>
                 </div>
 {{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
 {{--                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>--}}
