@@ -63,13 +63,87 @@
 {{--        </div>--}}
     </div>
 
+    <div id="leadModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title">
+                        View Our Class Availability
+                        <br>
+                        <span style="font-size: 0.45em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>
+                    </h1>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <iframe
+                        src="https://link.enrollio.ai/widget/form/t6pHgIcEKu3ZARsdRaSp"
+                        style="width:100%;height:100%;border:none;border-radius:4px"
+                        id="inline-t6pHgIcEKu3ZARsdRaSp"
+                        data-layout="{'id':'INLINE'}"
+                        data-trigger-type="alwaysShow"
+                        data-trigger-value=""
+                        data-activation-type="alwaysActivated"
+                        data-activation-value=""
+                        data-deactivation-type="neverDeactivate"
+                        data-deactivation-value=""
+                        data-form-name="Website Lead Capture Form"
+                        data-height="628"
+                        data-layout-iframe-id="inline-t6pHgIcEKu3ZARsdRaSp"
+                        data-form-id="t6pHgIcEKu3ZARsdRaSp"
+                        title="Website Lead Capture Form"
+                    >
+                    </iframe>
+                    <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="contactModal" class="modal fade">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title">
+                        Contact Us
+                    </h1>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <iframe
+                        src="https://link.enrollio.ai/widget/form/lXEiBM8aAbJkEswAKDAW"
+                        style="width:100%;height:100%;border:none;border-radius:4px"
+                        id="inline-lXEiBM8aAbJkEswAKDAW"
+                        data-layout="{'id':'INLINE'}"
+                        data-trigger-type="alwaysShow"
+                        data-trigger-value=""
+                        data-activation-type="alwaysActivated"
+                        data-activation-value=""
+                        data-deactivation-type="neverDeactivate"
+                        data-deactivation-value=""
+                        data-form-name="Website Contact Form"
+                        data-height="752"
+                        data-layout-iframe-id="inline-lXEiBM8aAbJkEswAKDAW"
+                        data-form-id="lXEiBM8aAbJkEswAKDAW"
+                        title="Website Contact Form"
+                    >
+                    </iframe>
+                    <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="next-steps-section">
         <div class="container py-5">
             <h1 class="text-uppercase text-center text-white">Take the first step to dance with us enroll today!</h1>
             <div class="row">
                 <div class="col-sm next-step shadow m-2 py-4">
                     <p class="txt-encore">Ready To Leap In?</p>
-                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</div></a>
+{{--                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</div></a>--}}
+                    <button type="button" data-toggle="modal" data-target="#leadModal" class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</button>
                 </div>
                 <div class="col-sm next-step shadow m-2 py-4">
                     <p class="txt-encore">Want To Give It A Try?</p>
@@ -81,7 +155,9 @@
                 </div>
                 <div class="col-sm next-step shadow m-2 py-4">
                     <p class="txt-encore">Still Have Questions?</p>
-                    <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Contact Us!</div></a>
+{{--                    <a href="/contact" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Contact Us!</div></a>--}}
+                    <button type="button" data-toggle="modal" data-target="#contactModal" class="shadow btn btn-lg btn-encore btn-family">&#10097; Contact Us!</button>
+
                 </div>
             </div>
 {{--            <div class="d-flex justify-content-center pt-3">--}}
