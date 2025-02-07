@@ -174,6 +174,26 @@
 {{--    </div>--}}
 {{--</div>--}}
 
+<div id="leadModal" class="modal fade">
+    <div class="modal-dialog" style="max-width: 700px;">
+        <div class="modal-content">
+            <div class="modal-header bg-encore-dark text-white text-uppercase">
+                <h1 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">
+                    View Our Class Availability
+                    <br>
+                    <span style="font-size: 0.5em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>
+                </h1>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                @include('_lead-form')
+            </div>
+        </div>
+    </div>
+</div>
+
 <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
 {{--    <img src="/images/yellow.png" alt="yellow smiley face" style="height: 45px; width: auto;">--}}
     <a class="navbar-brand" href="/"><img src="images/Encore-Logo.png" class="ml-5" alt=""></a>
@@ -233,7 +253,7 @@
                 <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2025" target="_blank">Recital</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" type="button" data-toggle="modal" data-target="#summerModal" target="_blank">Register</a>
+                <a class="nav-link" type="button" data-toggle="modal" data-target="#leadModal" target="_blank">Register</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact Us</a>
@@ -287,11 +307,7 @@
     });
 </script>
 
-<script>
-    $(document).ready(function(){
-        $("#summerModal").modal('show');
-    });
-</script>
+
 
 </body>
 </html>

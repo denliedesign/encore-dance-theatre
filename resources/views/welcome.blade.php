@@ -2,57 +2,26 @@
 @section('content')
 
     <!-- Modal -->
-    <div id="summerModal" class="modal fade">
-        <div class="modal-dialog" style="max-width: 700px;">
-            <div class="modal-content">
-                <div class="modal-header bg-encore-dark text-white text-uppercase">
-                    <h1 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">
-                        View Our Class Availability
-                        <br>
-                        <span style="font-size: 0.5em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>
-                    </h1>
+{{--    <div id="summerModal" class="modal fade">--}}
+{{--        <div class="modal-dialog" style="max-width: 700px; height: 100%;">--}}
+{{--            <div class="modal-content">--}}
+{{--                <div class="modal-header bg-encore-dark text-white text-uppercase">--}}
+{{--                    <h1 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">--}}
+{{--                        View Our Class Availability--}}
+{{--                        <br>--}}
+{{--                        <span style="font-size: 0.5em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>--}}
+{{--                    </h1>--}}
 {{--                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>--}}
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <iframe
-                        src="https://link.enrollio.ai/widget/form/t6pHgIcEKu3ZARsdRaSp"
-                        style="width:100%;height:100%;border:none;border-radius:4px"
-                        id="inline-t6pHgIcEKu3ZARsdRaSp"
-                        data-layout="{'id':'INLINE'}"
-                        data-trigger-type="alwaysShow"
-                        data-trigger-value=""
-                        data-activation-type="alwaysActivated"
-                        data-activation-value=""
-                        data-deactivation-type="neverDeactivate"
-                        data-deactivation-value=""
-                        data-form-name="Website Lead Capture Form"
-                        data-height="628"
-                        data-layout-iframe-id="inline-t6pHgIcEKu3ZARsdRaSp"
-                        data-form-id="t6pHgIcEKu3ZARsdRaSp"
-                        title="Website Lead Capture Form"
-                    >
-                    </iframe>
-
-
-                    {{--                    <a href="/summer"><img src="/images/summer-dance-2022.png" alt="summer dance" class="img-fluid"></a>--}}
-{{--                    <button data-toggle="modal" data-target="#leadModal">--}}
-{{--                    <a href="/fall">--}}
-{{--                        <video class="head-video" src="images/pop-up-fall.mp4" autoplay="" muted="" controls="" loop="">--}}
-{{--                        </video>--}}
-{{--                        <img src="/images/fall-session.png" alt="fall session" class="img-fluid">--}}
-{{--                        <img src="/images/dance-5.png" alt="summer session" class="img-fluid">--}}
+{{--                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                        <span aria-hidden="true">&times;</span>--}}
 {{--                    </button>--}}
-                </div>
-{{--                <div class="model-footer d-flex justify-content-center align-items-center mb-3">--}}
-{{--                    <p class="mr-3 mb-0">Can't Wait Till Fall?</p>--}}
-{{--                    <a href="/summer"><button type="button" class="btn btn-lg bg-encore-blue text-white">See Our Summer Offerings!</button></a>--}}
 {{--                </div>--}}
-            </div>
-        </div>
-    </div>
+{{--                <div class="modal-body">--}}
+{{--                    @include('_lead-form')--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <video class="head-video" src="images/edt-promo-2.mov" autoplay="" muted="" controls="" loop="" poster="/images/encore-poster.jpg">
     </video>
@@ -149,7 +118,7 @@
                 <div class="col-sm next-step shadow m-2 py-4">
                     <p class="txt-encore">Ready To Leap In?</p>
 {{--                    <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</div></a>--}}
-                    <button type="button" data-toggle="modal" data-target="#summerModal" class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</button>
+                    <button type="button" data-toggle="modal" data-target="#leadModal" class="shadow btn btn-lg btn-encore btn-family">&#10097; Enroll today!</button>
                 </div>
                 <div class="col-sm next-step shadow m-2 py-4">
                     <p class="txt-encore">Want To Give It A Try?</p>
@@ -445,5 +414,9 @@
         </div>
     </div>
 
-    <script src="https://link.enrollio.ai/js/form_embed.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("#leadModal").modal('show');
+        });
+    </script>
 @endsection
