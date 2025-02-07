@@ -3,10 +3,14 @@
 
     <!-- Modal -->
     <div id="summerModal" class="modal fade">
-        <div class="modal-dialog">
+        <div class="modal-dialog" style="max-width: 700px;">
             <div class="modal-content">
                 <div class="modal-header bg-encore-dark text-white text-uppercase">
-                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register Now</h4>
+                    <h1 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">
+                        View Our Class Availability
+                        <br>
+                        <span style="font-size: 0.5em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>
+                    </h1>
 {{--                    <h4 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">Register for Fall 2022 Now</h4>--}}
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>

@@ -6,10 +6,10 @@
 
     <h1 class="head-white py-4">Contact Us</h1>
     <div class="row" style="width: 100%;">
-        <div class="col-sm px-0">
+        <div class="col-md px-0">
             <iframe src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=3461%20Hiatus%20Rd%2C%20Sunrise%2C%20FL%2033351+(Encore%20Dance%20Theatre)&amp;ie=UTF8&amp;t=&amp;z=15&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" height="100%" width="100%"></iframe>
         </div>
-        <div class="col-sm py-4">
+        <div class="col-md py-4">
             <div>
                 <iframe
                     src="https://link.enrollio.ai/widget/form/lXEiBM8aAbJkEswAKDAW"
@@ -33,7 +33,7 @@
             </div>
 {{--            @include('contact.form')--}}
         </div>
-        <div class="col-sm business-outer-box d-flex align-items-center px-0">
+        <div class="col-md business-outer-box d-flex align-items-center px-0">
             <div class="business-inner-box">
                 <p><strong>Address:</strong> 3461 N. Hiatus Rd. Sunrise, FL 33351</p>
                 <p><strong>Phone:</strong> (954) 746-0822</p>

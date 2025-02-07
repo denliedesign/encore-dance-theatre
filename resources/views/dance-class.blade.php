@@ -4,6 +4,9 @@
 @section('content')
 
     <h1 class="head py-4">Classes</h1>
+    <div class="d-flex justify-content-center mt-4">
+        <button type="button" data-toggle="modal" data-target="#leadModal" class="shadow btn btn-lg btn-encore btn-family">Enroll today!</button>
+    </div>
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 m-5">
         <div class="col mb-4 animate-class">
             <div class="accordion" id="classesAccordion">
@@ -260,5 +263,29 @@
 
 
     </div>
+    <div class="d-flex justify-content-center mb-4 pb-4">
+        <button type="button" data-toggle="modal" data-target="#leadModal" class="shadow btn btn-lg btn-encore btn-family">Enroll today!</button>
+    </div>
+
+
+        <div id="leadModal" class="modal fade">
+            <div class="modal-dialog" style="max-width: 700px;">
+                <div class="modal-content">
+                    <div class="modal-header bg-encore-dark text-white text-uppercase">
+                        <h1 class="modal-title font-weight-bold" style="text-shadow: 1px 1px 2px black;">
+                            View Our Class Availability
+                            <br>
+                            <span style="font-size: 0.5em; font-weight: normal;">Enter Your Information Below To View Our Schedule & Register For Classes</span>
+                        </h1>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        @include('_lead-form')
+                    </div>
+                </div>
+            </div>
+        </div>
 
 @endsection

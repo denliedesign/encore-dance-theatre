@@ -233,7 +233,7 @@
                 <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2025" target="_blank">Recital</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Register</a>
+                <a class="nav-link" type="button" data-toggle="modal" data-target="#summerModal" target="_blank">Register</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/contact">Contact Us</a>
