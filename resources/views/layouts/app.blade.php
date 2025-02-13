@@ -261,6 +261,9 @@
             <li class="nav-item">
                 <a class="nav-link" href="/news">News</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank">Member Portal</a>
+            </li>
         </ul>
     </div>
 </nav>
