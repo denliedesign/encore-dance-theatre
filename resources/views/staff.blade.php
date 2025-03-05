@@ -975,7 +975,7 @@
                     <div class="row py-4">
                         <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
                             <div class="headshot">
-                                <img src="/images/sabrina.jpeg" alt="headshot">
+                                <img src="/images/staff-sabrina-crop.jpeg" alt="headshot">
                             </div>
                         </div>
                         <div class="col-sm-8">
@@ -994,7 +994,7 @@
                                     <div id="collapseSabrina" class="collapse" aria-labelledby="headingOne"
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Sabrina has been a student at Encore Dance Theatre since the age of 8 years old. Since then she has taken every genre of dance Encore has to offer. Sabrina’s love of dance was apparent and she was quickly invited onto our competition team. She is a current member of our elite competition team and has won many accolades. Sabrina has trained under many master teachers. She has been through our teacher training program, teaching alongside Ms. Marlee Ramirez for the past 4 years and is now a teacher for Encore. She is loving, caring, smart and kind. Sabrina loves teaching and working with children of all ages but especially loves the little ones. In her free time she is also an ice skating instructor. We are so proud of Sabrina and the work she has put into becoming an amazing instructor. She is so excited to teach and bring her love of dance to her EDT students.
+                                            Sabrina Wakat grew up in South Florida, beginning her dance training at the age of six. Since then she has studied almost every style of dance there is to offer. She is a current member of Encore’s Elite competition team, but beyond that, she has been assisting there since she was ten and teaching since fourteen. Teaching is her passion—she spends numerous hours per week teaching dance as well as coaching figure skating outside of her time at the studio. She has been certified through teaching programs such as More Than Just Great Dancing and Ready Set Dance, and is also CPR certified. In addition, Sabrina’s love for choreographing has led her to achieve many choreography awards such as Intrigue Dance Convention’s Imagination concept winner when she was only fifteen. Sabrina’s love for performing was first seen in her appearance in Disney’s Christmas parade at the age of ten. Since then she has trained with many programs such as NYU Tisch, Joffrey’s Jazz&Contemporary program, and more, and has utilized her training to earn herself many accolades. Some of these include: Intrigue true performer (teen and senior division), 1st overall senior solo at Shake the Ground, and her most recent acceptance into Joffrey Ballet School’s trainee program on scholarship. Sabrina plans to continue her dance career into college and beyond. She loves dance in all aspects, but most importantly, she loves sharing the joy of it with her students.
                                         </div>
                                     </div>
                                 </div>
