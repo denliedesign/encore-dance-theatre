@@ -159,14 +159,54 @@
                     </div>
                 </div>
                 <div class="col-md-5 text-center" id="tryit">
-                    <div id="trial-img">
-                        <img src="images/CharleeTutus.png" alt="" class="img-fluid">
+                    <h2>Your First Class FREE</h2>
+                    <div>
+                        <iframe
+
+                            src="https://link.enrollio.ai/widget/form/aUqdGUG7qqi2H1CjkU7m"
+
+                            style="width:100%;height:100%;border:none;border-radius:13px"
+
+                            id="inline-aUqdGUG7qqi2H1CjkU7m"
+
+                            data-layout="{'id':'INLINE'}"
+
+                            data-trigger-type="alwaysShow"
+
+                            data-trigger-value=""
+
+                            data-activation-type="alwaysActivated"
+
+                            data-activation-value=""
+
+                            data-deactivation-type="neverDeactivate"
+
+                            data-deactivation-value=""
+
+                            data-form-name="Website Free Trial Class Form"
+
+                            data-height="860"
+
+                            data-layout-iframe-id="inline-aUqdGUG7qqi2H1CjkU7m"
+
+                            data-form-id="aUqdGUG7qqi2H1CjkU7m"
+
+                            title="Website Free Trial Class Form"
+
+                        >
+
+                        </iframe>
+
+                        <script src="https://link.enrollio.ai/js/form_embed.js"></script>
                     </div>
-                    <h5 class="modal-title mt-2" id="trymodalLabel">Your First Class FREE</h5>
-                    <small class="text-muted">Limited availability. For a short time only.</small>
-                    <div class="modal-body text-left mx-2">
-                        @include('trial.form')
-                    </div>
+{{--                    <div id="trial-img">--}}
+{{--                        <img src="images/CharleeTutus.png" alt="" class="img-fluid">--}}
+{{--                    </div>--}}
+{{--                    <h5 class="modal-title mt-2" id="trymodalLabel">Your First Class FREE</h5>--}}
+{{--                    <small class="text-muted">Limited availability. For a short time only.</small>--}}
+{{--                    <div class="modal-body text-left mx-2">--}}
+{{--                        @include('trial.form')--}}
+{{--                    </div>--}}
                 </div>
             </div>
         </div>
