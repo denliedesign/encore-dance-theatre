@@ -10,10 +10,11 @@
             <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 my-3">
-            <img src="/images/2024-dance-classes-1.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-classes-2.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-classes-3b.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-classes-4.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-1.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-2.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-3.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-4.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-5.png" alt="summer classes" class="img-fluid p-2">
         </div>
         <div class="d-flex justify-content-center">
             <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
@@ -23,10 +24,7 @@
             <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 my-3">
-            <img src="/images/2024-dance-camps-1.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-camps-2.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-camps-3.png" alt="summer classes" class="img-fluid p-2">
-            <img src="/images/2024-dance-camps-4.png" alt="summer classes" class="img-fluid p-2">
+            <img src="/images/2025-summer-camps.png" alt="summer classes" class="img-fluid p-2">
         </div>
         <div class="d-flex justify-content-center">
             <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
