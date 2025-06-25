@@ -45,7 +45,7 @@
 {{--        </div>--}}
 {{--    </div>--}}
 
-    <video class="head-video" src="images/edt-promo-2.mov" autoplay="" muted="" controls="" loop="" poster="/images/encore-poster.jpg">
+    <video class="head-video" src="images/edt-promo-2.MOV" autoplay="" muted="" controls="" loop="" poster="/images/encore-poster.jpg">
     </video>
 
     <div id="vision-head">
