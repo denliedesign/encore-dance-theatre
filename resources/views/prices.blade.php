@@ -4,14 +4,14 @@
 @section('content')
 
     <div class="container">
-        <h1 class="head-white py-4" style="text-decoration: underline;"><a href="/images/prices.pdf" class="text-dark" target="_blank">Class Prices & Studio Policies</a></h1>
+        <h1 class="head-white py-4" style="text-decoration: underline;">Class Prices & Studio Policies</h1>
         <div class="row">
             <div class="col-sm">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/pricing-24-25a.png" alt="encore class prices" class="img-fluid">
+                    <img src="/images/2025-pricing.png" alt="encore class prices" class="img-fluid">
                 </div>
                 <div class="d-flex justify-content-center">
-                    <img src="/images/pricing-24-25b.png" alt="encore studio policies" class="img-fluid mt-4">
+                    <img src="/images/2025-policies.png" alt="encore studio policies" class="img-fluid mt-4">
                 </div>
             </div>
         </div>
