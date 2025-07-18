@@ -45,7 +45,7 @@
                         <div class="modal-body">
                             Anne has been sharing her passion for dance and mentorship with students for over 30 years. She is a proud member of More Than Just Great DancingTM and Dance Educators of America. She began teaching for Encore Dance Theatre in 1992 and has owned it since 2012. Anne beams with pride over the many accomplishments of her students and her studio.
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -80,7 +80,7 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
                         <div class="modal-body">
                             Deana is from Orlando, Florida. She had the honor of being a New York City Radio City Music Hall Rockette for several seasons. Among her other accomplishments are: the TV show Glee, Smash, Bad Romance music video with Lady Gaga, PSA with Beyonce, performed with Jennifer Lopez at the American Music Video Awards, America’s Got Talent, and can be seen dancing with Lady Gaga in the MTV Video Awards. She has worked with prestigious artists and choreographers including assisting the Emmy award winning SYTYCD choreographer, Tessandra Chavez. She has also performed in the Equity production of Beauty and the Beast at Disney World as well as a high-kick dancer in Universal Studios.
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
                             <br><br>
                             Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at all home games for the NFL community and Dolphins Fans at Hard Rock Stadium! Having teaching dance since she was 16 years old and choreographing for many years, she is immensely excited to be apart the EDT family!
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
                         <div class="modal-body">
                             Bio coming soon!
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -202,7 +202,7 @@ Jordan holds a bachelor’s degree in Business Administration from Liberty Unive
                             <br><br>
                             Jordan holds a bachelor’s degree in Business Administration from Liberty University and an MBA from the University of Miami. We excited to have Miss Jordan on the EDT faculty.
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
@@ -241,7 +241,7 @@ Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ball
                             <br><br>
                             Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
                         </div>
-                        <div class="modal-footer">
+                        <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                         </div>
                     </div>
