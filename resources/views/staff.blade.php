@@ -19,10 +19,10 @@
         <div class="row gy-4 poppins">
             <div class="col-md-6 col-lg-6">
                 <div class="row">
-                    <div class="col-md">
-                        <img src="/images/anne.jpg" class="img-fluid rounded mb-3" alt="Instructor Name">
+                    <div class="col-sm">
+                        <img src="/images/anne.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
-                    <div class="col-md">
+                    <div class="col-sm">
                         <h5 class="fw-bold mb-0 pb-0">Anne Brodsky</h5>
                         <h5 class="text-muted fw-bold">Owner/Artistic Director</h5>
                         <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#AnneModal">
@@ -54,10 +54,10 @@
 
             <div class="col-md-6 col-lg-6">
                 <div class="row">
-                    <div class="col-md">
-                        <img src="/images/deana.jpg" class="img-fluid rounded mb-3" alt="Instructor Name">
+                    <div class="col-sm">
+                        <img src="/images/deana.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
-                    <div class="col-md">
+                    <div class="col-sm">
                         <h5 class="fw-bold mb-0 pb-0">Deana Brickley</h5>
                         <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#DeanaModal">
                             {{ str('
@@ -89,10 +89,10 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
 
             <div class="col-md-6 col-lg-6">
                 <div class="row">
-                    <div class="col-md">
-                        <img src="/images/bella-denton.jpg" class="img-fluid rounded mb-3" alt="Instructor Name">
+                    <div class="col-sm">
+                        <img src="/images/bella.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
-                    <div class="col-md">
+                    <div class="col-sm">
                         <h5 class="fw-bold mb-0 pb-0">Bella Denton</h5>
                         <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#BellaModal">
                             {{ str('
@@ -125,10 +125,128 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
                 </div>
             </div>
 
+            <div class="col-md-6 col-lg-6">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/karen.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Karen Cowart</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KarenModal">
+                            {{ str('Bio coming soon!')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="KarenModal" tabindex="-1" aria-labelledby="KarenModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="KarenModalLabel">Karen Cowart</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
+            <div class="col-md-6 col-lg-6">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/jordan.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Jordan Elizabeth Long</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#JordanModal">
+                            {{ str('
+Jordan Elizabeth Long was born in Blacksburg, Virginia. She began her ballet training with Carol Crawford Smith and continued with Terri Post at the Southwest Virginia Ballet. In high school, she trained in South Florida with Magaly Suarez.
 
+Upon completion of high school, she was invited to join the Dutch National Ballet as a demi-soloist. In 2010 she joined the Royal Swedish Ballet, where she was promoted to soloist. During her time in Europe, her repertoire included leading roles in The Nutcracker, Swan Lake, Giselle, and The Sleeping Beauty.
 
+Jordan has been awarded the Gold Medal at the World Ballet Competition USA, been a finalist at the Shanghai International Ballet Competition, and was awarded the Louis Gallodier Prize at the Royal Swedish Ballet. She has appeared in galas and festivals in the USA, Dominican Republic, Russia, Romania, and Hong Kong.
 
+In 2014, Jordan joined Miami City Ballet as a Soloist, and was promoted to Principal Soloist in 2023. With MCB, her repertoire has included leading roles in George Balanchine’s The Nutcracker (Sugar Plum Fairy, Dew Drop, Hot Chocolate, Coffee), A Midsummer Night’s Dream (Titania, Hippolyta), Jewels (Emeralds principal and Rubies tall girl), Giselle (Myrtha), and Serenade (Dark Angel), among many others.
+
+Jordan holds a bachelor’s degree in Business Administration from Liberty University and an MBA from the University of Miami. We excited to have Miss Jordan on the EDT faculty.
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="JordanModal" tabindex="-1" aria-labelledby="JordanModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="JordanModalLabel">Jordan Elizabeth Long</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Jordan Elizabeth Long was born in Blacksburg, Virginia. She began her ballet training with Carol Crawford Smith and continued with Terri Post at the Southwest Virginia Ballet. In high school, she trained in South Florida with Magaly Suarez.
+                            <br><br>
+                            Upon completion of high school, she was invited to join the Dutch National Ballet as a demi-soloist. In 2010 she joined the Royal Swedish Ballet, where she was promoted to soloist. During her time in Europe, her repertoire included leading roles in The Nutcracker, Swan Lake, Giselle, and The Sleeping Beauty.
+                            <br><br>
+                            Jordan has been awarded the Gold Medal at the World Ballet Competition USA, been a finalist at the Shanghai International Ballet Competition, and was awarded the Louis Gallodier Prize at the Royal Swedish Ballet. She has appeared in galas and festivals in the USA, Dominican Republic, Russia, Romania, and Hong Kong.
+                            <br><br>
+                            In 2014, Jordan joined Miami City Ballet as a Soloist, and was promoted to Principal Soloist in 2023. With MCB, her repertoire has included leading roles in George Balanchine’s The Nutcracker (Sugar Plum Fairy, Dew Drop, Hot Chocolate, Coffee), A Midsummer Night’s Dream (Titania, Hippolyta), Jewels (Emeralds principal and Rubies tall girl), Giselle (Myrtha), and Serenade (Dark Angel), among many others.
+                            <br><br>
+                            Jordan holds a bachelor’s degree in Business Administration from Liberty University and an MBA from the University of Miami. We excited to have Miss Jordan on the EDT faculty.
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/reyneris.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Reyneris Reyes</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#ReynerisModal">
+                            {{ str('
+Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
+
+Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="ReynerisModal" tabindex="-1" aria-labelledby="ReynerisModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="ReynerisModalLabel">Reyneris Reyes</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
+                            <br><br>
+                            Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
