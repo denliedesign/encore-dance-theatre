@@ -17,7 +17,7 @@
 
     <div class="container py-5">
         <div class="row gy-4 poppins">
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/anne.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
@@ -52,7 +52,7 @@
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/deana.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
@@ -87,7 +87,7 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/bella.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
@@ -125,7 +125,7 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/karen.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
@@ -158,7 +158,7 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/jordan.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
@@ -209,7 +209,7 @@ Jordan holds a bachelor’s degree in Business Administration from Liberty Unive
                 </div>
             </div>
 
-            <div class="col-md-6 col-lg-6">
+            <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
                         <img src="/images/reyneris.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
