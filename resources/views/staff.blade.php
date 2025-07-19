@@ -248,6 +248,80 @@ Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ball
                 </div>
             </div>
 
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/kalanie.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Kalanie Ramirez</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KalanieModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="KalanieModal" tabindex="-1" aria-labelledby="KalanieModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="KalanieModalLabel">Kalanie Ramirez</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/shaelynn.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Shaelynn Padilla</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#ShaelynnModal">
+                            {{ str('
+Shaelynn began dancing at the age of four and found her dance home at Encore just a few years later. What started as a love for musical theatre quickly expanded into a passion for jazz and, most notably, hip hop—captivated by its power, energy, and expressive freedom. As her training progressed, Shaelynn became a dedicated member of Encore’s Competitive Company, where she not only grew as a performer but also forged lifelong friendships and unforgettable memories.
+
+Her journey came full circle when she stepped into the role of assistant teacher, discovering a true love for mentoring and inspiring younger dancers. Now a graduate, Shaelynn is thrilled to continue her dance journey as an instructor at Encore. She looks forward to giving back to the studio that shaped her and sharing her creativity, energy, and enthusiasm with the next generation of dancers.
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="ShaelynnModal" tabindex="-1" aria-labelledby="ShaelynnModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="ShaelynnModalLabel">Shaelynn Padilla</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Shaelynn began dancing at the age of four and found her dance home at Encore just a few years later. What started as a love for musical theatre quickly expanded into a passion for jazz and, most notably, hip hop—captivated by its power, energy, and expressive freedom. As her training progressed, Shaelynn became a dedicated member of Encore’s Competitive Company, where she not only grew as a performer but also forged lifelong friendships and unforgettable memories.
+                            <br><br>
+                            Her journey came full circle when she stepped into the role of assistant teacher, discovering a true love for mentoring and inspiring younger dancers. Now a graduate, Shaelynn is thrilled to continue her dance journey as an instructor at Encore. She looks forward to giving back to the studio that shaped her and sharing her creativity, energy, and enthusiasm with the next generation of dancers.
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
 
         </div>
