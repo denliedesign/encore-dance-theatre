@@ -464,7 +464,7 @@
                                     <div id="collapseNoeah" class="collapse" aria-labelledby="headingOne"
                                          data-parent="#accordionExample">
                                         <div class="card-body faculty-bio-txt">
-                                            Bio coming soon
+                                            Bio coming soon!
                                         </div>
                                     </div>
                                 </div>
@@ -535,35 +535,35 @@
                 {{--                    </div>--}}
                 {{--                </div>--}}
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/staff-3.jpeg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingB">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLuper" aria-expanded="true" aria-controls="collapseB">
-                                                Ysabella Lupercio
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/staff-3.jpeg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingB">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseLuper" aria-expanded="true" aria-controls="collapseB">--}}
+{{--                                                Ysabella Lupercio--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseLuper" class="collapse" aria-labelledby="headingB" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Ysabella Lupercio grew up in Jacksonville, Florida training in a multitude of dance styles since she was 3. She is currently a third year student at Nova Southeastern University, majoring in dance and business management with a minor in technical theatre. She is so excited to be joining the EDT family!
+{{--                                    <div id="collapseLuper" class="collapse" aria-labelledby="headingB" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Ysabella Lupercio grew up in Jacksonville, Florida training in a multitude of dance styles since she was 3. She is currently a third year student at Nova Southeastern University, majoring in dance and business management with a minor in technical theatre. She is so excited to be joining the EDT family!--}}
 
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -595,34 +595,34 @@
                     </div>
                 </div>
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div>
-                                <img src="/images/migdy.jpg" alt="headshot" style="height: 175px; width: 175px; object-fit: cover; object-position: center; border-radius: 50%;">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMigdy" aria-expanded="true" aria-controls="collapseMigdy">
-                                                Migdy Martinez
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div>--}}
+{{--                                <img src="/images/migdy.jpg" alt="headshot" style="height: 175px; width: 175px; object-fit: cover; object-position: center; border-radius: 50%;">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseMigdy" aria-expanded="true" aria-controls="collapseMigdy">--}}
+{{--                                                Migdy Martinez--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseMigdy" class="collapse" aria-labelledby="headingMigdy" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseMigdy" class="collapse" aria-labelledby="headingMigdy" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Bio coming soon!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 {{--                <div class="col-sm master-faculty-col">--}}
                 {{--                    <div class="row py-4">--}}
@@ -779,34 +779,34 @@
                 {{--                    </div>--}}
                 {{--                </div>--}}
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/darlyn-perez.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseDarlyn" aria-expanded="true" aria-controls="collapseOne">
-                                                Darlyn Perez
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/darlyn-perez.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseDarlyn" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Darlyn Perez--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseDarlyn" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Bio coming soon!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseDarlyn" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Bio coming soon!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">
@@ -899,46 +899,46 @@
 
 
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/rosario.jpg" alt="">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRosario" aria-expanded="true" aria-controls="collapseOne">
-                                                Rosario Suarez
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/rosario.jpg" alt="">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button" data-toggle="collapse" data-target="#collapseRosario" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Rosario Suarez--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseRosario" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Regarded in Cuba as the greatest and most popular ballerina of her generation, Rosario Suarez was universally known for the profound artistry, versatility, and innovation with which she performed ballet repertoire. Among her many achievements, Rosario won the gold medal at the International Ballet Competition in Varna, Bulgaria in 1970. Over a remarkable twenty- seven year career with the National Ballet of Cuba, she performed principal roles in over 50 countries, to worldwide critical acclaim. In 1991, the Cuban Ministry of Culture recognized and celebrated her artistic achievements.
-                                            <br><br>
-                                            Born in Havana, Rosario began her ballet training at the Province Ballet School, then continuing her studies at the National School of the Arts, with teachers Joaquin Banegas, Fernando Alonso and Alicia Alonso. When Rosario was only fifteen years old, Fernando Alonso, the director of the National Ballet of Cuba, invited Rosario to join the Company, thus launching her nearly three-decade professional career, which included a fifteen-year tenure as Principal dancer. Rosario was also a principal dancer of Ballet Theater of Havana, under the direction of Caridad Martinez.
-                                            <br><br>
-                                            Rosario’s performances in Coppelia, Swan Lake and Giselle have brought her the highest acclaim. However, her roles in works by Cuban choreographers, such as Tarde en la Siesta and Rara Avis, were performances that have also been said to have set the standard for future generations of dancers.
-                                            <br><br>
-                                            Rosario’s interpretation of The Sylphide and The Scotsman at the International Cervantine Festival in Guanajuato and Giselle, at a historic performance at the Teatro Albeniz in Madrid, brought roaring audiences to their feet. At that time, Rosario established herself as an artist in Spain, participating in a number of festivals and teaching throughout the city. In 2000, at the debut of Anna Pavlova: Diálogos del Alma, within the setting of the Dance Festival of Madrid, she performed the famous Death of the Swan by Fokine. While in Spain, she worked at the Conservatory Real in Madrid alongside Virgina Valero, as well as with Victor Ullate, Goyo Montero, Juan Carlos Santa Maria, Raul Cardenes and Ramon Oller, and many others.
-                                            <br><br>
-                                            Rosario’s career brought her to Miami, where she was on faculty at New World School of the Arts, under the direction of Daniel Lewis. She then established her own company, Ballet Rosario Suarez, and an affiliated dance academy dedicated to the preservation of the Cuban Style of Ballet. In 2002, she created her first choreographic work, Cecilia Valdes with great success. Her final performance took place in Miami in 2010, as the star of the ballet theater production “La Ultima Funcion,” based on a poem by Abilio Estevez and directed by Lilian Vega. In 2012, Rosario was named one of the top 100 Latinos in Miami with the greatest cultural impact.
-                                            <br><br>
-                                            Rosario's career also took the form of film appearances, as she was featured in a documentary directed by Marisol Trujillo, Mujer Ante el Espejo, inspired by the experience of maternity of ballerinas; a short for the School of Cinematography, Two Gladys For You, directed by Aaron Yelin; a documentary about Pablo Neruda, and Stolen Verses, by Orlando Rojas. She appeared extensively, via modern interviews and archival performance footage, in a documentary of her own life, directed by Orlando Rojas, Queen of Thursdays, which won the award of Best Documentary at the Miami Film Festival.
-                                            <br><br>
-                                            Rosario is recognized as a versatile interpreter who builds her characters around expressive musicality. Her constant search for freedom throughout the course of her career has inspired her work, and she is an artist and performer who has reached critical acclaim, winning over the hearts of audiences all over the world. In 2008, Rosario joined the Miami Conservatory/Thomas Armour Youth Ballet, where she trained future generations in her role as Ballet Mistress. She continues to travel and tour as a teacher and coach for students internationally. Behind Rosario’s fame, experience, and technique is an unbridled passion to affect change in her students and help them unearth their full artistic potential. She is excited to work with the students at Encore and be a part of the faculty this season!
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseRosario" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Regarded in Cuba as the greatest and most popular ballerina of her generation, Rosario Suarez was universally known for the profound artistry, versatility, and innovation with which she performed ballet repertoire. Among her many achievements, Rosario won the gold medal at the International Ballet Competition in Varna, Bulgaria in 1970. Over a remarkable twenty- seven year career with the National Ballet of Cuba, she performed principal roles in over 50 countries, to worldwide critical acclaim. In 1991, the Cuban Ministry of Culture recognized and celebrated her artistic achievements.--}}
+{{--                                            <br><br>--}}
+{{--                                            Born in Havana, Rosario began her ballet training at the Province Ballet School, then continuing her studies at the National School of the Arts, with teachers Joaquin Banegas, Fernando Alonso and Alicia Alonso. When Rosario was only fifteen years old, Fernando Alonso, the director of the National Ballet of Cuba, invited Rosario to join the Company, thus launching her nearly three-decade professional career, which included a fifteen-year tenure as Principal dancer. Rosario was also a principal dancer of Ballet Theater of Havana, under the direction of Caridad Martinez.--}}
+{{--                                            <br><br>--}}
+{{--                                            Rosario’s performances in Coppelia, Swan Lake and Giselle have brought her the highest acclaim. However, her roles in works by Cuban choreographers, such as Tarde en la Siesta and Rara Avis, were performances that have also been said to have set the standard for future generations of dancers.--}}
+{{--                                            <br><br>--}}
+{{--                                            Rosario’s interpretation of The Sylphide and The Scotsman at the International Cervantine Festival in Guanajuato and Giselle, at a historic performance at the Teatro Albeniz in Madrid, brought roaring audiences to their feet. At that time, Rosario established herself as an artist in Spain, participating in a number of festivals and teaching throughout the city. In 2000, at the debut of Anna Pavlova: Diálogos del Alma, within the setting of the Dance Festival of Madrid, she performed the famous Death of the Swan by Fokine. While in Spain, she worked at the Conservatory Real in Madrid alongside Virgina Valero, as well as with Victor Ullate, Goyo Montero, Juan Carlos Santa Maria, Raul Cardenes and Ramon Oller, and many others.--}}
+{{--                                            <br><br>--}}
+{{--                                            Rosario’s career brought her to Miami, where she was on faculty at New World School of the Arts, under the direction of Daniel Lewis. She then established her own company, Ballet Rosario Suarez, and an affiliated dance academy dedicated to the preservation of the Cuban Style of Ballet. In 2002, she created her first choreographic work, Cecilia Valdes with great success. Her final performance took place in Miami in 2010, as the star of the ballet theater production “La Ultima Funcion,” based on a poem by Abilio Estevez and directed by Lilian Vega. In 2012, Rosario was named one of the top 100 Latinos in Miami with the greatest cultural impact.--}}
+{{--                                            <br><br>--}}
+{{--                                            Rosario's career also took the form of film appearances, as she was featured in a documentary directed by Marisol Trujillo, Mujer Ante el Espejo, inspired by the experience of maternity of ballerinas; a short for the School of Cinematography, Two Gladys For You, directed by Aaron Yelin; a documentary about Pablo Neruda, and Stolen Verses, by Orlando Rojas. She appeared extensively, via modern interviews and archival performance footage, in a documentary of her own life, directed by Orlando Rojas, Queen of Thursdays, which won the award of Best Documentary at the Miami Film Festival.--}}
+{{--                                            <br><br>--}}
+{{--                                            Rosario is recognized as a versatile interpreter who builds her characters around expressive musicality. Her constant search for freedom throughout the course of her career has inspired her work, and she is an artist and performer who has reached critical acclaim, winning over the hearts of audiences all over the world. In 2008, Rosario joined the Miami Conservatory/Thomas Armour Youth Ballet, where she trained future generations in her role as Ballet Mistress. She continues to travel and tour as a teacher and coach for students internationally. Behind Rosario’s fame, experience, and technique is an unbridled passion to affect change in her students and help them unearth their full artistic potential. She is excited to work with the students at Encore and be a part of the faculty this season!--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 {{--                <div class="col-sm master-faculty-col">--}}
                 {{--                    <div class="row py-4">--}}
@@ -971,37 +971,37 @@
                 {{--                </div>--}}
 
 
-                <div class="col-sm master-faculty-col">
-                    <div class="row py-4">
-                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">
-                            <div class="headshot">
-                                <img src="/images/staff-sabrina-crop.jpeg" alt="headshot">
-                            </div>
-                        </div>
-                        <div class="col-sm-8">
-                            <div class="accordion faculty-bio" id="accordionExample">
-                                <div class="card">
-                                    <div class="card-header faculty-card-header" id="headingOne">
-                                        <h2 class="mb-0 d-flex justify-content-center">
-                                            <button class="btn btn-link" style="height: 84px;" type="button"
-                                                    data-toggle="collapse" data-target="#collapseSabrina"
-                                                    aria-expanded="true" aria-controls="collapseOne">
-                                                Sabrina Wakat
-                                            </button>
-                                        </h2>
-                                    </div>
+{{--                <div class="col-sm master-faculty-col">--}}
+{{--                    <div class="row py-4">--}}
+{{--                        <div class="col-sm-4 d-flex justify-content-sm-end justify-content-center">--}}
+{{--                            <div class="headshot">--}}
+{{--                                <img src="/images/staff-sabrina-crop.jpeg" alt="headshot">--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm-8">--}}
+{{--                            <div class="accordion faculty-bio" id="accordionExample">--}}
+{{--                                <div class="card">--}}
+{{--                                    <div class="card-header faculty-card-header" id="headingOne">--}}
+{{--                                        <h2 class="mb-0 d-flex justify-content-center">--}}
+{{--                                            <button class="btn btn-link" style="height: 84px;" type="button"--}}
+{{--                                                    data-toggle="collapse" data-target="#collapseSabrina"--}}
+{{--                                                    aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                                Sabrina Wakat--}}
+{{--                                            </button>--}}
+{{--                                        </h2>--}}
+{{--                                    </div>--}}
 
-                                    <div id="collapseSabrina" class="collapse" aria-labelledby="headingOne"
-                                         data-parent="#accordionExample">
-                                        <div class="card-body faculty-bio-txt">
-                                            Sabrina Wakat grew up in South Florida, beginning her dance training at the age of six. Since then she has studied almost every style of dance there is to offer. She is a current member of Encore’s Elite competition team, but beyond that, she has been assisting there since she was ten and teaching since fourteen. Teaching is her passion—she spends numerous hours per week teaching dance as well as coaching figure skating outside of her time at the studio. She has been certified through teaching programs such as More Than Just Great Dancing and Ready Set Dance, and is also CPR certified. In addition, Sabrina’s love for choreographing has led her to achieve many choreography awards such as Intrigue Dance Convention’s Imagination concept winner when she was only fifteen. Sabrina’s love for performing was first seen in her appearance in Disney’s Christmas parade at the age of ten. Since then she has trained with many programs such as NYU Tisch, Joffrey’s Jazz&Contemporary program, and more, and has utilized her training to earn herself many accolades. Some of these include: Intrigue true performer (teen and senior division), 1st overall senior solo at Shake the Ground, and her most recent acceptance into Joffrey Ballet School’s trainee program on scholarship. Sabrina plans to continue her dance career into college and beyond. She loves dance in all aspects, but most importantly, she loves sharing the joy of it with her students.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                                    <div id="collapseSabrina" class="collapse" aria-labelledby="headingOne"--}}
+{{--                                         data-parent="#accordionExample">--}}
+{{--                                        <div class="card-body faculty-bio-txt">--}}
+{{--                                            Sabrina Wakat grew up in South Florida, beginning her dance training at the age of six. Since then she has studied almost every style of dance there is to offer. She is a current member of Encore’s Elite competition team, but beyond that, she has been assisting there since she was ten and teaching since fourteen. Teaching is her passion—she spends numerous hours per week teaching dance as well as coaching figure skating outside of her time at the studio. She has been certified through teaching programs such as More Than Just Great Dancing and Ready Set Dance, and is also CPR certified. In addition, Sabrina’s love for choreographing has led her to achieve many choreography awards such as Intrigue Dance Convention’s Imagination concept winner when she was only fifteen. Sabrina’s love for performing was first seen in her appearance in Disney’s Christmas parade at the age of ten. Since then she has trained with many programs such as NYU Tisch, Joffrey’s Jazz&Contemporary program, and more, and has utilized her training to earn herself many accolades. Some of these include: Intrigue true performer (teen and senior division), 1st overall senior solo at Shake the Ground, and her most recent acceptance into Joffrey Ballet School’s trainee program on scholarship. Sabrina plans to continue her dance career into college and beyond. She loves dance in all aspects, but most importantly, she loves sharing the joy of it with her students.--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
                 <div class="col-sm master-faculty-col">
                     <div class="row py-4">

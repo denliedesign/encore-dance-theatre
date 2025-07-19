@@ -90,6 +90,39 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
             <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
+                        <img src="/images/karen.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Karen Cowart</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KarenModal">
+                            {{ str('Bio coming soon!')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="KarenModal" tabindex="-1" aria-labelledby="KarenModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="KarenModalLabel">Karen Cowart</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
                         <img src="/images/bella.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div class="col-sm">
@@ -128,28 +161,182 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
             <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
-                        <img src="/images/karen.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/nelly.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div class="col-sm">
-                        <h5 class="fw-bold mb-0 pb-0">Karen Cowart</h5>
-                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KarenModal">
-                            {{ str('Bio coming soon!')->words(50, '...') }}
+                        <h5 class="fw-bold mb-0 pb-0">Nelly Gibilterra</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#NellyModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
                         </p>
                     </div>
                 </div>
             </div>
             <!-- Modal -->
-            <div class="modal fade" id="KarenModal" tabindex="-1" aria-labelledby="KarenModalLabel" aria-hidden="true">
+            <div class="modal fade" id="NellyModal" tabindex="-1" aria-labelledby="NellyModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="KarenModalLabel">Karen Cowart</h5>
+                            <h5 class="modal-title" id="NellyModalLabel">Nelly Gibilterra</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
                         </div>
                         <div class="modal-body">
                             Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/deanna-2.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Deanna Greist</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#DeannaModal">
+                            {{ str('
+Deanna Greist grew up in South Florida and began her training at Jill Mallory Studio of Dance at the age of three. In high school, she trained at Donna Lee Studio of Dance and became an inaugural member of Expressions Dance Company where she was afforded the opportunity to work with nationally renowned choreographers, such as Rennie and Rhee Gold, Scott Fowler, and Debbie Dee. At the age of 18, Deanna became a member of The Young Americans where she benefitted from multiple national touring opportunities including working with and performing for the likes of Barbra Streisand, George Burns, and Shirley MacLaine to name a few.
+
+                                            Deanna has been a dance educator/choreographer in South Florida for more than 30 years and has spent three of those years on faculty at Encore Dance Theatre. She is a certified Acrobatics Arts Instructor, as well as a certified Acro Dance Teacher Association Adjudicator. Deanna is also a certified judge for the Miss America Organization and enjoys judging local competitions. She is excited to be back for another successful year at Encore Dance Theatre!
+
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="DeannaModal" tabindex="-1" aria-labelledby="DeannaModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="DeannaModalLabel">Deanna Greist</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Deanna Greist grew up in South Florida and began her training at Jill Mallory Studio of Dance at the age of three. In high school, she trained at Donna Lee Studio of Dance and became an inaugural member of Expressions Dance Company where she was afforded the opportunity to work with nationally renowned choreographers, such as Rennie and Rhee Gold, Scott Fowler, and Debbie Dee. At the age of 18, Deanna became a member of The Young Americans where she benefitted from multiple national touring opportunities including working with and performing for the likes of Barbra Streisand, George Burns, and Shirley MacLaine to name a few.
+                            <br><br>
+                            Deanna has been a dance educator/choreographer in South Florida for more than 30 years and has spent three of those years on faculty at Encore Dance Theatre. She is a certified Acrobatics Arts Instructor, as well as a certified Acro Dance Teacher Association Adjudicator. Deanna is also a certified judge for the Miss America Organization and enjoys judging local competitions. She is excited to be back for another successful year at Encore Dance Theatre!
+
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/luz.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Luz Monica Guerrero</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#LuzModal">
+                            {{ str('
+Luz Monica is a graduate in Performing Arts, with a specialty in Ballet, graduated with a Gold Degree from the Higher Institute of Art of Havana, postgraduate in Historical Dances and Dances of Character, of Elementary and Middle level in the Superior Institute of Art of Havana. With vast experience in teaching, teaching courses in Classical Technique, Character Dances, Point Techniques and Repertoire at various levels. With pedagogical, didactic, methodological and administrative tools to guarantee the integral development of schools and dance academies; special interest in teaching, vocational guidance and planning and organization of the artistic curriculum. Co-creator and administrator of the La Luz de la Danza Foundation. With skills for work under pressure, achievement orientation and high-performance capacity in tasks of responsibility and exigency. We are thrilled to have Luz Monica on faculty.
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="LuzModal" tabindex="-1" aria-labelledby="LuzModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="LuzModalLabel">Luz Monica Guerrero</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Luz Monica is a graduate in Performing Arts, with a specialty in Ballet, graduated with a Gold Degree from the Higher Institute of Art of Havana, postgraduate in Historical Dances and Dances of Character, of Elementary and Middle level in the Superior Institute of Art of Havana. With vast experience in teaching, teaching courses in Classical Technique, Character Dances, Point Techniques and Repertoire at various levels. With pedagogical, didactic, methodological and administrative tools to guarantee the integral development of schools and dance academies; special interest in teaching, vocational guidance and planning and organization of the artistic curriculum. Co-creator and administrator of the La Luz de la Danza Foundation. With skills for work under pressure, achievement orientation and high-performance capacity in tasks of responsibility and exigency. We are thrilled to have Luz Monica on faculty.
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/noeah.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Noeah Jacobs</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#NoeahModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="NoeahModal" tabindex="-1" aria-labelledby="NoeahModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="NoeahModalLabel">Noeah Jacobs</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/tori-jacobson.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Tori Jacobson</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#ToriModal">
+                            {{ str('
+                                            Tori began dancing at Encore when she was three years old. She was on the competition team where she trained in ballet, tap, jazz, acro and lyrical. Tori recently graduated with her bachelors degree in business management. We are delighted that Tori has come back home to EDT!
+
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="ToriModal" tabindex="-1" aria-labelledby="ToriModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="ToriModalLabel">Tori Jacobson</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Tori began dancing at Encore when she was three years old. She was on the competition team where she trained in ballet, tap, jazz, acro and lyrical. Tori recently graduated with her bachelors degree in business management. We are delighted that Tori has come back home to EDT!
+
                         </div>
                         <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -212,69 +399,32 @@ Jordan holds a bachelor’s degree in Business Administration from Liberty Unive
             <div class="col-md-6 col-lg-6 my-3">
                 <div class="row">
                     <div class="col-sm">
-                        <img src="/images/reyneris.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/natasha.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div class="col-sm">
-                        <h5 class="fw-bold mb-0 pb-0">Reyneris Reyes</h5>
-                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#ReynerisModal">
+                        <h5 class="fw-bold mb-0 pb-0">Natasha Madrigal</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#NatashaModal">
                             {{ str('
-Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
+                                            Natasha grew up in Coral Springs, Florida. She started dancing at 4 years old and was a student at encore dance theater for 12 years. She was a part of the company team, training and competing in all dance styles. She has also had the opportunity to perform at the Miami Heat and Dolphins Halftime, Royal Caribbean Show, and Dance the Magic Disney Parade all with Encore. Natasha is currently a student at Nova Southeastern University, majoring in Entrepreneurship and minoring in dance. She has performed at NSU each semester in a variety of events. At 19 years old, she became a professional dancer for the NHL Florida Panthers. She continues to attend multiple dance workshops to better herself and proceed with her dance career in pro sports. Natasha is a proud alumni and is so excited to share her love for dance with her EDT family!
 
-Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
 ')->words(50, '...') }}
                         </p>
                     </div>
                 </div>
             </div>
             <!-- Modal -->
-            <div class="modal fade" id="ReynerisModal" tabindex="-1" aria-labelledby="ReynerisModalLabel" aria-hidden="true">
+            <div class="modal fade" id="NatashaModal" tabindex="-1" aria-labelledby="NatashaModalLabel" aria-hidden="true">
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="ReynerisModalLabel">Reyneris Reyes</h5>
+                            <h5 class="modal-title" id="NatashaModalLabel">Natasha Madrigal</h5>
                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                 <span aria-hidden="true">&times;</span>
                             </button>
                         </div>
                         <div class="modal-body">
-                            Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
-                            <br><br>
-                            Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
-                        </div>
-                        <div class="modal-footer d-flex justify-content-center">
-                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                            Natasha grew up in Coral Springs, Florida. She started dancing at 4 years old and was a student at encore dance theater for 12 years. She was a part of the company team, training and competing in all dance styles. She has also had the opportunity to perform at the Miami Heat and Dolphins Halftime, Royal Caribbean Show, and Dance the Magic Disney Parade all with Encore. Natasha is currently a student at Nova Southeastern University, majoring in Entrepreneurship and minoring in dance. She has performed at NSU each semester in a variety of events. At 19 years old, she became a professional dancer for the NHL Florida Panthers. She continues to attend multiple dance workshops to better herself and proceed with her dance career in pro sports. Natasha is a proud alumni and is so excited to share her love for dance with her EDT family!
 
-            <div class="col-md-6 col-lg-6 my-3">
-                <div class="row">
-                    <div class="col-sm">
-                        <img src="/images/kalanie.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
-                    </div>
-                    <div class="col-sm">
-                        <h5 class="fw-bold mb-0 pb-0">Kalanie Ramirez</h5>
-                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KalanieModal">
-                            {{ str('
-Bio coming soon!
-')->words(50, '...') }}
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- Modal -->
-            <div class="modal fade" id="KalanieModal" tabindex="-1" aria-labelledby="KalanieModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="KalanieModalLabel">Kalanie Ramirez</h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-Bio coming soon!
                         </div>
                         <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -321,6 +471,242 @@ Her journey came full circle when she stepped into the role of assistant teacher
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/kalanie.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Kalanie Ramirez</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#KalanieModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="KalanieModal" tabindex="-1" aria-labelledby="KalanieModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="KalanieModalLabel">Kalanie Ramirez</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/marlee.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Marlee Ramirez-Santana</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#MarleeModal">
+                            {{ str('
+                                            Marlee has been a veteran of Encore Dance Theatre for 27 years. She has a Bachelors Degree in Exceptional Student Education with a Masters Degree in Educational Leadership. Marlee has a special talent to work with all levels. In her dance career she has performed with Ballet Met, The Power Rangers, and the Orange Bowl parade to name a few.
+
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="MarleeModal" tabindex="-1" aria-labelledby="MarleeModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="MarleeModalLabel">Marlee Ramirez-Santana</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Marlee has been a veteran of Encore Dance Theatre for 27 years. She has a Bachelors Degree in Exceptional Student Education with a Masters Degree in Educational Leadership. Marlee has a special talent to work with all levels. In her dance career she has performed with Ballet Met, The Power Rangers, and the Orange Bowl parade to name a few.
+
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/reyneris.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Reyneris Reyes</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#ReynerisModal">
+                            {{ str('
+Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
+
+Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="ReynerisModal" tabindex="-1" aria-labelledby="ReynerisModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="ReynerisModalLabel">Reyneris Reyes</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
+                            <br><br>
+                            Reyes has danced for National Ballet of Cuba, Royal Winnipeg Ballet, Boston Ballet and he joined Miami City Ballet as a principal dancer in 2010. We are excited to have Mr. Reyes on faculty at EDT.
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+            <!-- start add 10 existing -->
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/staff-alana.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Alana Scheuerer</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#AlanaModal">
+                            {{ str('
+                                            Alana holds an M.A. in American Dance Studies from Florida State University. Growing up as an award winning competitive dancer in South Florida, she specializes in tap. Alana helped found and run FSU’s first tap dance team, Seminole Tap Troupe, competed with student-run competitive dance team Seminole Dance Force, and served as hospitality coordinator for Dance Marathon. Alana has experience with hosting cultural stages at art festivals, producing and voicing NBC Comcast commercials, hosting live radio, and teaching dance workshops. She holds a seat on Coral Springs Public Art Committee and currently serves as the 85th Anniversary Miss Broward County, with her community service initiative of TAP: Turn up Artistic Participation. She works full time operating special events at the Museum of Discovery Science in downtown Fort Lauderdale, having worked with brands such as LEGO, Publix, and Joe DiMaggio Children’s Hospital. In March 2023, she led plans and operations for the 8,000 attendee Visit Lauderdale Science Festival. She’s excited to join the EDT Family and share her love for tap!
+
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="AlanaModal" tabindex="-1" aria-labelledby="AlanaModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="AlanaModalLabel">Alana Scheuerer</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Alana holds an M.A. in American Dance Studies from Florida State University. Growing up as an award winning competitive dancer in South Florida, she specializes in tap. Alana helped found and run FSU’s first tap dance team, Seminole Tap Troupe, competed with student-run competitive dance team Seminole Dance Force, and served as hospitality coordinator for Dance Marathon. Alana has experience with hosting cultural stages at art festivals, producing and voicing NBC Comcast commercials, hosting live radio, and teaching dance workshops. She holds a seat on Coral Springs Public Art Committee and currently serves as the 85th Anniversary Miss Broward County, with her community service initiative of TAP: Turn up Artistic Participation. She works full time operating special events at the Museum of Discovery Science in downtown Fort Lauderdale, having worked with brands such as LEGO, Publix, and Joe DiMaggio Children’s Hospital. In March 2023, she led plans and operations for the 8,000 attendee Visit Lauderdale Science Festival. She’s excited to join the EDT Family and share her love for tap!
+
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/staff-5.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Stacy Terry</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#StacyModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="StacyModal" tabindex="-1" aria-labelledby="StacyModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="StacyModalLabel">Stacy Terry</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col-md-6 col-lg-6 my-3">
+                <div class="row">
+                    <div class="col-sm">
+                        <img src="/images/hailey.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div class="col-sm">
+                        <h5 class="fw-bold mb-0 pb-0">Hailey Walsh</h5>
+                        <p class="mb-0 mt-2 font-sm" type="button" data-toggle="modal" data-target="#HaileyModal">
+                            {{ str('
+Bio coming soon!
+')->words(50, '...') }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="HaileyModal" tabindex="-1" aria-labelledby="HaileyModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="HaileyModalLabel">Hailey Walsh</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Bio coming soon!
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- finish add 10 existing -->
 
 
 

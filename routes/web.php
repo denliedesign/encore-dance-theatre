@@ -25,6 +25,10 @@ Route::get('staff', function () {
     return view('staff');
 });
 
+//Route::get('_old-staff', function () {
+//    return view('_old-staff');
+//});
+
 Route::get('dance-class', function () {
     return view('dance-class');
 });
