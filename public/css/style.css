@@ -663,3 +663,15 @@ h1 {
 
 /* END CTA */
 /***********************************************************/
+
+#read-more-wrap ion-icon {
+    transition: transform 0.3s ease;
+}
+
+#read-more-wrap:hover ion-icon {
+    transform: translateX(3px);
+}
+
+#read-more-text:hover {
+    color: #005673 !important;
+}
