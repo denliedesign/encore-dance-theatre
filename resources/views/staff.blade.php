@@ -152,7 +152,7 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/bella.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/bella.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Bella Denton</h5>
