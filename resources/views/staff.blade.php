@@ -888,7 +888,7 @@ Bio coming soon!
                             <p class="mb-0 mt-2 font-sm">
 
                             {{ str('
-Bio coming soon!
+Hailey grew up in Northeast Ohio, training extensively in all styles of competitive dance. In high school, she moved to Denver, Colorado, where she joined The Silhouettes, who earned 2nd place on America’s Got Talent. Hailey later danced professionally in Hollywood and Las Vegas, performing in shows at Caesar’s Palace. Her career has taken her across the country and internationally, with performances for renowned artists like LeAnn Rimes and major brands such as Coca-Cola. After high school, Hailey attended Florida State University, where she was a proud member of the FSU Golden Girls.
 ')->words(50, '...') }}
                         </p>
                             <div style="background: linear-gradient(to bottom, rgba(248, 250, 252, 0) 0%, rgba(248, 250, 252, 1) 100%); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
@@ -913,7 +913,7 @@ Bio coming soon!
                             </button>
                         </div>
                         <div class="modal-body">
-                            Bio coming soon!
+                            Hailey grew up in Northeast Ohio, training extensively in all styles of competitive dance. In high school, she moved to Denver, Colorado, where she joined The Silhouettes, who earned 2nd place on America’s Got Talent. Hailey later danced professionally in Hollywood and Las Vegas, performing in shows at Caesar’s Palace. Her career has taken her across the country and internationally, with performances for renowned artists like LeAnn Rimes and major brands such as Coca-Cola. After high school, Hailey attended Florida State University, where she was a proud member of the FSU Golden Girls.
                         </div>
                         <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
