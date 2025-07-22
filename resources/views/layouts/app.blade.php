@@ -207,10 +207,10 @@
             </li>
             <li class="nav-item dropdown">
                 <a class="nav-link" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    About Us
+                    About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="/mission">About Us</a>
+                    <a class="dropdown-item" href="/mission">About</a>
                     <a class="dropdown-item" href="/staff">Our Faculty</a>
                     <a class="dropdown-item" href="/mission#facility">Our Facility</a>
                 </div>
@@ -229,9 +229,9 @@
 {{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="https://sites.google.com/view/edtrecital2021/home" target="_blank">Recital</a>--}}
 {{--            </li>--}}
-            <li class="nav-item">
-                <a class="nav-link" href="/summer">Summer</a>
-            </li>
+{{--            <li class="nav-item">--}}
+{{--                <a class="nav-link" href="/summer">Summer</a>--}}
+{{--            </li>--}}
 {{--            <li class="nav-item">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
 {{--                <a class="nav-link" href="/fall">Fall</a>--}}
@@ -249,14 +249,14 @@
                     <a class="dropdown-item" href="/teams#competitive">Elite Team</a>
                 </div>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2025" target="_blank">Recital</a>
-            </li>
+{{--            <li class="nav-item">--}}
+{{--                <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2025" target="_blank">Recital</a>--}}
+{{--            </li>--}}
             <li class="nav-item">
                 <a class="nav-link" type="button" data-toggle="modal" data-target="#leadModal" target="_blank">Register</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="/contact">Contact Us</a>
+                <a class="nav-link" href="/contact">Contact</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/news">News</a>

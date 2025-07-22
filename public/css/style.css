@@ -345,6 +345,16 @@ h1 {
     width: 100%;
 }
 
+.club-bg {
+    background: url("/images/club-team.jpeg");
+    background-attachment: fixed;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
 .choose-bg {
     background: url("/images/about-edt.jpg");
     background-attachment: fixed;

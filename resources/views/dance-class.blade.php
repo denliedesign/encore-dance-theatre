@@ -218,27 +218,27 @@
                 </div>
             </div>
         </div>
-        <div class="col mb-4 animate-class">
-            <div class="accordion" id="classesAccordion">
-                <div class="card">
-                    <img src="images/Modern.jpg" alt="">
-                    <div class="card-header" id="classesDown">
-                        <h5 class="mb-0 text-center">
-                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseModern" aria-expanded="true" aria-controls="collapseOne">
-                                Modern
-                            </button>
-                        </h5>
-                    </div>
+{{--        <div class="col mb-4 animate-class">--}}
+{{--            <div class="accordion" id="classesAccordion">--}}
+{{--                <div class="card">--}}
+{{--                    <img src="images/Modern.jpg" alt="">--}}
+{{--                    <div class="card-header" id="classesDown">--}}
+{{--                        <h5 class="mb-0 text-center">--}}
+{{--                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseModern" aria-expanded="true" aria-controls="collapseOne">--}}
+{{--                                Modern--}}
+{{--                            </button>--}}
+{{--                        </h5>--}}
+{{--                    </div>--}}
 
-                    <div id="collapseModern" class="collapse" aria-labelledby="classesDown" data-parent="#classesAccordion">
-                        <div class="card-body">
-                            Modern dance is a dance style that centers on a dancer’s own interpretations instead of structured steps, as in traditional ballet dancing. Modern dancers reject the limitations of classical ballet and favor movements derived from the expression of their inner feelings.
+{{--                    <div id="collapseModern" class="collapse" aria-labelledby="classesDown" data-parent="#classesAccordion">--}}
+{{--                        <div class="card-body">--}}
+{{--                            Modern dance is a dance style that centers on a dancer’s own interpretations instead of structured steps, as in traditional ballet dancing. Modern dancers reject the limitations of classical ballet and favor movements derived from the expression of their inner feelings.--}}
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 {{--        <div class="col mb-4 animate-class">--}}
 {{--            <div class="accordion" id="classesAccordion">--}}
 {{--                <div class="card">--}}

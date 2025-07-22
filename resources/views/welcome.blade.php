@@ -171,13 +171,14 @@
     <div class="bg-dark">
         <div class="container">
             <div class="row py-5">
-                <div class="col-md-7 text-center d-flex align-items-center">
+                <div class="col-md-7 text-center">
                     <div>
+                        <button class="btn btn-lg btn-outline-primary mb-2">Welcome to<br><span id="encore-btn">Encore</span><br>Dance Theatre</button>
+
                         <h1 class="text-uppercase">We Have Built a Reputation for Excellence in Dance Instruction</h1>
                         <p style="font-size: 1.25em; line-height: 2.5;">
                             Encore Dance Theatre has been welcoming dance enthusiasts of all ages and skill levels for more than 30 combined years. From your child’s first class to their graduation performance, EDT has a class for everyone! We offer training from beginners of all ages through pre-professional levels. But, EDT is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
                         </p>
-                        <button class="btn btn-lg btn-outline-primary mb-2">Welcome to<br><span id="encore-btn">Encore</span><br>Dance Theatre</button>
                     </div>
                 </div>
                 <div class="col-md-5 text-center" id="tryit">
@@ -444,10 +445,10 @@
     <div class="partners d-none d-md-block">
         <div class="container">
             <div class="row d-flex align-items-center px-0 mx-0">
-                <div class="col img-fluid"><a><img src="images/partner-mtjgd.png" style="width: 100%;"></a></div>
+                <div class="col img-fluid"><a><img src="images/badge-mtjgd.png" style="width: 100%;"></a></div>
                 {{--            <div class="col img-fluid"><a><img src="images/partner-sou.png" style="width: 100%;"></a></div>--}}
                 {{--            <div class="col img-fluid"><a><img src="images/partner3.png" style="width: 100%;"></a></div>--}}
-                <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>
+{{--                <div class="col img-fluid"><a><img src="images/partner1.png" style="width: 100%;"></a></div>--}}
                 {{--            <div class="col img-fluid"><a><img src="images/partner4.png" style="width: 100%;"></a></div>--}}
                 <div class="col img-fluid"><a><img src="images/partner5.png" style="width: 100%;"></a></div>
                 <div class="col img-fluid"><a><img src="images/twinkle-logo.png" style="width: 100%;"></a></div>

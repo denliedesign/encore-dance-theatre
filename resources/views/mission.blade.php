@@ -56,7 +56,9 @@
 
     <div id="values" class="d-flex justify-content-center">
         <div class="container">
-            <img src="images/edt-culture.jpg" alt="encore list of values" class="img-fluid">
+            <div class="d-flex justify-content-center">
+                <img src="images/poster-culture.jpeg" alt="encore list of values" class="img-fluid">
+            </div>
         </div>
     </div>
 
