@@ -247,6 +247,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                     <a class="dropdown-item" href="/teams">All Stars Team</a>
                     <a class="dropdown-item" href="/teams#competitive">Elite Team</a>
+                    <a class="dropdown-item" href="/teams#club">Club Team</a>
                 </div>
             </li>
 {{--            <li class="nav-item">--}}

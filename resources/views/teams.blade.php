@@ -3,10 +3,10 @@
 @section('description', '')
 @section('content')
 
-    <div class="team-bg-wrap d-none d-md-block">
-        <div class="performance-bg"></div>
-    </div>
-    <img src="/images/performance.jpg" alt="dancers lying on stage" class="d-block d-md-none img-fluid">
+{{--    <div class="team-bg-wrap d-none d-md-block">--}}
+{{--        <div class="performance-bg"></div>--}}
+{{--    </div>--}}
+    <img src="/images/performance.jpg" alt="dancers lying on stage" style="width: 100%; object-fit: cover; height: auto;">
 
     <h1 class="head py-4">All Stars Team</h1>
     <div class="container py-4">
@@ -26,10 +26,10 @@
         </div>
     </div>
 
-    <div class="team-bg-wrap d-none d-md-block" id="competitive">
-        <div class="competitive-bg"></div>
-    </div>
-    <img src="/images/competitive.JPG" alt="dancer leaping on stage" class="img-fluid d-block d-md-none">
+{{--    <div class="team-bg-wrap d-none d-md-block" id="competitive">--}}
+{{--        <div class="competitive-bg"></div>--}}
+{{--    </div>--}}
+    <img id="competitive" src="/images/competitive.JPG" alt="dancer leaping on stage" style="width: 100%; object-fit: cover; height: auto;">
 
     <h1 class="head py-4">Elite Team</h1>
     <div class="container py-4">
@@ -51,10 +51,10 @@
 
 
 
-    <div class="team-bg-wrap d-none d-md-block" id="competitive">
-        <div class="club-bg"></div>
-    </div>
-    <img src="/images/club-team.jpeg" alt="dancer leaping on stage" class="img-fluid d-block d-md-none">
+{{--    <div class="team-bg-wrap d-none d-md-block" id="competitive">--}}
+{{--        <div class="club-bg"></div>--}}
+{{--    </div>--}}
+    <img id="club" src="/images/club-team.jpeg" alt="dancer leaping on stage" style="width: 100%; object-fit: cover; height: auto;">
     <h1 class="head py-4">Club Team</h1>
     <div class="container py-4">
         <p class="text-center" style="font-size: 1.25em">
