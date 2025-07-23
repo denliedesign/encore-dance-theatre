@@ -20,7 +20,7 @@
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/anne.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/anne-bg.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Anne Brodsky</h5>
@@ -64,7 +64,7 @@
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/deana.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/deana-crop.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Deana Brickley</h5>
@@ -152,7 +152,7 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/bella.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/bella-crop.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Bella Denton</h5>
@@ -200,7 +200,7 @@ Bella is currently a Miami Dolphins Cheerleader, and takes pride in dancing at a
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/nelly.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/nelly-crop.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Nelly Gibilterra</h5>
@@ -419,7 +419,7 @@ Noeah has taught students all around the world from young dancers all the way to
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/tori-jacobson.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/tori-crop.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Tori Jacobson</h5>
@@ -527,7 +527,7 @@ Jordan holds a bachelor’s degree in Business Administration from Liberty Unive
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/natasha.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/natasha-crop.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Natasha Madrigal</h5>
@@ -574,7 +574,7 @@ Jordan holds a bachelor’s degree in Business Administration from Liberty Unive
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/shaelynn.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/shaelynn-4.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Shaelynn Padilla</h5>
@@ -676,7 +676,7 @@ In addition to her dance career, Kalanie is pursuing a degree in Communication S
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/marlee.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/marlee-crop.jpg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Marlee Ramirez-Santana</h5>
@@ -880,7 +880,7 @@ Bio coming soon!
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
-                        <img src="/images/hailey.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                        <img src="/images/hailey-crop.jpeg" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
                     </div>
                     <div id="usedtobecolsm">
                         <h5 class="fw-bold mb-0 pb-0">Hailey Walsh</h5>
