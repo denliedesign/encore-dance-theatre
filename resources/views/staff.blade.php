@@ -116,7 +116,9 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
                         <div style="position: relative;">
                             <p class="mb-0 mt-2 font-sm">
 
-                            {{ str('Bio coming soon!')->words(50, '...') }}
+                            {{ str('
+Ms Karen is part of our friendly front desk staff, always ready to lend a helping hand or a welcoming smile. She brings a background in corporate Human Resources and many years of experience assisting families in their dance education. As a proud Dance Mom of over 15 years, she understands the dance journey from a parent\'s perspective and is committed to creating a positive, supportive experience for both dancers and their families.
+')->words(50, '...') }}
                         </p>
                             <div style="background: linear-gradient(to bottom, rgba(248, 250, 252, 0) 0%, rgba(248, 250, 252, 1) 100%); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
                         </div>
@@ -140,7 +142,7 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
                             </button>
                         </div>
                         <div class="modal-body">
-                            Bio coming soon!
+                            Ms Karen is part of our friendly front desk staff, always ready to lend a helping hand or a welcoming smile. She brings a background in corporate Human Resources and many years of experience assisting families in their dance education. As a proud Dance Mom of over 15 years, she understands the dance journey from a parent's perspective and is committed to creating a positive, supportive experience for both dancers and their families.
                         </div>
                         <div class="modal-footer d-flex justify-content-center">
                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
