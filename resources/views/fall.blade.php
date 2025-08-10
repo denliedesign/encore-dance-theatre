@@ -22,7 +22,7 @@
                 </div>
             </div>
             <div class="col-sm mb-3">
-                <img src="/images/fall-2025-2.png" alt="fall classes" class="img-fluid rounded shadow">
+                <img src="/images/fall-2025-2b.png" alt="fall classes" class="img-fluid rounded shadow">
                 <div class="d-flex justify-content-center">
                     <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
                 </div>
