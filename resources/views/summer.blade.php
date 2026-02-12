@@ -10,7 +10,7 @@
             <a href="https://app.thestudiodirector.com/encoredancetheatreofs/portal.sd?page=Login" target="_blank" style="text-decoration: none;"><button class="btn btn-lg btn-danger my-4" style="margin: 0 auto; display: block;">REGISTER NOW!</button></a>
         </div>
         <div class="d-flex justify-content-center">
-            <img src="/images/summer-26.png" class="img-fluid" alt="">
+            <img src="/images/summer-26b.png" class="img-fluid" alt="">
         </div>
 {{--        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2 my-3">--}}
 {{--            <img src="/images/2025-summer-1.png" alt="summer classes" class="img-fluid p-2">--}}
