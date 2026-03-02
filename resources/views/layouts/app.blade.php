@@ -299,11 +299,12 @@
 
 <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
 
-<script
-    src="https://widgets.leadconnectorhq.com/loader.js"
-    data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"
-    data-widget-id="6799aa6e36fcddfdd18e8aab"  >
-</script>
+{{--<script--}}
+{{--    src="https://widgets.leadconnectorhq.com/loader.js"--}}
+{{--    data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js"--}}
+{{--    data-widget-id="6799aa6e36fcddfdd18e8aab"  >--}}
+{{--</script>--}}
+<script src="https://widgetplus.enrollio.ai/widget.js?location=0tGf5ySO5KpERFTR0loZ" data-location=0tGf5ySO5KpERFTR0loZ></script>
 
 <script>
     AOS.init({
