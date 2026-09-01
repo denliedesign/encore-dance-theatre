@@ -227,7 +227,9 @@
                 </div>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://sites.google.com/edtfl.com/recital2026/home" target="_blank">Recital</a>
+                <a class="nav-link" href="
+                https://sites.google.com/edtfl.com/recital-2027/location-and-times
+                " target="_blank">Recital</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/summer">Summer</a>
