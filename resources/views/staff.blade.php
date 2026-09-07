@@ -106,6 +106,55 @@ Deana is from Orlando, Florida. She had the honor of being a New York City Radio
                 </div>
             </div>
 
+            <!-- LILY -->
+
+            <div class="col-md-6 col-lg-4 my-3">
+                <div id="usedtoberow">
+                    <div id="usedtobecolsm">
+                        <img src="/images/lily.png" class="rounded mb-3" style="height: 425px; width: 100%; object-fit: cover; object-position: top;" alt="Instructor Name">
+                    </div>
+                    <div id="usedtobecolsm">
+                        <h5 class="fw-bold mb-0 pb-0">Lily Coniglio</h5>
+                        <div style="position: relative;">
+                            <p class="mb-0 mt-2 font-sm">
+
+                                {{ str('
+    Lily Coniglio, a professional dancer from South Florida, is so excited to officially join the Encore family. Some of her credits include the honor of performing at Carnegie Hall multiple times where she worked with Alan Menken, Cyndi Lauper, Ashley Park, Kelly O’Hara, and many others. Lily performed with the original Broadway cast of Newsies at Walt Disney World alongside 500 other dancers from around the country for their Christmas special on ABC. Lily also trained at the Radio City Rockettes Summer Intensive for multiple summers. Lily is thrilled to share her joy, knowledge, and passion with her students.
+    ')->words(50, '...') }}
+                            </p>
+                            <div style="background: linear-gradient(to bottom, rgba(248, 250, 252, 0) 0%, rgba(248, 250, 252, 1) 100%); height: 100%; width: 100%; position: absolute; top: 0; left: 0;"></div>
+                        </div>
+                        <div type="button" data-toggle="modal" data-target="#LilyModal">
+                            <div class="d-flex justify-content-start" id="read-more-wrap">
+                                <div style="color: #0292BC;" id="read-more-text">Read More</div>
+                                <div class="d-flex align-items-center"><ion-icon style="font-size: 20px;" name="chevron-forward"></ion-icon></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Modal -->
+            <div class="modal fade" id="LilyModal" tabindex="-1" aria-labelledby="LilyModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="LilyModalLabel">Lily Coniglio</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            Lily Coniglio, a professional dancer from South Florida, is so excited to officially join the Encore family. Some of her credits include the honor of performing at Carnegie Hall multiple times where she worked with Alan Menken, Cyndi Lauper, Ashley Park, Kelly O’Hara, and many others. Lily performed with the original Broadway cast of Newsies at Walt Disney World alongside 500 other dancers from around the country for their Christmas special on ABC. Lily also trained at the Radio City Rockettes Summer Intensive for multiple summers. Lily is thrilled to share her joy, knowledge, and passion with her students.
+                        </div>
+                        <div class="modal-footer d-flex justify-content-center">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- END LILY -->
+
             <div class="col-md-6 col-lg-4 my-3">
                 <div id="usedtoberow">
                     <div id="usedtobecolsm">
