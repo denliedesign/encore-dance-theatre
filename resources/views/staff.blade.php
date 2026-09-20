@@ -19,7 +19,7 @@
         <div class="row gy-4 poppins">
             <x-staff-member
                 name="Anne Brodsky"
-                image="/images/2026-staff/anne-brodsky.jpg"
+                image="/images/2026-faculty/anne-brodsky.webp"
                 modal-id="AnneModal"
                 role="Owner/Artistic Director"
             >
@@ -28,7 +28,7 @@
 
             <x-staff-member
                 name="Emily Bromberg"
-                image="/images/2026-staff/emily-bromberg.png"
+                image="/images/2026-faculty/emily-bromberg.webp"
                 modal-id="EmilyModal"
             >
                 Emily Bromberg grew up in Orlando, FL dancing at Rolann’s School of the Dance and Orlando Ballet. At 14 years old Emily boarded at Kirov Academy of Ballet (Universal Ballet) for their academic year and summer on scholarship.
@@ -44,7 +44,7 @@
 
             <x-staff-member
                 name="Madison Cantor"
-                image="/images/2026-staff/madison-cantor.jpeg"
+                image="/images/2026-faculty/madison-cantor.webp"
                 modal-id="MadisonModal"
             >
                 Madison Ashley is a professional dancer with a B.A. in Dance from Nova Southeastern University and spent three seasons as a Miami HEAT dancer. Trained in hip-hop, jazz funk, commercial jazz, contemporary, and Latin fusion, she is passionate about helping young dancers grow in confidence, artistry, and their love for dance.
@@ -52,7 +52,7 @@
 
             <x-staff-member
                 name="Lily Coniglio"
-                image="/images/2026-staff/lily-coniglio.png"
+                image="/images/2026-faculty/lily-coniglio.webp"
                 modal-id="LilyModal"
             >
                 Lily Coniglio, a professional dancer from South Florida, is so excited to officially join the Encore family. Some of her credits include the honor of performing at Carnegie Hall multiple times where she worked with Alan Menken, Cyndi Lauper, Ashley Park, Kelly O’Hara, and many others. Lily performed with the original Broadway cast of Newsies at Walt Disney World alongside 500 other dancers from around the country for their Christmas special on ABC. Lily also trained at the Radio City Rockettes Summer Intensive for multiple summers. Lily is thrilled to share her joy, knowledge, and passion with her students.
@@ -62,7 +62,7 @@
 
             <x-staff-member
                 name="Karen Cowart"
-                image="/images/karen.png"
+                image="/images/2026-faculty/karen-cowart.webp"
                 modal-id="KarenModal"
             >
                 Ms Karen is part of our friendly front desk staff, always ready to lend a helping hand or a welcoming smile. She brings a background in corporate Human Resources and many years of experience assisting families in their dance education. As a proud Dance Mom of over 15 years, she understands the dance journey from a parent's perspective and is committed to creating a positive, supportive experience for both dancers and their families.
@@ -72,7 +72,7 @@
 
             <x-staff-member
                 name="Bella Denton"
-                image="/images/2026-staff/bella-denton.jpeg"
+                image="/images/2026-faculty/bella-denton.webp"
                 modal-id="BellaModal"
             >
                 Bella Denton grew up in South Florida, and began dancing at the age of 3 training in ballet/pointe, tap, jazz, musical theatre, jazz funk and contemporary/lyrical. Right out of highschool she was accepted into Broadway Dance Center’s Professional Semester and spent 7 months in New York City training with some of the best teachers in the industry, performing, and learning the ins and outs of the professional dance world. After her time in NYC, Bella was invited and had her Choreography chosen to perform at Europe's top art festival: Festival Fringe in Edinburgh, Scotland. Afterwards, she moved back to South Florida and spent one season dancing on the Florida Panthers Dance Team.
@@ -82,7 +82,7 @@
 
             <x-staff-member
                 name="Nelly Gibilterra"
-                image="/images/2026-staff/nelly-gibilterra.png"
+                image="/images/2026-faculty/nelly-gibilterra.webp"
                 modal-id="NellyModal"
             >
                 Nelly Gibilterra has been part of Encore Dance Theatre since 2019, bringing over 20 years of experience in dance, gymnastics, and studio management. Before joining Encore, she worked at All American Gymnastics in Long Island and performed with a private event company in Manhattan.
@@ -96,7 +96,7 @@
 
             <x-staff-member
                 name="Deana Gilday"
-                image="/images/2026-staff/deana-gilday.jpeg"
+                image="/images/2026-faculty/deana-gilday.webp"
                 modal-id="DeanaModal"
             >
                 Deana is from Orlando, Florida. She had the honor of being a New York City Radio City Music Hall Rockette for several seasons. Among her other accomplishments are: the TV show Glee, Smash, Bad Romance music video with Lady Gaga, PSA with Beyonce, performed with Jennifer Lopez at the American Music Video Awards, America’s Got Talent, and can be seen dancing with Lady Gaga in the MTV Video Awards. She has worked with prestigious artists and choreographers including assisting the Emmy award winning SYTYCD choreographer, Tessandra Chavez. She has also performed in the Equity production of Beauty and the Beast at Disney World as well as a high-kick dancer in Universal Studios.
@@ -104,7 +104,7 @@
 
             <x-staff-member
                 name="Deanna Greist"
-                image="/images/2026-staff/deanna-greist.png"
+                image="/images/2026-faculty/deanna-greist.webp"
                 modal-id="DeannaModal"
             >
                 Deanna Greist grew up in South Florida and began her training at Jill Mallory Studio of Dance at the age of three. In high school, she trained at Donna Lee Studio of Dance and became an inaugural member of Expressions Dance Company where she was afforded the opportunity to work with nationally renowned choreographers, such as Rennie and Rhee Gold, Scott Fowler, and Debbie Dee. At the age of 18, Deanna became a member of The Young Americans where she benefitted from multiple national touring opportunities including working with and performing for the likes of Barbra Streisand, George Burns, and Shirley MacLaine to name a few.
@@ -114,7 +114,7 @@
 
             <x-staff-member
                 name="Luz Monica Guerrero"
-                image="/images/2026-staff/luz-monica-guerrero.png"
+                image="/images/2026-faculty/luz-monica-guerrero.webp"
                 modal-id="LuzModal"
             >
                 Luz Monica is a graduate in Performing Arts, with a specialty in Ballet, graduated with a Gold Degree from the Higher Institute of Art of Havana, postgraduate in Historical Dances and Dances of Character, of Elementary and Middle level in the Superior Institute of Art of Havana. With vast experience in teaching, teaching courses in Classical Technique, Character Dances, Point Techniques and Repertoire at various levels. With pedagogical, didactic, methodological and administrative tools to guarantee the integral development of schools and dance academies; special interest in teaching, vocational guidance and planning and organization of the artistic curriculum. Co-creator and administrator of the La Luz de la Danza Foundation. With skills for work under pressure, achievement orientation and high-performance capacity in tasks of responsibility and exigency. We are thrilled to have Luz Monica on faculty.
@@ -126,7 +126,7 @@
 
             <x-staff-member
                 name="Noeah Jacobs"
-                image="/images/2026-staff/noeah-jacobs.png"
+                image="/images/2026-faculty/noeah-jacobs.webp"
                 modal-id="NoeahModal"
             >
                 Noeah Jacobs is from west palm beach Florida, is 28 years old and became a professional
@@ -166,7 +166,7 @@
 
             <x-staff-member
                 name="Natasha Madrigal"
-                image="/images/2026-staff/natasha-madrigal.png"
+                image="/images/2026-faculty/natasha-madrigal.webp"
                 modal-id="NatashaModal"
             >
                 Natasha grew up in Coral Springs, Florida. She started dancing at 4 years old and was a student at encore dance theater for 12 years. She was a part of the company team, training and competing in all dance styles. She has also had the opportunity to perform at the Miami Heat and Dolphins Halftime, Royal Caribbean Show, and Dance the Magic Disney Parade all with Encore. Natasha is currently a student at Nova Southeastern University, majoring in Entrepreneurship and minoring in dance. She has performed at NSU each semester in a variety of events. At 19 years old, she became a professional dancer for the NHL Florida Panthers. She continues to attend multiple dance workshops to better herself and proceed with her dance career in pro sports. Natasha is a proud alumni and is so excited to share her love for dance with her EDT family!
@@ -174,7 +174,7 @@
 
             <x-staff-member
                 name="Priya Nair"
-                image="/images/2026-staff/priya-nair.png"
+                image="/images/2026-faculty/priya-nair.webp"
                 modal-id="PriyaNairModal"
             >
                 Bio coming soon!
@@ -182,7 +182,7 @@
 
             <x-staff-member
                 name="Shaelynn Padilla"
-                image="/images/2026-staff/shaelynn-padilla.png"
+                image="/images/2026-faculty/shaelynn-padilla.webp"
                 modal-id="ShaelynnModal"
             >
                 Shaelynn began dancing at the age of four and found her dance home at Encore just a few years later. What started as a love for musical theatre quickly expanded into a passion for jazz and, most notably, hip hop—captivated by its power, energy, and expressive freedom. As her training progressed, Shaelynn became a dedicated member of Encore’s Competitive Company, where she not only grew as a performer but also forged lifelong friendships and unforgettable memories.
@@ -192,7 +192,7 @@
 
             <x-staff-member
                 name="Kalanie Ramirez"
-                image="/images/2026-staff/kalanie-ramirez.png"
+                image="/images/2026-faculty/kalanie-ramirez.webp"
                 modal-id="KalanieModal"
             >
                 Kalanie began her dance journey at just two years old at Dancing Plus, where she dedicated 15 years to training in a wide range of styles, including ballet, tap, jazz, ballroom, lyrical, hip hop, and acro. Her passion for dance extended beyond the studio, as she became an active member of her high school’s arts conservatory and proudly performed with the Somerset Pantherettes dance team.
@@ -204,7 +204,7 @@
 
             <x-staff-member
                 name="Marlee Ramirez-Santana"
-                image="/images/2026-staff/marlee-ramirez.jpg"
+                image="/images/2026-faculty/marlee-ramirez-santana.webp"
                 modal-id="MarleeModal"
             >
                 Marlee has been a veteran of Encore Dance Theatre for 27 years. She has a Bachelors Degree in Exceptional Student Education with a Masters Degree in Educational Leadership. Marlee has a special talent to work with all levels. In her dance career she has performed with Ballet Met, The Power Rangers, and the Orange Bowl parade to name a few.
@@ -218,7 +218,7 @@
 
             <x-staff-member
                 name="Reyneris Reyes"
-                image="/images/reyneris.png"
+                image="/images/2026-faculty/reyneris-reyes.webp"
                 modal-id="ReynerisModal"
             >
                 Reyneris Reyes was born in Dimas-Mantua Pinar Del Rio, Cuba. He received his training at the Vocational School of Art in Pinar Del Rio and The National Ballet School in Havana. He received additional training at Cuballet summer dance program in Matanzas, Cuba, as well as with renowned teachers Ramona de Saa Bello, Berto Borges, Mabel Carillo, Adria Vélazquez, Magaly Suarez, Ana Julia Bermudez, Maria Cristina Alvarez, Josefina Mendez and others.
@@ -228,7 +228,7 @@
 
             <x-staff-member
                 name="Alana Scheuerer"
-                image="/images/2026-staff/alana-scheurer.png"
+                image="/images/2026-faculty/alana-scheuerer.webp"
                 modal-id="AlanaModal"
             >
                 Alana holds an M.A. in American Dance Studies from Florida State University. Growing up as an award winning competitive dancer in South Florida, she specializes in tap. Alana helped found and run FSU’s first tap dance team, Seminole Tap Troupe, competed with student-run competitive dance team Seminole Dance Force, and served as hospitality coordinator for Dance Marathon. Alana has experience with hosting cultural stages at art festivals, producing and voicing NBC Comcast commercials, hosting live radio, and teaching dance workshops. She holds a seat on Coral Springs Public Art Committee and currently serves as the 85th Anniversary Miss Broward County, with her community service initiative of TAP: Turn up Artistic Participation. She works full time operating special events at the Museum of Discovery Science in downtown Fort Lauderdale, having worked with brands such as LEGO, Publix, and Joe DiMaggio Children’s Hospital. In March 2023, she led plans and operations for the 8,000 attendee Visit Lauderdale Science Festival. She’s excited to join the EDT Family and share her love for tap!
@@ -246,7 +246,7 @@
 
             <x-staff-member
                 name="Stacy Terry"
-                image="/images/2026-staff/stacy-terry.png"
+                image="/images/2026-faculty/stacy-terry.webp"
                 modal-id="StacyModal"
             >
                 Bio coming soon!
@@ -254,7 +254,7 @@
 
             <x-staff-member
                 name="Emily Vernuccio"
-                image="/images/2026-staff/emily-vernuccio.jpg"
+                image="/images/2026-faculty/emily-vernuccio.webp"
                 modal-id="EmilyVernuccioModal"
             >
                 Bio coming soon!
@@ -262,7 +262,7 @@
 
             <x-staff-member
                 name="Hailey Walsh"
-                image="/images/2026-staff/hailey-walsh.png"
+                image="/images/2026-faculty/hailey-walsh.webp"
                 modal-id="HaileyModal"
             >
                 Hailey grew up in Northeast Ohio, training extensively in all styles of competitive dance. In high school, she moved to Denver, Colorado, where she joined The Silhouettes, who earned 2nd place on America’s Got Talent. Hailey later danced professionally in Hollywood and Las Vegas, performing in shows at Caesar’s Palace. Her career has taken her across the country and internationally, with performances for renowned artists like LeAnn Rimes and major brands such as Coca-Cola. After high school, Hailey attended Florida State University, where she was a proud member of the FSU Golden Girls.
@@ -270,7 +270,7 @@
 
             <x-staff-member
                 name="Rae Wilcoxson"
-                image="/images/2026-staff/rae-wilcoxson.png"
+                image="/images/2026-faculty/rae-wilcoxson.webp"
                 modal-id="RaeWilcoxsonModal"
             >
                 Bio coming soon!
