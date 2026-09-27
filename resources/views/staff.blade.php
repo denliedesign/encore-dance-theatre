@@ -28,7 +28,7 @@
 
             <x-staff-member
                 name="Emily Bromberg"
-                image="/images/2026-faculty/emily-bromberg.webp"
+                image="/images/2026-faculty/emily-bromberg.webp?v=20260926"
                 modal-id="EmilyModal"
             >
                 Emily Bromberg grew up in Orlando, FL dancing at Rolann’s School of the Dance and Orlando Ballet. At 14 years old Emily boarded at Kirov Academy of Ballet (Universal Ballet) for their academic year and summer on scholarship.
@@ -166,7 +166,7 @@
 
             <x-staff-member
                 name="Natasha Madrigal"
-                image="/images/2026-faculty/natasha-madrigal.webp"
+                image="/images/2026-faculty/natasha-madrigal.webp?v=20260926"
                 modal-id="NatashaModal"
             >
                 Natasha grew up in Coral Springs, Florida. She started dancing at 4 years old and was a student at encore dance theater for 12 years. She was a part of the company team, training and competing in all dance styles. She has also had the opportunity to perform at the Miami Heat and Dolphins Halftime, Royal Caribbean Show, and Dance the Magic Disney Parade all with Encore. Natasha is currently a student at Nova Southeastern University, majoring in Entrepreneurship and minoring in dance. She has performed at NSU each semester in a variety of events. At 19 years old, she became a professional dancer for the NHL Florida Panthers. She continues to attend multiple dance workshops to better herself and proceed with her dance career in pro sports. Natasha is a proud alumni and is so excited to share her love for dance with her EDT family!
