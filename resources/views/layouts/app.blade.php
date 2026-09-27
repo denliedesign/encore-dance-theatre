@@ -228,7 +228,7 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="
-                https://sites.google.com/edtfl.com/recital-2027/location-and-times
+                https://sites.google.com/edtfl.com/recital-2027/home
                 " target="_blank">Recital</a>
             </li>
             <li class="nav-item">
